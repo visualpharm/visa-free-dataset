@@ -473,7 +473,7 @@ DZA,HND,visa required
 DZA,HKG,14
 DZA,HUN,visa required
 DZA,ISL,visa required
-DZA,IND,visa required
+DZA,IND,e-visa
 DZA,IDN,e-visa
 DZA,IRN,visa on arrival
 DZA,IRQ,e-visa
@@ -1119,7 +1119,7 @@ ATG,NRU,visa required
 ATG,NPL,visa on arrival
 ATG,NLD,90
 ATG,NZL,visa required
-ATG,NIC,90
+ATG,NIC,visa required
 ATG,NER,visa required
 ATG,NGA,e-visa
 ATG,PRK,visa required
@@ -1182,7 +1182,7 @@ ATG,UGA,90
 ATG,UKR,90
 ATG,ARE,e-visa
 ATG,GBR,eta
-ATG,USA,visa required
+ATG,USA,no admission
 ATG,URY,visa required
 ATG,UZB,30
 ATG,VUT,120
@@ -1227,7 +1227,7 @@ ARG,CPV,visa on arrival
 ARG,CAF,visa required
 ARG,TCD,visa required
 ARG,CHL,90
-ARG,CHN,visa required
+ARG,CHN,30
 ARG,COL,90
 ARG,COM,visa on arrival
 ARG,COG,visa required
@@ -1534,7 +1534,7 @@ ARM,PER,visa required
 ARM,PHL,visa required
 ARM,POL,visa required
 ARM,PRT,visa required
-ARM,QAT,visa on arrival
+ARM,QAT,visa free
 ARM,ROU,visa required
 ARM,RUS,90
 ARM,RWA,30
@@ -1543,7 +1543,7 @@ ARM,LCA,visa required
 ARM,WSM,visa on arrival
 ARM,SMR,visa required
 ARM,STP,e-visa
-ARM,SAU,visa required
+ARM,SAU,visa free
 ARM,SEN,visa on arrival
 ARM,SRB,90
 ARM,SYC,90
@@ -1682,7 +1682,7 @@ AUS,KEN,eta
 AUS,KIR,90
 AUS,XKX,90
 AUS,KWT,visa on arrival
-AUS,KGZ,60
+AUS,KGZ,30
 AUS,LAO,visa on arrival
 AUS,LVA,90
 AUS,LBN,visa on arrival
@@ -1723,7 +1723,7 @@ AUS,PRK,visa required
 AUS,MKD,90
 AUS,NOR,90
 AUS,OMN,visa on arrival
-AUS,PAK,eta
+AUS,PAK,e-visa
 AUS,PLW,visa on arrival
 AUS,PSE,visa free
 AUS,PAN,90
@@ -1789,7 +1789,7 @@ AUS,VNM,e-visa
 AUS,YEM,visa required
 AUS,ZMB,90
 AUS,ZWE,visa on arrival
-AUS,AFG,visa required
+AUS,AFG,e-visa
 AUT,ALB,90
 AUT,DZA,visa required
 AUT,AND,visa free
@@ -2313,7 +2313,7 @@ BHS,NRU,visa required
 BHS,NPL,visa on arrival
 BHS,NLD,90
 BHS,NZL,visa required
-BHS,NIC,90
+BHS,NIC,visa required
 BHS,NER,visa required
 BHS,NGA,e-visa
 BHS,PRK,visa required
@@ -2910,7 +2910,7 @@ BRB,NRU,visa required
 BRB,NPL,visa on arrival
 BRB,NLD,90
 BRB,NZL,visa required
-BRB,NIC,90
+BRB,NIC,visa required
 BRB,NER,visa required
 BRB,NGA,e-visa
 BRB,PRK,visa required
@@ -4610,7 +4610,7 @@ BRA,CPV,30
 BRA,CAF,visa required
 BRA,TCD,visa required
 BRA,CHL,90
-BRA,CHN,visa required
+BRA,CHN,30
 BRA,COL,90
 BRA,COM,visa on arrival
 BRA,COG,visa required
@@ -4687,7 +4687,7 @@ BRA,MLT,90
 BRA,MHL,visa on arrival
 BRA,MRT,visa on arrival
 BRA,MUS,90
-BRA,MEX,visa required
+BRA,MEX,e-visa
 BRA,FSM,30
 BRA,MDA,90
 BRA,MCO,90
@@ -6003,7 +6003,7 @@ CAN,CPV,30
 CAN,CAF,visa required
 CAN,TCD,visa required
 CAN,CHL,90
-CAN,CHN,visa required
+CAN,CHN,30
 CAN,COL,90
 CAN,COM,visa on arrival
 CAN,COG,visa required
@@ -6799,7 +6799,7 @@ CHL,CPV,visa on arrival
 CHL,CAF,visa required
 CHL,TCD,visa required
 CHL,CHL,-1
-CHL,CHN,visa required
+CHL,CHN,30
 CHL,COL,90
 CHL,COM,visa on arrival
 CHL,COG,visa required
@@ -7103,7 +7103,7 @@ CHN,PAN,visa required
 CHN,PNG,eta
 CHN,PRY,visa required
 CHN,PER,visa required
-CHN,PHL,visa required
+CHN,PHL,14
 CHN,POL,visa required
 CHN,PRT,visa required
 CHN,QAT,30
@@ -7147,7 +7147,7 @@ CHN,TTO,visa required
 CHN,TUN,90
 CHN,TKM,visa required
 CHN,TUV,visa on arrival
-CHN,TUR,e-visa
+CHN,TUR,visa free
 CHN,UGA,e-visa
 CHN,UKR,visa required
 CHN,ARE,30
@@ -7288,7 +7288,7 @@ COL,NRU,visa required
 COL,NPL,visa on arrival
 COL,NLD,90
 COL,NZL,visa required
-COL,NIC,visa on arrival
+COL,NIC,visa required
 COL,NER,visa required
 COL,NGA,e-visa
 COL,PRK,visa required
@@ -7989,7 +7989,7 @@ CRI,BDI,visa on arrival
 CRI,KHM,visa on arrival
 CRI,CMR,e-visa
 CRI,CAN,visa required
-CRI,CPV,visa on arrival
+CRI,CPV,visa required
 CRI,CAF,visa required
 CRI,TCD,visa required
 CRI,CHL,90
@@ -8681,7 +8681,7 @@ CUB,NRU,visa required
 CUB,NPL,visa on arrival
 CUB,NLD,visa required
 CUB,NZL,visa required
-CUB,NIC,90
+CUB,NIC,visa required
 CUB,NER,visa required
 CUB,NGA,e-visa
 CUB,PRK,visa required
@@ -8744,7 +8744,7 @@ CUB,UGA,e-visa
 CUB,UKR,visa required
 CUB,ARE,e-visa
 CUB,GBR,visa required
-CUB,USA,visa required
+CUB,USA,no admission
 CUB,URY,visa required
 CUB,UZB,30
 CUB,VUT,120
@@ -9739,7 +9739,7 @@ DMA,UGA,e-visa
 DMA,UKR,90
 DMA,ARE,e-visa
 DMA,GBR,visa required
-DMA,USA,visa required
+DMA,USA,no admission
 DMA,URY,90
 DMA,UZB,30
 DMA,VUT,120
@@ -10178,7 +10178,7 @@ EGY,BDI,visa on arrival
 EGY,KHM,visa on arrival
 EGY,CMR,e-visa
 EGY,CAN,visa required
-EGY,CPV,visa on arrival
+EGY,CPV,visa required
 EGY,CAF,visa required
 EGY,TCD,visa required
 EGY,CHL,visa required
@@ -14515,7 +14515,7 @@ HTI,UGA,e-visa
 HTI,UKR,visa required
 HTI,ARE,e-visa
 HTI,GBR,visa required
-HTI,USA,visa required
+HTI,USA,no admission
 HTI,URY,visa required
 HTI,UZB,visa required
 HTI,VUT,visa required
@@ -14734,7 +14734,7 @@ HKG,ARG,90
 HKG,ARM,180
 HKG,AUS,eta
 HKG,AUT,90
-HKG,AZE,visa required
+HKG,AZE,30
 HKG,BHS,90
 HKG,BHR,visa on arrival
 HKG,BGD,visa required
@@ -16745,7 +16745,7 @@ JAM,BDI,visa on arrival
 JAM,KHM,visa on arrival
 JAM,CMR,e-visa
 JAM,CAN,visa required
-JAM,CPV,visa on arrival
+JAM,CPV,visa required
 JAM,CAF,visa required
 JAM,TCD,visa required
 JAM,CHL,90
@@ -19046,7 +19046,7 @@ LBN,PER,visa required
 LBN,PHL,visa required
 LBN,POL,visa required
 LBN,PRT,visa required
-LBN,QAT,visa on arrival
+LBN,QAT,visa required
 LBN,ROU,visa required
 LBN,RUS,visa required
 LBN,RWA,30
@@ -22317,7 +22317,7 @@ MEX,BDI,visa on arrival
 MEX,KHM,visa on arrival
 MEX,CMR,e-visa
 MEX,CAN,visa required
-MEX,CPV,visa on arrival
+MEX,CPV,visa required
 MEX,CAF,visa required
 MEX,TCD,visa required
 MEX,CHL,90
@@ -23864,7 +23864,7 @@ MOZ,TUN,visa required
 MOZ,TKM,visa required
 MOZ,TUV,visa on arrival
 MOZ,TUR,visa required
-MOZ,UGA,e-visa
+MOZ,UGA,visa free
 MOZ,UKR,visa required
 MOZ,ARE,e-visa
 MOZ,GBR,visa required
@@ -24023,7 +24023,7 @@ MMR,POL,visa required
 MMR,PRT,visa required
 MMR,QAT,e-visa
 MMR,ROU,visa required
-MMR,RUS,e-visa
+MMR,RUS,visa free
 MMR,RWA,visa on arrival
 MMR,KNA,e-visa
 MMR,LCA,visa required
@@ -24965,7 +24965,7 @@ NZL,KEN,eta
 NZL,KIR,90
 NZL,XKX,90
 NZL,KWT,visa on arrival
-NZL,KGZ,60
+NZL,KGZ,30
 NZL,LAO,visa on arrival
 NZL,LVA,90
 NZL,LBN,visa on arrival
@@ -25006,7 +25006,7 @@ NZL,PRK,visa required
 NZL,MKD,90
 NZL,NOR,90
 NZL,OMN,90
-NZL,PAK,eta
+NZL,PAK,e-visa
 NZL,PLW,visa on arrival
 NZL,PSE,visa free
 NZL,PAN,90
@@ -27448,7 +27448,7 @@ PNG,TUV,visa on arrival
 PNG,TUR,visa required
 PNG,UGA,e-visa
 PNG,UKR,visa required
-PNG,ARE,e-visa
+PNG,ARE,30
 PNG,GBR,eta
 PNG,USA,visa required
 PNG,URY,visa required
@@ -27694,7 +27694,7 @@ PER,CPV,visa on arrival
 PER,CAF,visa required
 PER,TCD,visa required
 PER,CHL,90
-PER,CHN,visa required
+PER,CHN,30
 PER,COL,90
 PER,COM,visa on arrival
 PER,COG,visa required
@@ -27785,7 +27785,7 @@ PER,NRU,visa required
 PER,NPL,visa on arrival
 PER,NLD,90
 PER,NZL,visa required
-PER,NIC,visa on arrival
+PER,NIC,visa required
 PER,NER,visa required
 PER,NGA,e-visa
 PER,PRK,visa required
@@ -28888,7 +28888,7 @@ RUS,CPV,60
 RUS,CAF,visa required
 RUS,TCD,visa required
 RUS,CHL,90
-RUS,CHN,visa required
+RUS,CHN,30
 RUS,COL,90
 RUS,COM,visa on arrival
 RUS,COG,visa required
@@ -29638,7 +29638,7 @@ LCA,TUR,visa on arrival
 LCA,UGA,e-visa
 LCA,UKR,visa required
 LCA,ARE,e-visa
-LCA,GBR,eta
+LCA,GBR,visa required
 LCA,USA,visa required
 LCA,URY,visa required
 LCA,UZB,30
@@ -30253,7 +30253,7 @@ SAU,AND,visa required
 SAU,AGO,30
 SAU,ATG,e-visa
 SAU,ARG,visa required
-SAU,ARM,e-visa
+SAU,ARM,visa free
 SAU,AUS,e-visa
 SAU,AUT,visa required
 SAU,AZE,visa on arrival
@@ -35944,7 +35944,7 @@ TTO,NRU,visa required
 TTO,NPL,visa on arrival
 TTO,NLD,90
 TTO,NZL,visa required
-TTO,NIC,90
+TTO,NIC,visa required
 TTO,NER,visa required
 TTO,NGA,e-visa
 TTO,PRK,visa required
@@ -36247,7 +36247,7 @@ TUR,BDI,visa on arrival
 TUR,KHM,visa on arrival
 TUR,CMR,e-visa
 TUR,CAN,visa required
-TUR,CPV,visa on arrival
+TUR,CPV,visa required
 TUR,CAF,visa required
 TUR,TCD,visa required
 TUR,CHL,90
@@ -37348,7 +37348,7 @@ ARE,PAK,90
 ARE,PLW,visa on arrival
 ARE,PSE,visa free
 ARE,PAN,90
-ARE,PNG,e-visa
+ARE,PNG,30
 ARE,PRY,90
 ARE,PER,90
 ARE,PHL,30
@@ -37445,7 +37445,7 @@ GBR,CPV,30
 GBR,CAF,visa required
 GBR,TCD,visa required
 GBR,CHL,90
-GBR,CHN,visa required
+GBR,CHN,30
 GBR,COL,90
 GBR,COM,visa on arrival
 GBR,COG,visa required
@@ -37701,7 +37701,7 @@ USA,KEN,eta
 USA,KIR,90
 USA,XKX,90
 USA,KWT,visa on arrival
-USA,KGZ,60
+USA,KGZ,30
 USA,LAO,visa on arrival
 USA,LVA,90
 USA,LBN,visa on arrival
@@ -37800,7 +37800,7 @@ USA,ARE,30
 USA,GBR,eta
 USA,USA,-1
 USA,URY,90
-USA,UZB,e-visa
+USA,UZB,30
 USA,VUT,120
 USA,VAT,90
 USA,VEN,visa required
@@ -37808,7 +37808,7 @@ USA,VNM,e-visa
 USA,YEM,visa required
 USA,ZMB,90
 USA,ZWE,visa on arrival
-USA,AFG,visa required
+USA,AFG,e-visa
 URY,ALB,90
 URY,DZA,visa required
 URY,AND,90
@@ -37843,7 +37843,7 @@ URY,CPV,visa on arrival
 URY,CAF,visa required
 URY,TCD,visa required
 URY,CHL,90
-URY,CHN,visa required
+URY,CHN,30
 URY,COL,90
 URY,COM,visa on arrival
 URY,COG,visa required
@@ -38038,7 +38038,7 @@ UZB,BDI,visa on arrival
 UZB,KHM,visa on arrival
 UZB,CMR,e-visa
 UZB,CAN,visa required
-UZB,CPV,visa on arrival
+UZB,CPV,visa required
 UZB,CAF,visa required
 UZB,TCD,visa required
 UZB,CHL,visa required
@@ -38793,7 +38793,7 @@ VEN,UGA,e-visa
 VEN,UKR,visa required
 VEN,ARE,e-visa
 VEN,GBR,visa required
-VEN,USA,visa required
+VEN,USA,no admission
 VEN,URY,90
 VEN,UZB,e-visa
 VEN,VUT,visa required
@@ -39431,7 +39431,7 @@ ZWE,BDI,visa on arrival
 ZWE,KHM,visa on arrival
 ZWE,CMR,e-visa
 ZWE,CAN,visa required
-ZWE,CPV,visa on arrival
+ZWE,CPV,visa required
 ZWE,CAF,visa required
 ZWE,TCD,visa required
 ZWE,CHL,visa required

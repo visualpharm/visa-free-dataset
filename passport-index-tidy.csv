@@ -473,7 +473,7 @@ Algeria,Honduras,visa required
 Algeria,Hong Kong,14
 Algeria,Hungary,visa required
 Algeria,Iceland,visa required
-Algeria,India,visa required
+Algeria,India,e-visa
 Algeria,Indonesia,e-visa
 Algeria,Iran,visa on arrival
 Algeria,Iraq,e-visa
@@ -1119,7 +1119,7 @@ Antigua and Barbuda,Nauru,visa required
 Antigua and Barbuda,Nepal,visa on arrival
 Antigua and Barbuda,Netherlands,90
 Antigua and Barbuda,New Zealand,visa required
-Antigua and Barbuda,Nicaragua,90
+Antigua and Barbuda,Nicaragua,visa required
 Antigua and Barbuda,Niger,visa required
 Antigua and Barbuda,Nigeria,e-visa
 Antigua and Barbuda,North Korea,visa required
@@ -1182,7 +1182,7 @@ Antigua and Barbuda,Uganda,90
 Antigua and Barbuda,Ukraine,90
 Antigua and Barbuda,United Arab Emirates,e-visa
 Antigua and Barbuda,United Kingdom,eta
-Antigua and Barbuda,United States,visa required
+Antigua and Barbuda,United States,no admission
 Antigua and Barbuda,Uruguay,visa required
 Antigua and Barbuda,Uzbekistan,30
 Antigua and Barbuda,Vanuatu,120
@@ -1534,7 +1534,7 @@ Armenia,Peru,visa required
 Armenia,Philippines,visa required
 Armenia,Poland,visa required
 Armenia,Portugal,visa required
-Armenia,Qatar,visa on arrival
+Armenia,Qatar,visa free
 Armenia,Romania,visa required
 Armenia,Russia,90
 Armenia,Rwanda,30
@@ -1543,7 +1543,7 @@ Armenia,Saint Lucia,visa required
 Armenia,Samoa,visa on arrival
 Armenia,San Marino,visa required
 Armenia,Sao Tome and Principe,e-visa
-Armenia,Saudi Arabia,visa required
+Armenia,Saudi Arabia,visa free
 Armenia,Senegal,visa on arrival
 Armenia,Serbia,90
 Armenia,Seychelles,90
@@ -1682,7 +1682,7 @@ Australia,Kenya,eta
 Australia,Kiribati,90
 Australia,Kosovo,90
 Australia,Kuwait,visa on arrival
-Australia,Kyrgyzstan,60
+Australia,Kyrgyzstan,30
 Australia,Laos,visa on arrival
 Australia,Latvia,90
 Australia,Lebanon,visa on arrival
@@ -1723,7 +1723,7 @@ Australia,North Korea,visa required
 Australia,North Macedonia,90
 Australia,Norway,90
 Australia,Oman,visa on arrival
-Australia,Pakistan,eta
+Australia,Pakistan,e-visa
 Australia,Palau,visa on arrival
 Australia,Palestine,visa free
 Australia,Panama,90
@@ -1789,7 +1789,7 @@ Australia,Vietnam,e-visa
 Australia,Yemen,visa required
 Australia,Zambia,90
 Australia,Zimbabwe,visa on arrival
-Australia,Afghanistan,visa required
+Australia,Afghanistan,e-visa
 Austria,Albania,90
 Austria,Algeria,visa required
 Austria,Andorra,visa free
@@ -2313,7 +2313,7 @@ Bahamas,Nauru,visa required
 Bahamas,Nepal,visa on arrival
 Bahamas,Netherlands,90
 Bahamas,New Zealand,visa required
-Bahamas,Nicaragua,90
+Bahamas,Nicaragua,visa required
 Bahamas,Niger,visa required
 Bahamas,Nigeria,e-visa
 Bahamas,North Korea,visa required
@@ -2910,7 +2910,7 @@ Barbados,Nauru,visa required
 Barbados,Nepal,visa on arrival
 Barbados,Netherlands,90
 Barbados,New Zealand,visa required
-Barbados,Nicaragua,90
+Barbados,Nicaragua,visa required
 Barbados,Niger,visa required
 Barbados,Nigeria,e-visa
 Barbados,North Korea,visa required
@@ -4687,7 +4687,7 @@ Brazil,Malta,90
 Brazil,Marshall Islands,visa on arrival
 Brazil,Mauritania,visa on arrival
 Brazil,Mauritius,90
-Brazil,Mexico,visa required
+Brazil,Mexico,e-visa
 Brazil,Micronesia,30
 Brazil,Moldova,90
 Brazil,Monaco,90
@@ -6003,7 +6003,7 @@ Canada,Cape Verde,30
 Canada,Central African Republic,visa required
 Canada,Chad,visa required
 Canada,Chile,90
-Canada,China,visa required
+Canada,China,30
 Canada,Colombia,90
 Canada,Comoros,visa on arrival
 Canada,Congo,visa required
@@ -7103,7 +7103,7 @@ China,Panama,visa required
 China,Papua New Guinea,eta
 China,Paraguay,visa required
 China,Peru,visa required
-China,Philippines,visa required
+China,Philippines,14
 China,Poland,visa required
 China,Portugal,visa required
 China,Qatar,30
@@ -7147,7 +7147,7 @@ China,Trinidad and Tobago,visa required
 China,Tunisia,90
 China,Turkmenistan,visa required
 China,Tuvalu,visa on arrival
-China,Turkey,e-visa
+China,Turkey,visa free
 China,Uganda,e-visa
 China,Ukraine,visa required
 China,United Arab Emirates,30
@@ -7288,7 +7288,7 @@ Colombia,Nauru,visa required
 Colombia,Nepal,visa on arrival
 Colombia,Netherlands,90
 Colombia,New Zealand,visa required
-Colombia,Nicaragua,visa on arrival
+Colombia,Nicaragua,visa required
 Colombia,Niger,visa required
 Colombia,Nigeria,e-visa
 Colombia,North Korea,visa required
@@ -7989,7 +7989,7 @@ Costa Rica,Burundi,visa on arrival
 Costa Rica,Cambodia,visa on arrival
 Costa Rica,Cameroon,e-visa
 Costa Rica,Canada,visa required
-Costa Rica,Cape Verde,visa on arrival
+Costa Rica,Cape Verde,visa required
 Costa Rica,Central African Republic,visa required
 Costa Rica,Chad,visa required
 Costa Rica,Chile,90
@@ -8681,7 +8681,7 @@ Cuba,Nauru,visa required
 Cuba,Nepal,visa on arrival
 Cuba,Netherlands,visa required
 Cuba,New Zealand,visa required
-Cuba,Nicaragua,90
+Cuba,Nicaragua,visa required
 Cuba,Niger,visa required
 Cuba,Nigeria,e-visa
 Cuba,North Korea,visa required
@@ -8744,7 +8744,7 @@ Cuba,Uganda,e-visa
 Cuba,Ukraine,visa required
 Cuba,United Arab Emirates,e-visa
 Cuba,United Kingdom,visa required
-Cuba,United States,visa required
+Cuba,United States,no admission
 Cuba,Uruguay,visa required
 Cuba,Uzbekistan,30
 Cuba,Vanuatu,120
@@ -9739,7 +9739,7 @@ Dominica,Uganda,e-visa
 Dominica,Ukraine,90
 Dominica,United Arab Emirates,e-visa
 Dominica,United Kingdom,visa required
-Dominica,United States,visa required
+Dominica,United States,no admission
 Dominica,Uruguay,90
 Dominica,Uzbekistan,30
 Dominica,Vanuatu,120
@@ -10178,7 +10178,7 @@ Egypt,Burundi,visa on arrival
 Egypt,Cambodia,visa on arrival
 Egypt,Cameroon,e-visa
 Egypt,Canada,visa required
-Egypt,Cape Verde,visa on arrival
+Egypt,Cape Verde,visa required
 Egypt,Central African Republic,visa required
 Egypt,Chad,visa required
 Egypt,Chile,visa required
@@ -14515,7 +14515,7 @@ Haiti,Uganda,e-visa
 Haiti,Ukraine,visa required
 Haiti,United Arab Emirates,e-visa
 Haiti,United Kingdom,visa required
-Haiti,United States,visa required
+Haiti,United States,no admission
 Haiti,Uruguay,visa required
 Haiti,Uzbekistan,visa required
 Haiti,Vanuatu,visa required
@@ -14734,7 +14734,7 @@ Hong Kong,Argentina,90
 Hong Kong,Armenia,180
 Hong Kong,Australia,eta
 Hong Kong,Austria,90
-Hong Kong,Azerbaijan,visa required
+Hong Kong,Azerbaijan,30
 Hong Kong,Bahamas,90
 Hong Kong,Bahrain,visa on arrival
 Hong Kong,Bangladesh,visa required
@@ -16745,7 +16745,7 @@ Jamaica,Burundi,visa on arrival
 Jamaica,Cambodia,visa on arrival
 Jamaica,Cameroon,e-visa
 Jamaica,Canada,visa required
-Jamaica,Cape Verde,visa on arrival
+Jamaica,Cape Verde,visa required
 Jamaica,Central African Republic,visa required
 Jamaica,Chad,visa required
 Jamaica,Chile,90
@@ -19046,7 +19046,7 @@ Lebanon,Peru,visa required
 Lebanon,Philippines,visa required
 Lebanon,Poland,visa required
 Lebanon,Portugal,visa required
-Lebanon,Qatar,visa on arrival
+Lebanon,Qatar,visa required
 Lebanon,Romania,visa required
 Lebanon,Russia,visa required
 Lebanon,Rwanda,30
@@ -22317,7 +22317,7 @@ Mexico,Burundi,visa on arrival
 Mexico,Cambodia,visa on arrival
 Mexico,Cameroon,e-visa
 Mexico,Canada,visa required
-Mexico,Cape Verde,visa on arrival
+Mexico,Cape Verde,visa required
 Mexico,Central African Republic,visa required
 Mexico,Chad,visa required
 Mexico,Chile,90
@@ -23864,7 +23864,7 @@ Mozambique,Tunisia,visa required
 Mozambique,Turkmenistan,visa required
 Mozambique,Tuvalu,visa on arrival
 Mozambique,Turkey,visa required
-Mozambique,Uganda,e-visa
+Mozambique,Uganda,visa free
 Mozambique,Ukraine,visa required
 Mozambique,United Arab Emirates,e-visa
 Mozambique,United Kingdom,visa required
@@ -24023,7 +24023,7 @@ Myanmar,Poland,visa required
 Myanmar,Portugal,visa required
 Myanmar,Qatar,e-visa
 Myanmar,Romania,visa required
-Myanmar,Russia,e-visa
+Myanmar,Russia,visa free
 Myanmar,Rwanda,visa on arrival
 Myanmar,Saint Kitts and Nevis,e-visa
 Myanmar,Saint Lucia,visa required
@@ -24965,7 +24965,7 @@ New Zealand,Kenya,eta
 New Zealand,Kiribati,90
 New Zealand,Kosovo,90
 New Zealand,Kuwait,visa on arrival
-New Zealand,Kyrgyzstan,60
+New Zealand,Kyrgyzstan,30
 New Zealand,Laos,visa on arrival
 New Zealand,Latvia,90
 New Zealand,Lebanon,visa on arrival
@@ -25006,7 +25006,7 @@ New Zealand,North Korea,visa required
 New Zealand,North Macedonia,90
 New Zealand,Norway,90
 New Zealand,Oman,90
-New Zealand,Pakistan,eta
+New Zealand,Pakistan,e-visa
 New Zealand,Palau,visa on arrival
 New Zealand,Palestine,visa free
 New Zealand,Panama,90
@@ -27448,7 +27448,7 @@ Papua New Guinea,Tuvalu,visa on arrival
 Papua New Guinea,Turkey,visa required
 Papua New Guinea,Uganda,e-visa
 Papua New Guinea,Ukraine,visa required
-Papua New Guinea,United Arab Emirates,e-visa
+Papua New Guinea,United Arab Emirates,30
 Papua New Guinea,United Kingdom,eta
 Papua New Guinea,United States,visa required
 Papua New Guinea,Uruguay,visa required
@@ -27785,7 +27785,7 @@ Peru,Nauru,visa required
 Peru,Nepal,visa on arrival
 Peru,Netherlands,90
 Peru,New Zealand,visa required
-Peru,Nicaragua,visa on arrival
+Peru,Nicaragua,visa required
 Peru,Niger,visa required
 Peru,Nigeria,e-visa
 Peru,North Korea,visa required
@@ -29638,7 +29638,7 @@ Saint Lucia,Turkey,visa on arrival
 Saint Lucia,Uganda,e-visa
 Saint Lucia,Ukraine,visa required
 Saint Lucia,United Arab Emirates,e-visa
-Saint Lucia,United Kingdom,eta
+Saint Lucia,United Kingdom,visa required
 Saint Lucia,United States,visa required
 Saint Lucia,Uruguay,visa required
 Saint Lucia,Uzbekistan,30
@@ -30253,7 +30253,7 @@ Saudi Arabia,Andorra,visa required
 Saudi Arabia,Angola,30
 Saudi Arabia,Antigua and Barbuda,e-visa
 Saudi Arabia,Argentina,visa required
-Saudi Arabia,Armenia,e-visa
+Saudi Arabia,Armenia,visa free
 Saudi Arabia,Australia,e-visa
 Saudi Arabia,Austria,visa required
 Saudi Arabia,Azerbaijan,visa on arrival
@@ -35944,7 +35944,7 @@ Trinidad and Tobago,Nauru,visa required
 Trinidad and Tobago,Nepal,visa on arrival
 Trinidad and Tobago,Netherlands,90
 Trinidad and Tobago,New Zealand,visa required
-Trinidad and Tobago,Nicaragua,90
+Trinidad and Tobago,Nicaragua,visa required
 Trinidad and Tobago,Niger,visa required
 Trinidad and Tobago,Nigeria,e-visa
 Trinidad and Tobago,North Korea,visa required
@@ -36247,7 +36247,7 @@ Turkey,Burundi,visa on arrival
 Turkey,Cambodia,visa on arrival
 Turkey,Cameroon,e-visa
 Turkey,Canada,visa required
-Turkey,Cape Verde,visa on arrival
+Turkey,Cape Verde,visa required
 Turkey,Central African Republic,visa required
 Turkey,Chad,visa required
 Turkey,Chile,90
@@ -37348,7 +37348,7 @@ United Arab Emirates,Pakistan,90
 United Arab Emirates,Palau,visa on arrival
 United Arab Emirates,Palestine,visa free
 United Arab Emirates,Panama,90
-United Arab Emirates,Papua New Guinea,e-visa
+United Arab Emirates,Papua New Guinea,30
 United Arab Emirates,Paraguay,90
 United Arab Emirates,Peru,90
 United Arab Emirates,Philippines,30
@@ -37445,7 +37445,7 @@ United Kingdom,Cape Verde,30
 United Kingdom,Central African Republic,visa required
 United Kingdom,Chad,visa required
 United Kingdom,Chile,90
-United Kingdom,China,visa required
+United Kingdom,China,30
 United Kingdom,Colombia,90
 United Kingdom,Comoros,visa on arrival
 United Kingdom,Congo,visa required
@@ -37701,7 +37701,7 @@ United States,Kenya,eta
 United States,Kiribati,90
 United States,Kosovo,90
 United States,Kuwait,visa on arrival
-United States,Kyrgyzstan,60
+United States,Kyrgyzstan,30
 United States,Laos,visa on arrival
 United States,Latvia,90
 United States,Lebanon,visa on arrival
@@ -37800,7 +37800,7 @@ United States,United Arab Emirates,30
 United States,United Kingdom,eta
 United States,United States,-1
 United States,Uruguay,90
-United States,Uzbekistan,e-visa
+United States,Uzbekistan,30
 United States,Vanuatu,120
 United States,Vatican,90
 United States,Venezuela,visa required
@@ -37808,7 +37808,7 @@ United States,Vietnam,e-visa
 United States,Yemen,visa required
 United States,Zambia,90
 United States,Zimbabwe,visa on arrival
-United States,Afghanistan,visa required
+United States,Afghanistan,e-visa
 Uruguay,Albania,90
 Uruguay,Algeria,visa required
 Uruguay,Andorra,90
@@ -38038,7 +38038,7 @@ Uzbekistan,Burundi,visa on arrival
 Uzbekistan,Cambodia,visa on arrival
 Uzbekistan,Cameroon,e-visa
 Uzbekistan,Canada,visa required
-Uzbekistan,Cape Verde,visa on arrival
+Uzbekistan,Cape Verde,visa required
 Uzbekistan,Central African Republic,visa required
 Uzbekistan,Chad,visa required
 Uzbekistan,Chile,visa required
@@ -38793,7 +38793,7 @@ Venezuela,Uganda,e-visa
 Venezuela,Ukraine,visa required
 Venezuela,United Arab Emirates,e-visa
 Venezuela,United Kingdom,visa required
-Venezuela,United States,visa required
+Venezuela,United States,no admission
 Venezuela,Uruguay,90
 Venezuela,Uzbekistan,e-visa
 Venezuela,Vanuatu,visa required
@@ -39431,7 +39431,7 @@ Zimbabwe,Burundi,visa on arrival
 Zimbabwe,Cambodia,visa on arrival
 Zimbabwe,Cameroon,e-visa
 Zimbabwe,Canada,visa required
-Zimbabwe,Cape Verde,visa on arrival
+Zimbabwe,Cape Verde,visa required
 Zimbabwe,Central African Republic,visa required
 Zimbabwe,Chad,visa required
 Zimbabwe,Chile,visa required
