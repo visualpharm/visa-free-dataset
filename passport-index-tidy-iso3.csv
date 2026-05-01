@@ -1182,7 +1182,7 @@ ATG,UGA,90
 ATG,UKR,90
 ATG,ARE,e-visa
 ATG,GBR,eta
-ATG,USA,no admission
+ATG,USA,visa required
 ATG,URY,visa required
 ATG,UZB,30
 ATG,VUT,120
@@ -8744,7 +8744,7 @@ CUB,UGA,e-visa
 CUB,UKR,visa required
 CUB,ARE,e-visa
 CUB,GBR,visa required
-CUB,USA,no admission
+CUB,USA,visa required
 CUB,URY,visa required
 CUB,UZB,30
 CUB,VUT,120
@@ -9739,7 +9739,7 @@ DMA,UGA,e-visa
 DMA,UKR,90
 DMA,ARE,e-visa
 DMA,GBR,visa required
-DMA,USA,no admission
+DMA,USA,visa required
 DMA,URY,90
 DMA,UZB,30
 DMA,VUT,120
@@ -38793,7 +38793,7 @@ VEN,UGA,e-visa
 VEN,UKR,visa required
 VEN,ARE,e-visa
 VEN,GBR,visa required
-VEN,USA,no admission
+VEN,USA,visa required
 VEN,URY,90
 VEN,UZB,e-visa
 VEN,VUT,visa required

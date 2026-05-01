@@ -1182,7 +1182,7 @@ AG,UG,90
 AG,UA,90
 AG,AE,e-visa
 AG,GB,eta
-AG,US,no admission
+AG,US,visa required
 AG,UY,visa required
 AG,UZ,30
 AG,VU,120
@@ -8744,7 +8744,7 @@ CU,UG,e-visa
 CU,UA,visa required
 CU,AE,e-visa
 CU,GB,visa required
-CU,US,no admission
+CU,US,visa required
 CU,UY,visa required
 CU,UZ,30
 CU,VU,120
@@ -9739,7 +9739,7 @@ DM,UG,e-visa
 DM,UA,90
 DM,AE,e-visa
 DM,GB,visa required
-DM,US,no admission
+DM,US,visa required
 DM,UY,90
 DM,UZ,30
 DM,VU,120
@@ -38793,7 +38793,7 @@ VE,UG,e-visa
 VE,UA,visa required
 VE,AE,e-visa
 VE,GB,visa required
-VE,US,no admission
+VE,US,visa required
 VE,UY,90
 VE,UZ,e-visa
 VE,VU,visa required

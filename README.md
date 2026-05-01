@@ -12,6 +12,8 @@ This repository maintains the original passport index dataset and applies correc
 
 ### China
 
+*Applied 2025-12-23.*
+
 | Passport | Old | New |
 |----------|-----|-----|
 | Bahrain, Kuwait, Oman, Saudi Arabia, Sweden | visa required | 30 |
@@ -22,6 +24,8 @@ Source: [National Immigration Administration of China](https://en.nia.gov.cn/n14
 ---
 
 ### Japan
+
+*Applied 2025-12-24.*
 
 | Passport | Old | New |
 |----------|-----|-----|
@@ -34,6 +38,8 @@ Source: [Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/j_info/vis
 
 ### Indonesia
 
+*Applied 2025-12-24.*
+
 | Passport | Old | New |
 |----------|-----|-----|
 | Brazil, Peru, Turkey | visa on arrival | 30 |
@@ -43,6 +49,8 @@ Source: [Directorate General of Immigration, Indonesia](https://www.imigrasi.go.
 ---
 
 ### Belarus
+
+*Applied 2025-12-24.*
 
 | Passport | Old | New |
 |----------|-----|-----|
@@ -54,6 +62,8 @@ Source: [Embassy of Belarus in Vietnam](https://www.vietnam.mfa.gov.by/en/embass
 
 ### Namibia
 
+*Applied 2025-12-24. Underlying policy effective 1 April 2025.*
+
 | Passport | Old | New |
 |----------|-----|-----|
 | Armenia, Australia, Austria, Azerbaijan, Belarus, Belgium, Canada, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Japan, Kazakhstan, Kyrgyzstan, Liechtenstein, Luxembourg, Moldova, Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, Switzerland, Tajikistan, Turkmenistan, Ukraine, United Kingdom, United States, Uzbekistan | 90 | visa on arrival |
@@ -63,6 +73,8 @@ Source: [Embassy of Namibia in Sweden](https://embassyofnamibia.se/index.php/con
 ---
 
 ## Updates 2026-01 to 2026-04
+
+*Applied 2026-05-01. Each section's effective date is in the source line.*
 
 ### China (additional expansion)
 
@@ -121,7 +133,7 @@ Source: [Indian e-Visa portal](https://indianvisaonline.gov.in/evisa/tvoa.html) 
 |----------|-----|-----|
 | United States | e-visa | 30 |
 
-Source: [Visa policy of Uzbekistan (Wikipedia, official decree pending)](https://en.wikipedia.org/wiki/Visa_policy_of_Uzbekistan) — visa-free 30-day stays for US nationals from 1 January 2026.
+Source: [Government of Uzbekistan — State Committee for Tourism announcement](https://gov.uz/en/uzbektourism/news/view/99187) — Presidential Decree No. 203 of 3 November 2025; visa-free 30-day stays for US nationals effective 1 January 2026.
 
 ---
 
@@ -131,7 +143,7 @@ Source: [Visa policy of Uzbekistan (Wikipedia, official decree pending)](https:/
 |----------|-----|-----|
 | Australia, New Zealand, United States | 60 | 30 |
 
-Source: [Visa policy of Kyrgyzstan (Wikipedia)](https://en.wikipedia.org/wiki/Visa_policy_of_Kyrgyzstan) — Kyrgyzstan reduced visa-free stay for 55 countries from 60 to 30 days, effective 31 December 2025.
+Source: [Cabinet of Ministers of the Kyrgyz Republic — legal portal](https://www.gov.kg/ru/npa/s/4495) (Resolution No. 855 of 31 December 2025); supplementary: [Visa policy of Kyrgyzstan (Wikipedia)](https://en.wikipedia.org/wiki/Visa_policy_of_Kyrgyzstan). Kyrgyzstan reduced visa-free stay for 55 countries from 60 to 30 days within a 60-day period, effective 31 December 2025. The MFA consular pages have not yet been refreshed at the time of this update.
 
 ---
 
@@ -151,7 +163,7 @@ Source: [eafghans.com e-Visa portal](https://eafghans.com/e-visa) — Afghanista
 |----------|-----|-----|
 | Australia, New Zealand | visa on arrival / eta | e-visa |
 
-Source: [Visa policy of Pakistan (Wikipedia)](https://en.wikipedia.org/wiki/Visa_policy_of_Pakistan) — Pakistan suspended visa-on-arrival and free Visa-Prior-to-Arrival for 126 nationalities effective 1 January 2026; paid e-Visa now required.
+Source: [Pakistan Online Visa System (NADRA)](https://visa.nadra.gov.pk/) — the free Visa-Prior-to-Arrival option was silently removed from the portal; supplementary: [Visa policy of Pakistan (Wikipedia)](https://en.wikipedia.org/wiki/Visa_policy_of_Pakistan). Pakistan withdrew the free VPA program for 126 nationalities effective 1 January 2026; paid e-Visa now required. No press release was issued by MOI/MOFA/DGI&P.
 
 ---
 
@@ -234,7 +246,7 @@ Source: [Mexican SRE](https://www.gob.mx/sre/prensa/electronic-visa-for-brazilia
 | Antigua and Barbuda, Bahamas, Barbados, Cuba, Trinidad and Tobago | visa free / 90 | visa required |
 | Colombia, Peru | visa on arrival | visa required |
 
-Source: [VisasNews — Nicaragua overhauls its visa policy](https://visasnews.com/en/nicaragua-overhauls-its-visa-policy/) — Provision 002-2026, effective 16 February 2026, moves several Caribbean and Latin American nationalities into the "consulted visa" category requiring prior authorization.
+Source: [Ministerio del Interior de Nicaragua — Disposición No. 002-2026](https://www.mint.gob.ni/migracion/disposicion-n-002-2026-cambio-de-categorias-migratorias-de-visa-para-ingresar-a-nicaragua/) (also mirrored on [INAC](https://www.inac.gob.ni/cambio-de-categorias-migratorias-de-visa-para-ingresar-a-nicaragua/)) — DGME Disposición No. 002-2026 issued 13 February 2026, published 18 February 2026, effective 16 February 2026; reclassifies several Caribbean and Latin American nationalities into Category C ("visa consultada") requiring prior centralised DGME approval.
 
 ---
 
@@ -243,9 +255,8 @@ Source: [VisasNews — Nicaragua overhauls its visa policy](https://visasnews.co
 | Passport | Old | New |
 |----------|-----|-----|
 | Haiti | visa required | no admission |
-| Antigua and Barbuda, Cuba, Dominica, Venezuela | visa required | no admission |
 
-Source: [US Department of State](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html) — Presidential Proclamation 10998, effective 1 January 2026, fully (Haiti) or partially (B-1/B-2 tourist) suspends visa issuance.
+Source: [Proclamation 10998 full text (American Presidency Project)](https://www.presidency.ucsb.edu/documents/proclamation-10998-restricting-and-limiting-the-entry-foreign-nationals-protect-the) and [US Department of State notice](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html) — issued 16 December 2025, effective 1 January 2026. Haiti receives a full suspension of immigrant and nonimmigrant visa categories. Cuba, Venezuela, Antigua and Barbuda, and Dominica receive *partial* suspensions limited to B-1/B-2 visitor, F/M/J student/exchange and immigrant visas — diplomatic, transit, and employment categories remain available, so the dataset value remains `visa required` for those four.
 
 ---
 

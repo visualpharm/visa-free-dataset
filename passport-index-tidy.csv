@@ -1182,7 +1182,7 @@ Antigua and Barbuda,Uganda,90
 Antigua and Barbuda,Ukraine,90
 Antigua and Barbuda,United Arab Emirates,e-visa
 Antigua and Barbuda,United Kingdom,eta
-Antigua and Barbuda,United States,no admission
+Antigua and Barbuda,United States,visa required
 Antigua and Barbuda,Uruguay,visa required
 Antigua and Barbuda,Uzbekistan,30
 Antigua and Barbuda,Vanuatu,120
@@ -8744,7 +8744,7 @@ Cuba,Uganda,e-visa
 Cuba,Ukraine,visa required
 Cuba,United Arab Emirates,e-visa
 Cuba,United Kingdom,visa required
-Cuba,United States,no admission
+Cuba,United States,visa required
 Cuba,Uruguay,visa required
 Cuba,Uzbekistan,30
 Cuba,Vanuatu,120
@@ -9739,7 +9739,7 @@ Dominica,Uganda,e-visa
 Dominica,Ukraine,90
 Dominica,United Arab Emirates,e-visa
 Dominica,United Kingdom,visa required
-Dominica,United States,no admission
+Dominica,United States,visa required
 Dominica,Uruguay,90
 Dominica,Uzbekistan,30
 Dominica,Vanuatu,120
@@ -38793,7 +38793,7 @@ Venezuela,Uganda,e-visa
 Venezuela,Ukraine,visa required
 Venezuela,United Arab Emirates,e-visa
 Venezuela,United Kingdom,visa required
-Venezuela,United States,no admission
+Venezuela,United States,visa required
 Venezuela,Uruguay,90
 Venezuela,Uzbekistan,e-visa
 Venezuela,Vanuatu,visa required
