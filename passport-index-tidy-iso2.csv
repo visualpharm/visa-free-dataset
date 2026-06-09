@@ -6986,7 +6986,7 @@ CN,BT,e-visa
 CN,BO,visa on arrival
 CN,BA,90
 CN,BW,e-visa
-CN,BR,visa required
+CN,BR,30
 CN,BN,visa on arrival
 CN,BG,visa required
 CN,BF,e-visa
@@ -30949,7 +30949,7 @@ SC,MO,30
 SC,MG,visa on arrival
 SC,MW,90
 SC,MY,30
-SC,MV,visa on arrival
+SC,MV,30
 SC,ML,visa required
 SC,MT,90
 SC,MH,visa on arrival

@@ -6986,7 +6986,7 @@ CHN,BTN,e-visa
 CHN,BOL,visa on arrival
 CHN,BIH,90
 CHN,BWA,e-visa
-CHN,BRA,visa required
+CHN,BRA,30
 CHN,BRN,visa on arrival
 CHN,BGR,visa required
 CHN,BFA,e-visa
@@ -30949,7 +30949,7 @@ SYC,MAC,30
 SYC,MDG,visa on arrival
 SYC,MWI,90
 SYC,MYS,30
-SYC,MDV,visa on arrival
+SYC,MDV,30
 SYC,MLI,visa required
 SYC,MLT,90
 SYC,MHL,visa on arrival

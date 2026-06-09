@@ -270,6 +270,32 @@ Source: [UK Home Office Statement of Changes HC 1691](https://www.gov.uk/governm
 
 ---
 
+## Updates 2026-05
+
+### Brazil (visa-free for China)
+
+*Applied 2026-06-09.*
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| China | Brazil | visa required | 30 |
+
+Source: [Government of China / Diário Oficial da União](https://english.www.gov.cn/news/202605/08/content_WS69fd90b4c6d00ca5f9a0ad29.html) — effective 11 May 2026 through 31 December 2026; 30-day non-extendable stay for ordinary passport holders, reciprocating China's exemption for Brazilians.
+
+---
+
+### Maldives ↔ Seychelles (mutual visa waiver)
+
+*Applied 2026-06-09.*
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Seychelles | Maldives | visa on arrival | 30 |
+
+Source: [VisasNews](https://visasnews.com/en/bilateral-agreements/) — reciprocal 30-day visa waiver in force 15 May 2026. Maldives → Seychelles was already visa-free (90 days).
+
+---
+
 ## Original Dataset Documentation
 
 ### About datasets
