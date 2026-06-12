@@ -1,0 +1,10 @@
+[      82ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3210/_next/static/chunks/node_modules_react-dom_4411d9bd._.js:14107
+[      88ms] [LOG] [HMR] connected @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[     113ms] [WARNING] Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[     113ms] [WARNING] Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/open-door/noe.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[     113ms] [WARNING] Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/open-door/styles.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[     113ms] [WARNING] Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/open-door/key_findings.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231

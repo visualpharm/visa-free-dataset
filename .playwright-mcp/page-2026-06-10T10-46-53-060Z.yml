@@ -1,0 +1,2087 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "Ivan Braun" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]:
+          - generic "English" [ref=e8] [cursor=pointer]: 🇺🇸
+          - generic "Español" [ref=e9] [cursor=pointer]: 🇦🇷
+          - generic "Português" [ref=e10] [cursor=pointer]: 🇧🇷
+    - main [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]: The Open Door Index · 2026
+        - heading "A passport ranking that measures where you can want to go." [level=1] [ref=e14]:
+          - text: A passport ranking that measures
+          - generic [ref=e16]: where you can
+          - emphasis [ref=e17]: want to go.
+        - paragraph [ref=e18]: Traditional rankings count visa-free countries. This one weights each destination by its annual tourism volume – so a passport that opens France (100M visitors a year) outscores one that opens a quieter country with the same number of stamps.
+        - generic [ref=e19]:
+          - link "Methodology →" [ref=e20] [cursor=pointer]:
+            - /url: /passport-insights/methodology
+          - generic [ref=e21]: ·
+          - link "Key findings →" [ref=e22] [cursor=pointer]:
+            - /url: /passport-insights
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - term [ref=e25]: Strongest passport
+            - definition [ref=e26]:
+              - generic [ref=e27]: 🇰🇷
+              - generic [ref=e28]: South Korea
+            - generic [ref=e29]: "Unlocks 1.4 billion tourists' worth of world. Honestly, the top ten is a tie between rich East Asia and the Nordics – same metric, same lifestyle, same passport: small countries that quietly out-travel everyone."
+          - generic [ref=e30]:
+            - term [ref=e31]: Most welcoming
+            - definition [ref=e32]:
+              - generic [ref=e33]: 🇲🇻
+              - generic [ref=e34]: Maldives
+            - generic [ref=e35]: Lets in nearly every nationality on Earth without a pre-issued visa. The richest tourist destination that holds the door open for everyone, not just the wealthy West.
+            - generic [ref=e36]: "Runners-up: 🇷🇼 Rwanda · 🇰🇪 Kenya"
+          - generic [ref=e37]:
+            - term [ref=e38]: Weakest passport
+            - definition [ref=e39]:
+              - generic [ref=e40]: 🇦🇫
+              - generic [ref=e41]: Afghanistan
+            - generic [ref=e42]: Reaches just 26 countries without paperwork – and those 26 host only 48M tourists a year, 30× less than the top passport. The world is mostly closed.
+            - generic [ref=e43]: "Runners-up: 🇸🇾 Syria · 🇮🇶 Iraq"
+          - generic [ref=e44]:
+            - term [ref=e45]: Most overlooked
+            - definition [ref=e46]:
+              - generic [ref=e47]: 🇧🇮
+              - generic [ref=e48]: Burundi
+            - generic [ref=e49]: Open to almost every passport on Earth – and almost nobody comes. About 50K visitors a year, against 100M for France. Easy to enter, rarely visited.
+            - generic [ref=e50]: "Runners-up: 🇰🇲 Comoros · 🇫🇲 Micronesia"
+          - generic [ref=e51]:
+            - term [ref=e52]: One-way passport
+            - definition [ref=e53]:
+              - generic [ref=e54]: 🇺🇸
+              - generic [ref=e55]: United States
+            - generic [ref=e56]: Americans walk into 160 countries without a visa. The U.S. itself lets in just 46 nationalities the same way – the widest one-way street in passport diplomacy.
+            - generic [ref=e57]: "Runners-up: 🇦🇺 Australia · 🇨🇦 Canada"
+          - generic [ref=e58]:
+            - term [ref=e59]: Biggest 2026 shift
+            - definition [ref=e60]:
+              - generic [ref=e61]: 🇨🇳
+              - generic [ref=e62]: China ↑
+            - generic [ref=e63]: Quietly opened visa-free travel to seven new countries this year – UK, Canada, and five Gulf states. Roughly 455M tourist-arrivals' worth of new mobility, the largest single expansion of 2026.
+            - generic [ref=e64]:
+              - text: "Also opening:"
+              - generic [ref=e65]: 🇮🇳 India ↑
+              - text: "· Also closing:"
+              - generic [ref=e66]: 🇳🇦 Namibia ↓
+      - generic [ref=e68]:
+        - generic [ref=e69]: PASSPORT REACH · TOURISM FLOW UNLOCKED
+        - img [ref=e70]:
+          - generic [ref=e71]: Loading world…
+          - generic [ref=e72]:
+            - generic [ref=e74]: TOURISM REACH UNLOCKED
+            - generic [ref=e76]: "0"
+            - generic [ref=e77]: 1.44B visitors/yr
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - button "All" [ref=e80] [cursor=pointer]: All
+          - button "Europe" [ref=e82] [cursor=pointer]
+          - button "Asia" [ref=e83] [cursor=pointer]
+          - button "Americas" [ref=e84] [cursor=pointer]
+          - button "Africa" [ref=e85] [cursor=pointer]
+          - button "Oceania" [ref=e86] [cursor=pointer]
+        - generic [ref=e87]:
+          - img
+          - textbox "Search countries…" [ref=e88]
+        - generic [ref=e89]:
+          - generic [ref=e90]: Sort
+          - generic [ref=e91]:
+            - button "Score" [ref=e92] [cursor=pointer]
+            - button "Name" [ref=e93] [cursor=pointer]
+        - button "CSV" [ref=e94] [cursor=pointer]:
+          - img [ref=e95]
+          - text: CSV
+      - generic [ref=e98]:
+        - generic [ref=e99]: Pick two or more – compare passports, or score your dual citizenship.
+        - img
+      - table [ref=e101]:
+        - rowgroup [ref=e102]:
+          - row "Rank Compare Country Total reach" [ref=e103]:
+            - columnheader "Rank" [ref=e104]
+            - columnheader "Compare" [ref=e105]
+            - columnheader [ref=e106]
+            - columnheader "Country" [ref=e107]
+            - columnheader "Total reach" [ref=e108]
+        - rowgroup [ref=e109]:
+          - row "1 🇰🇷 South Korea 1.453B" [ref=e110] [cursor=pointer]:
+            - cell "1" [ref=e111]:
+              - generic [ref=e112]: "1"
+            - cell [ref=e113]:
+              - generic "Add to comparison" [ref=e114]:
+                - checkbox
+                - img [ref=e116]
+            - cell "🇰🇷" [ref=e118]
+            - cell "South Korea" [ref=e119]
+            - cell "1.453B" [ref=e120]
+          - row "2 🇯🇵 Japan 1.444B" [ref=e121] [cursor=pointer]:
+            - cell "2" [ref=e122]:
+              - generic [ref=e123]: "2"
+            - cell [ref=e124]:
+              - generic "Add to comparison" [ref=e125]:
+                - checkbox
+                - img [ref=e127]
+            - cell "🇯🇵" [ref=e129]
+            - cell "Japan" [ref=e130]
+            - cell "1.444B" [ref=e131]
+          - row "3 🇸🇬 Singapore 1.433B" [ref=e132] [cursor=pointer]:
+            - cell "3" [ref=e133]:
+              - generic [ref=e134]: "3"
+            - cell [ref=e135]:
+              - generic "Add to comparison" [ref=e136]:
+                - checkbox
+                - img [ref=e138]
+            - cell "🇸🇬" [ref=e140]
+            - cell "Singapore" [ref=e141]
+            - cell "1.433B" [ref=e142]
+          - row "4 🇸🇪 Sweden 1.432B" [ref=e143] [cursor=pointer]:
+            - cell "4" [ref=e144]:
+              - generic [ref=e145]: "4"
+            - cell [ref=e146]:
+              - generic "Add to comparison" [ref=e147]:
+                - checkbox
+                - img [ref=e149]
+            - cell "🇸🇪" [ref=e151]
+            - cell "Sweden" [ref=e152]
+            - cell "1.432B" [ref=e153]
+          - row "5 🇫🇮 Finland 1.432B" [ref=e154] [cursor=pointer]:
+            - cell "5" [ref=e155]:
+              - generic [ref=e156]: "5"
+            - cell [ref=e157]:
+              - generic "Add to comparison" [ref=e158]:
+                - checkbox
+                - img [ref=e160]
+            - cell "🇫🇮" [ref=e162]
+            - cell "Finland" [ref=e163]
+            - cell "1.432B" [ref=e164]
+          - row "🇫🇷 France 1.432B" [ref=e165] [cursor=pointer]:
+            - cell [ref=e166]
+            - cell [ref=e167]:
+              - generic "Add to comparison" [ref=e168]:
+                - checkbox
+                - img [ref=e170]
+            - cell "🇫🇷" [ref=e172]
+            - cell "France" [ref=e173]
+            - cell "1.432B" [ref=e174]
+          - row "🇩🇪 Germany 1.432B" [ref=e175] [cursor=pointer]:
+            - cell [ref=e176]
+            - cell [ref=e177]:
+              - generic "Add to comparison" [ref=e178]:
+                - checkbox
+                - img [ref=e180]
+            - cell "🇩🇪" [ref=e182]
+            - cell "Germany" [ref=e183]
+            - cell "1.432B" [ref=e184]
+          - row "🇮🇹 Italy 1.432B" [ref=e185] [cursor=pointer]:
+            - cell [ref=e186]
+            - cell [ref=e187]:
+              - generic "Add to comparison" [ref=e188]:
+                - checkbox
+                - img [ref=e190]
+            - cell "🇮🇹" [ref=e192]
+            - cell "Italy" [ref=e193]
+            - cell "1.432B" [ref=e194]
+          - row "🇳🇴 Norway 1.432B" [ref=e195] [cursor=pointer]:
+            - cell [ref=e196]
+            - cell [ref=e197]:
+              - generic "Add to comparison" [ref=e198]:
+                - checkbox
+                - img [ref=e200]
+            - cell "🇳🇴" [ref=e202]
+            - cell "Norway" [ref=e203]
+            - cell "1.432B" [ref=e204]
+          - row "🇪🇸 Spain 1.432B" [ref=e205] [cursor=pointer]:
+            - cell [ref=e206]
+            - cell [ref=e207]:
+              - generic "Add to comparison" [ref=e208]:
+                - checkbox
+                - img [ref=e210]
+            - cell "🇪🇸" [ref=e212]
+            - cell "Spain" [ref=e213]
+            - cell "1.432B" [ref=e214]
+          - row "11 🇩🇰 Denmark 1.431B" [ref=e215] [cursor=pointer]:
+            - cell "11" [ref=e216]:
+              - generic [ref=e217]: "11"
+            - cell [ref=e218]:
+              - generic "Add to comparison" [ref=e219]:
+                - checkbox
+                - img [ref=e221]
+            - cell "🇩🇰" [ref=e223]
+            - cell "Denmark" [ref=e224]
+            - cell "1.431B" [ref=e225]
+          - row "12 🇬🇧 United Kingdom 1.426B" [ref=e226] [cursor=pointer]:
+            - cell "12" [ref=e227]:
+              - generic [ref=e228]: "12"
+            - cell [ref=e229]:
+              - generic "Add to comparison" [ref=e230]:
+                - checkbox
+                - img [ref=e232]
+            - cell "🇬🇧" [ref=e234]
+            - cell "United Kingdom" [ref=e235]
+            - cell "1.426B" [ref=e236]
+          - row "13 🇮🇪 Ireland 1.415B" [ref=e237] [cursor=pointer]:
+            - cell "13" [ref=e238]:
+              - generic [ref=e239]: "13"
+            - cell [ref=e240]:
+              - generic "Add to comparison" [ref=e241]:
+                - checkbox
+                - img [ref=e243]
+            - cell "🇮🇪" [ref=e245]
+            - cell "Ireland" [ref=e246]
+            - cell "1.415B" [ref=e247]
+          - row "14 🇦🇹 Austria 1.415B" [ref=e248] [cursor=pointer]:
+            - cell "14" [ref=e249]:
+              - generic [ref=e250]: "14"
+            - cell [ref=e251]:
+              - generic "Add to comparison" [ref=e252]:
+                - checkbox
+                - img [ref=e254]
+            - cell "🇦🇹" [ref=e256]
+            - cell "Austria" [ref=e257]
+            - cell "1.415B" [ref=e258]
+          - row "🇱🇺 Luxembourg 1.415B" [ref=e259] [cursor=pointer]:
+            - cell [ref=e260]
+            - cell [ref=e261]:
+              - generic "Add to comparison" [ref=e262]:
+                - checkbox
+                - img [ref=e264]
+            - cell "🇱🇺" [ref=e266]
+            - cell "Luxembourg" [ref=e267]
+            - cell "1.415B" [ref=e268]
+          - row "🇳🇱 Netherlands 1.415B" [ref=e269] [cursor=pointer]:
+            - cell [ref=e270]
+            - cell [ref=e271]:
+              - generic "Add to comparison" [ref=e272]:
+                - checkbox
+                - img [ref=e274]
+            - cell "🇳🇱" [ref=e276]
+            - cell "Netherlands" [ref=e277]
+            - cell "1.415B" [ref=e278]
+          - row "🇨🇭 Switzerland 1.415B" [ref=e279] [cursor=pointer]:
+            - cell [ref=e280]
+            - cell [ref=e281]:
+              - generic "Add to comparison" [ref=e282]:
+                - checkbox
+                - img [ref=e284]
+            - cell "🇨🇭" [ref=e286]
+            - cell "Switzerland" [ref=e287]
+            - cell "1.415B" [ref=e288]
+          - row "18 🇧🇪 Belgium 1.414B" [ref=e289] [cursor=pointer]:
+            - cell "18" [ref=e290]:
+              - generic [ref=e291]: "18"
+            - cell [ref=e292]:
+              - generic "Add to comparison" [ref=e293]:
+                - checkbox
+                - img [ref=e295]
+            - cell "🇧🇪" [ref=e297]
+            - cell "Belgium" [ref=e298]
+            - cell "1.414B" [ref=e299]
+          - row "🇵🇹 Portugal 1.414B" [ref=e300] [cursor=pointer]:
+            - cell [ref=e301]
+            - cell [ref=e302]:
+              - generic "Add to comparison" [ref=e303]:
+                - checkbox
+                - img [ref=e305]
+            - cell "🇵🇹" [ref=e307]
+            - cell "Portugal" [ref=e308]
+            - cell "1.414B" [ref=e309]
+          - row "20 🇳🇿 New Zealand 1.414B" [ref=e310] [cursor=pointer]:
+            - cell "20" [ref=e311]:
+              - generic [ref=e312]: "20"
+            - cell [ref=e313]:
+              - generic "Add to comparison" [ref=e314]:
+                - checkbox
+                - img [ref=e316]
+            - cell "🇳🇿" [ref=e318]
+            - cell "New Zealand" [ref=e319]
+            - cell "1.414B" [ref=e320]
+          - row "21 🇵🇱 Poland 1.414B" [ref=e321] [cursor=pointer]:
+            - cell "21" [ref=e322]:
+              - generic [ref=e323]: "21"
+            - cell [ref=e324]:
+              - generic "Add to comparison" [ref=e325]:
+                - checkbox
+                - img [ref=e327]
+            - cell "🇵🇱" [ref=e329]
+            - cell "Poland" [ref=e330]
+            - cell "1.414B" [ref=e331]
+          - row "22 🇲🇹 Malta 1.414B" [ref=e332] [cursor=pointer]:
+            - cell "22" [ref=e333]:
+              - generic [ref=e334]: "22"
+            - cell [ref=e335]:
+              - generic "Add to comparison" [ref=e336]:
+                - checkbox
+                - img [ref=e338]
+            - cell "🇲🇹" [ref=e340]
+            - cell "Malta" [ref=e341]
+            - cell "1.414B" [ref=e342]
+          - row "23 🇦🇩 Andorra 1.413B" [ref=e343] [cursor=pointer]:
+            - cell "23" [ref=e344]:
+              - generic [ref=e345]: "23"
+            - cell [ref=e346]:
+              - generic "Add to comparison" [ref=e347]:
+                - checkbox
+                - img [ref=e349]
+            - cell "🇦🇩" [ref=e351]
+            - cell "Andorra" [ref=e352]
+            - cell "1.413B" [ref=e353]
+          - row "🇬🇷 Greece 1.413B" [ref=e354] [cursor=pointer]:
+            - cell [ref=e355]
+            - cell [ref=e356]:
+              - generic "Add to comparison" [ref=e357]:
+                - checkbox
+                - img [ref=e359]
+            - cell "🇬🇷" [ref=e361]
+            - cell "Greece" [ref=e362]
+            - cell "1.413B" [ref=e363]
+          - row "25 🇭🇺 Hungary 1.413B" [ref=e364] [cursor=pointer]:
+            - cell "25" [ref=e365]:
+              - generic [ref=e366]: "25"
+            - cell [ref=e367]:
+              - generic "Add to comparison" [ref=e368]:
+                - checkbox
+                - img [ref=e370]
+            - cell "🇭🇺" [ref=e372]
+            - cell "Hungary" [ref=e373]
+            - cell "1.413B" [ref=e374]
+          - row "26 🇮🇸 Iceland 1.413B" [ref=e375] [cursor=pointer]:
+            - cell "26" [ref=e376]:
+              - generic [ref=e377]: "26"
+            - cell [ref=e378]:
+              - generic "Add to comparison" [ref=e379]:
+                - checkbox
+                - img [ref=e381]
+            - cell "🇮🇸" [ref=e383]
+            - cell "Iceland" [ref=e384]
+            - cell "1.413B" [ref=e385]
+          - row "27 🇱🇮 Liechtenstein 1.411B" [ref=e386] [cursor=pointer]:
+            - cell "27" [ref=e387]:
+              - generic [ref=e388]: "27"
+            - cell [ref=e389]:
+              - generic "Add to comparison" [ref=e390]:
+                - checkbox
+                - img [ref=e392]
+            - cell "🇱🇮" [ref=e394]
+            - cell "Liechtenstein" [ref=e395]
+            - cell "1.411B" [ref=e396]
+          - row "28 🇲🇨 Monaco 1.410B" [ref=e397] [cursor=pointer]:
+            - cell "28" [ref=e398]:
+              - generic [ref=e399]: "28"
+            - cell [ref=e400]:
+              - generic "Add to comparison" [ref=e401]:
+                - checkbox
+                - img [ref=e403]
+            - cell "🇲🇨" [ref=e405]
+            - cell "Monaco" [ref=e406]
+            - cell "1.410B" [ref=e407]
+          - row "29 🇨🇦 Canada 1.409B" [ref=e408] [cursor=pointer]:
+            - cell "29" [ref=e409]:
+              - generic [ref=e410]: "29"
+            - cell [ref=e411]:
+              - generic "Add to comparison" [ref=e412]:
+                - checkbox
+                - img [ref=e414]
+            - cell "🇨🇦" [ref=e416]
+            - cell "Canada" [ref=e417]
+            - cell "1.409B" [ref=e418]
+          - row "30 🇦🇺 Australia 1.409B" [ref=e419] [cursor=pointer]:
+            - cell "30" [ref=e420]:
+              - generic [ref=e421]: "30"
+            - cell [ref=e422]:
+              - generic "Add to comparison" [ref=e423]:
+                - checkbox
+                - img [ref=e425]
+            - cell "🇦🇺" [ref=e427]
+            - cell "Australia" [ref=e428]
+            - cell "1.409B" [ref=e429]
+          - row "31 🇭🇷 Croatia 1.404B" [ref=e430] [cursor=pointer]:
+            - cell "31" [ref=e431]:
+              - generic [ref=e432]: "31"
+            - cell [ref=e433]:
+              - generic "Add to comparison" [ref=e434]:
+                - checkbox
+                - img [ref=e436]
+            - cell "🇭🇷" [ref=e438]
+            - cell "Croatia" [ref=e439]
+            - cell "1.404B" [ref=e440]
+          - row "🇪🇪 Estonia 1.404B" [ref=e441] [cursor=pointer]:
+            - cell [ref=e442]
+            - cell [ref=e443]:
+              - generic "Add to comparison" [ref=e444]:
+                - checkbox
+                - img [ref=e446]
+            - cell "🇪🇪" [ref=e448]
+            - cell "Estonia" [ref=e449]
+            - cell "1.404B" [ref=e450]
+          - row "🇱🇻 Latvia 1.404B" [ref=e451] [cursor=pointer]:
+            - cell [ref=e452]
+            - cell [ref=e453]:
+              - generic "Add to comparison" [ref=e454]:
+                - checkbox
+                - img [ref=e456]
+            - cell "🇱🇻" [ref=e458]
+            - cell "Latvia" [ref=e459]
+            - cell "1.404B" [ref=e460]
+          - row "🇸🇰 Slovakia 1.404B" [ref=e461] [cursor=pointer]:
+            - cell [ref=e462]
+            - cell [ref=e463]:
+              - generic "Add to comparison" [ref=e464]:
+                - checkbox
+                - img [ref=e466]
+            - cell "🇸🇰" [ref=e468]
+            - cell "Slovakia" [ref=e469]
+            - cell "1.404B" [ref=e470]
+          - row "35 🇸🇮 Slovenia 1.402B" [ref=e471] [cursor=pointer]:
+            - cell "35" [ref=e472]:
+              - generic [ref=e473]: "35"
+            - cell [ref=e474]:
+              - generic "Add to comparison" [ref=e475]:
+                - checkbox
+                - img [ref=e477]
+            - cell "🇸🇮" [ref=e479]
+            - cell "Slovenia" [ref=e480]
+            - cell "1.402B" [ref=e481]
+          - row "36 🇸🇲 San Marino 1.398B" [ref=e482] [cursor=pointer]:
+            - cell "36" [ref=e483]:
+              - generic [ref=e484]: "36"
+            - cell [ref=e485]:
+              - generic "Add to comparison" [ref=e486]:
+                - checkbox
+                - img [ref=e488]
+            - cell "🇸🇲" [ref=e490]
+            - cell "San Marino" [ref=e491]
+            - cell "1.398B" [ref=e492]
+          - row "37 🇨🇱 Chile 1.387B" [ref=e493] [cursor=pointer]:
+            - cell "37" [ref=e494]:
+              - generic [ref=e495]: "37"
+            - cell [ref=e496]:
+              - generic "Add to comparison" [ref=e497]:
+                - checkbox
+                - img [ref=e499]
+            - cell "🇨🇱" [ref=e501]
+            - cell "Chile" [ref=e502]
+            - cell "1.387B" [ref=e503]
+          - row "38 🇦🇪 United Arab Emirates 1.350B" [ref=e504] [cursor=pointer]:
+            - cell "38" [ref=e505]:
+              - generic [ref=e506]: "38"
+            - cell [ref=e507]:
+              - generic "Add to comparison" [ref=e508]:
+                - checkbox
+                - img [ref=e510]
+            - cell "🇦🇪" [ref=e512]
+            - cell "United Arab Emirates" [ref=e513]
+            - cell "1.350B" [ref=e514]
+          - row "39 🇨🇿 Czech Republic 1.349B" [ref=e515] [cursor=pointer]:
+            - cell "39" [ref=e516]:
+              - generic [ref=e517]: "39"
+            - cell [ref=e518]:
+              - generic "Add to comparison" [ref=e519]:
+                - checkbox
+                - img [ref=e521]
+            - cell "🇨🇿" [ref=e523]
+            - cell "Czech Republic" [ref=e524]
+            - cell "1.349B" [ref=e525]
+          - row "40 🇺🇸 United States 1.344B" [ref=e526] [cursor=pointer]:
+            - cell "40" [ref=e527]:
+              - generic [ref=e528]: "40"
+            - cell [ref=e529]:
+              - generic "Add to comparison" [ref=e530]:
+                - checkbox
+                - img [ref=e532]
+            - cell "🇺🇸" [ref=e534]
+            - cell "United States" [ref=e535]
+            - cell "1.344B" [ref=e536]
+          - row "41 🇭🇰 Hong Kong 1.341B" [ref=e537] [cursor=pointer]:
+            - cell "41" [ref=e538]:
+              - generic [ref=e539]: "41"
+            - cell [ref=e540]:
+              - generic "Add to comparison" [ref=e541]:
+                - checkbox
+                - img [ref=e543]
+            - cell "🇭🇰" [ref=e545]
+            - cell "Hong Kong" [ref=e546]
+            - cell "1.341B" [ref=e547]
+          - row "42 🇱🇹 Lithuania 1.340B" [ref=e548] [cursor=pointer]:
+            - cell "42" [ref=e549]:
+              - generic [ref=e550]: "42"
+            - cell [ref=e551]:
+              - generic "Add to comparison" [ref=e552]:
+                - checkbox
+                - img [ref=e554]
+            - cell "🇱🇹" [ref=e556]
+            - cell "Lithuania" [ref=e557]
+            - cell "1.340B" [ref=e558]
+          - row "43 🇨🇾 Cyprus 1.331B" [ref=e559] [cursor=pointer]:
+            - cell "43" [ref=e560]:
+              - generic [ref=e561]: "43"
+            - cell [ref=e562]:
+              - generic "Add to comparison" [ref=e563]:
+                - checkbox
+                - img [ref=e565]
+            - cell "🇨🇾" [ref=e567]
+            - cell "Cyprus" [ref=e568]
+            - cell "1.331B" [ref=e569]
+          - row "44 🇧🇬 Bulgaria 1.331B" [ref=e570] [cursor=pointer]:
+            - cell "44" [ref=e571]:
+              - generic [ref=e572]: "44"
+            - cell [ref=e573]:
+              - generic "Add to comparison" [ref=e574]:
+                - checkbox
+                - img [ref=e576]
+            - cell "🇧🇬" [ref=e578]
+            - cell "Bulgaria" [ref=e579]
+            - cell "1.331B" [ref=e580]
+          - row "🇷🇴 Romania 1.331B" [ref=e581] [cursor=pointer]:
+            - cell [ref=e582]
+            - cell [ref=e583]:
+              - generic "Add to comparison" [ref=e584]:
+                - checkbox
+                - img [ref=e586]
+            - cell "🇷🇴" [ref=e588]
+            - cell "Romania" [ref=e589]
+            - cell "1.331B" [ref=e590]
+          - row "46 🇲🇾 Malaysia 1.327B" [ref=e591] [cursor=pointer]:
+            - cell "46" [ref=e592]:
+              - generic [ref=e593]: "46"
+            - cell [ref=e594]:
+              - generic "Add to comparison" [ref=e595]:
+                - checkbox
+                - img [ref=e597]
+            - cell "🇲🇾" [ref=e599]
+            - cell "Malaysia" [ref=e600]
+            - cell "1.327B" [ref=e601]
+          - row "47 🇧🇳 Brunei 1.324B" [ref=e602] [cursor=pointer]:
+            - cell "47" [ref=e603]:
+              - generic [ref=e604]: "47"
+            - cell [ref=e605]:
+              - generic "Add to comparison" [ref=e606]:
+                - checkbox
+                - img [ref=e608]
+            - cell "🇧🇳" [ref=e610]
+            - cell "Brunei" [ref=e611]
+            - cell "1.324B" [ref=e612]
+          - row "48 🇦🇷 Argentina 1.274B" [ref=e613] [cursor=pointer]:
+            - cell "48" [ref=e614]:
+              - generic [ref=e615]: "48"
+            - cell [ref=e616]:
+              - generic "Add to comparison" [ref=e617]:
+                - checkbox
+                - img [ref=e619]
+            - cell "🇦🇷" [ref=e621]
+            - cell "Argentina" [ref=e622]
+            - cell "1.274B" [ref=e623]
+          - row "49 🇲🇴 Macao 1.242B" [ref=e624] [cursor=pointer]:
+            - cell "49" [ref=e625]:
+              - generic [ref=e626]: "49"
+            - cell [ref=e627]:
+              - generic "Add to comparison" [ref=e628]:
+                - checkbox
+                - img [ref=e630]
+            - cell "🇲🇴" [ref=e632]
+            - cell "Macao" [ref=e633]
+            - cell "1.242B" [ref=e634]
+          - row "50 🇧🇷 Brazil 1.228B" [ref=e635] [cursor=pointer]:
+            - cell "50" [ref=e636]:
+              - generic [ref=e637]: "50"
+            - cell [ref=e638]:
+              - generic "Add to comparison" [ref=e639]:
+                - checkbox
+                - img [ref=e641]
+            - cell "🇧🇷" [ref=e643]
+            - cell "Brazil" [ref=e644]
+            - cell "1.228B" [ref=e645]
+          - row "51 🇧🇧 Barbados 1.213B" [ref=e646] [cursor=pointer]:
+            - cell "51" [ref=e647]:
+              - generic [ref=e648]: "51"
+            - cell [ref=e649]:
+              - generic "Add to comparison" [ref=e650]:
+                - checkbox
+                - img [ref=e652]
+            - cell "🇧🇧" [ref=e654]
+            - cell "Barbados" [ref=e655]
+            - cell "1.213B" [ref=e656]
+          - row "52 🇺🇾 Uruguay 1.209B" [ref=e657] [cursor=pointer]:
+            - cell "52" [ref=e658]:
+              - generic [ref=e659]: "52"
+            - cell [ref=e660]:
+              - generic "Add to comparison" [ref=e661]:
+                - checkbox
+                - img [ref=e663]
+            - cell "🇺🇾" [ref=e665]
+            - cell "Uruguay" [ref=e666]
+            - cell "1.209B" [ref=e667]
+          - row "53 🇮🇱 Israel 1.207B" [ref=e668] [cursor=pointer]:
+            - cell "53" [ref=e669]:
+              - generic [ref=e670]: "53"
+            - cell [ref=e671]:
+              - generic "Add to comparison" [ref=e672]:
+                - checkbox
+                - img [ref=e674]
+            - cell "🇮🇱" [ref=e676]
+            - cell "Israel" [ref=e677]
+            - cell "1.207B" [ref=e678]
+          - row "54 🇧🇸 Bahamas 1.199B" [ref=e679] [cursor=pointer]:
+            - cell "54" [ref=e680]:
+              - generic [ref=e681]: "54"
+            - cell [ref=e682]:
+              - generic "Add to comparison" [ref=e683]:
+                - checkbox
+                - img [ref=e685]
+            - cell "🇧🇸" [ref=e687]
+            - cell "Bahamas" [ref=e688]
+            - cell "1.199B" [ref=e689]
+          - row "55 🇵🇪 Peru 1.174B" [ref=e690] [cursor=pointer]:
+            - cell "55" [ref=e691]:
+              - generic [ref=e692]: "55"
+            - cell [ref=e693]:
+              - generic "Add to comparison" [ref=e694]:
+                - checkbox
+                - img [ref=e696]
+            - cell "🇵🇪" [ref=e698]
+            - cell "Peru" [ref=e699]
+            - cell "1.174B" [ref=e700]
+          - row "56 🇸🇨 Seychelles 1.154B" [ref=e701] [cursor=pointer]:
+            - cell "56" [ref=e702]:
+              - generic [ref=e703]: "56"
+            - cell [ref=e704]:
+              - generic "Add to comparison" [ref=e705]:
+                - checkbox
+                - img [ref=e707]
+            - cell "🇸🇨" [ref=e709]
+            - cell "Seychelles" [ref=e710]
+            - cell "1.154B" [ref=e711]
+          - row "57 🇵🇦 Panama 1.150B" [ref=e712] [cursor=pointer]:
+            - cell "57" [ref=e713]:
+              - generic [ref=e714]: "57"
+            - cell [ref=e715]:
+              - generic "Add to comparison" [ref=e716]:
+                - checkbox
+                - img [ref=e718]
+            - cell "🇵🇦" [ref=e720]
+            - cell "Panama" [ref=e721]
+            - cell "1.150B" [ref=e722]
+          - row "58 🇵🇾 Paraguay 1.145B" [ref=e723] [cursor=pointer]:
+            - cell "58" [ref=e724]:
+              - generic [ref=e725]: "58"
+            - cell [ref=e726]:
+              - generic "Add to comparison" [ref=e727]:
+                - checkbox
+                - img [ref=e729]
+            - cell "🇵🇾" [ref=e731]
+            - cell "Paraguay" [ref=e732]
+            - cell "1.145B" [ref=e733]
+          - row "59 🇹🇼 Taiwan 1.143B" [ref=e734] [cursor=pointer]:
+            - cell "59" [ref=e735]:
+              - generic [ref=e736]: "59"
+            - cell [ref=e737]:
+              - generic "Add to comparison" [ref=e738]:
+                - checkbox
+                - img [ref=e740]
+            - cell "🇹🇼" [ref=e742]
+            - cell "Taiwan" [ref=e743]
+            - cell "1.143B" [ref=e744]
+          - row "60 🇨🇷 Costa Rica 1.134B" [ref=e745] [cursor=pointer]:
+            - cell "60" [ref=e746]:
+              - generic [ref=e747]: "60"
+            - cell [ref=e748]:
+              - generic "Add to comparison" [ref=e749]:
+                - checkbox
+                - img [ref=e751]
+            - cell "🇨🇷" [ref=e753]
+            - cell "Costa Rica" [ref=e754]
+            - cell "1.134B" [ref=e755]
+          - row "61 🇲🇺 Mauritius 1.127B" [ref=e756] [cursor=pointer]:
+            - cell "61" [ref=e757]:
+              - generic [ref=e758]: "61"
+            - cell [ref=e759]:
+              - generic "Add to comparison" [ref=e760]:
+                - checkbox
+                - img [ref=e762]
+            - cell "🇲🇺" [ref=e764]
+            - cell "Mauritius" [ref=e765]
+            - cell "1.127B" [ref=e766]
+          - row "62 🇲🇽 Mexico 1.121B" [ref=e767] [cursor=pointer]:
+            - cell "62" [ref=e768]:
+              - generic [ref=e769]: "62"
+            - cell [ref=e770]:
+              - generic "Add to comparison" [ref=e771]:
+                - checkbox
+                - img [ref=e773]
+            - cell "🇲🇽" [ref=e775]
+            - cell "Mexico" [ref=e776]
+            - cell "1.121B" [ref=e777]
+          - row "63 🇺🇦 Ukraine 1.099B" [ref=e778] [cursor=pointer]:
+            - cell "63" [ref=e779]:
+              - generic [ref=e780]: "63"
+            - cell [ref=e781]:
+              - generic "Add to comparison" [ref=e782]:
+                - checkbox
+                - img [ref=e784]
+            - cell "🇺🇦" [ref=e786]
+            - cell "Ukraine" [ref=e787]
+            - cell "1.099B" [ref=e788]
+          - row "64 🇻🇦 Vatican 1.095B" [ref=e789] [cursor=pointer]:
+            - cell "64" [ref=e790]:
+              - generic [ref=e791]: "64"
+            - cell [ref=e792]:
+              - generic "Add to comparison" [ref=e793]:
+                - checkbox
+                - img [ref=e795]
+            - cell "🇻🇦" [ref=e797]
+            - cell "Vatican" [ref=e798]
+            - cell "1.095B" [ref=e799]
+          - row "65 🇷🇸 Serbia 1.092B" [ref=e800] [cursor=pointer]:
+            - cell "65" [ref=e801]:
+              - generic [ref=e802]: "65"
+            - cell [ref=e803]:
+              - generic "Add to comparison" [ref=e804]:
+                - checkbox
+                - img [ref=e806]
+            - cell "🇷🇸" [ref=e808]
+            - cell "Serbia" [ref=e809]
+            - cell "1.092B" [ref=e810]
+          - row "66 🇬🇪 Georgia 1.077B" [ref=e811] [cursor=pointer]:
+            - cell "66" [ref=e812]:
+              - generic [ref=e813]: "66"
+            - cell [ref=e814]:
+              - generic "Add to comparison" [ref=e815]:
+                - checkbox
+                - img [ref=e817]
+            - cell "🇬🇪" [ref=e819]
+            - cell "Georgia" [ref=e820]
+            - cell "1.077B" [ref=e821]
+          - row "67 🇦🇱 Albania 1.065B" [ref=e822] [cursor=pointer]:
+            - cell "67" [ref=e823]:
+              - generic [ref=e824]: "67"
+            - cell [ref=e825]:
+              - generic "Add to comparison" [ref=e826]:
+                - checkbox
+                - img [ref=e828]
+            - cell "🇦🇱" [ref=e830]
+            - cell "Albania" [ref=e831]
+            - cell "1.065B" [ref=e832]
+          - row "68 🇦🇬 Antigua and Barbuda 1.062B" [ref=e833] [cursor=pointer]:
+            - cell "68" [ref=e834]:
+              - generic [ref=e835]: "68"
+            - cell [ref=e836]:
+              - generic "Add to comparison" [ref=e837]:
+                - checkbox
+                - img [ref=e839]
+            - cell "🇦🇬" [ref=e841]
+            - cell "Antigua and Barbuda" [ref=e842]
+            - cell "1.062B" [ref=e843]
+          - row "69 🇬🇩 Grenada 1.057B" [ref=e844] [cursor=pointer]:
+            - cell "69" [ref=e845]:
+              - generic [ref=e846]: "69"
+            - cell [ref=e847]:
+              - generic "Add to comparison" [ref=e848]:
+                - checkbox
+                - img [ref=e850]
+            - cell "🇬🇩" [ref=e852]
+            - cell "Grenada" [ref=e853]
+            - cell "1.057B" [ref=e854]
+          - row "70 🇲🇪 Montenegro 1.055B" [ref=e855] [cursor=pointer]:
+            - cell "70" [ref=e856]:
+              - generic [ref=e857]: "70"
+            - cell [ref=e858]:
+              - generic "Add to comparison" [ref=e859]:
+                - checkbox
+                - img [ref=e861]
+            - cell "🇲🇪" [ref=e863]
+            - cell "Montenegro" [ref=e864]
+            - cell "1.055B" [ref=e865]
+          - row "71 🇹🇹 Trinidad and Tobago 1.054B" [ref=e866] [cursor=pointer]:
+            - cell "71" [ref=e867]:
+              - generic [ref=e868]: "71"
+            - cell [ref=e869]:
+              - generic "Add to comparison" [ref=e870]:
+                - checkbox
+                - img [ref=e872]
+            - cell "🇹🇹" [ref=e874]
+            - cell "Trinidad and Tobago" [ref=e875]
+            - cell "1.054B" [ref=e876]
+          - row "72 🇨🇴 Colombia 1.044B" [ref=e877] [cursor=pointer]:
+            - cell "72" [ref=e878]:
+              - generic [ref=e879]: "72"
+            - cell [ref=e880]:
+              - generic "Add to comparison" [ref=e881]:
+                - checkbox
+                - img [ref=e883]
+            - cell "🇨🇴" [ref=e885]
+            - cell "Colombia" [ref=e886]
+            - cell "1.044B" [ref=e887]
+          - row "73 🇬🇹 Guatemala 1.036B" [ref=e888] [cursor=pointer]:
+            - cell "73" [ref=e889]:
+              - generic [ref=e890]: "73"
+            - cell [ref=e891]:
+              - generic "Add to comparison" [ref=e892]:
+                - checkbox
+                - img [ref=e894]
+            - cell "🇬🇹" [ref=e896]
+            - cell "Guatemala" [ref=e897]
+            - cell "1.036B" [ref=e898]
+          - row "74 🇸🇻 El Salvador 1.022B" [ref=e899] [cursor=pointer]:
+            - cell "74" [ref=e900]:
+              - generic [ref=e901]: "74"
+            - cell [ref=e902]:
+              - generic "Add to comparison" [ref=e903]:
+                - checkbox
+                - img [ref=e905]
+            - cell "🇸🇻" [ref=e907]
+            - cell "El Salvador" [ref=e908]
+            - cell "1.022B" [ref=e909]
+          - row "75 🇻🇨 Saint Vincent and the Grenadines 1.015B" [ref=e910] [cursor=pointer]:
+            - cell "75" [ref=e911]:
+              - generic [ref=e912]: "75"
+            - cell [ref=e913]:
+              - generic "Add to comparison" [ref=e914]:
+                - checkbox
+                - img [ref=e916]
+            - cell "🇻🇨" [ref=e918]
+            - cell "Saint Vincent and the Grenadines" [ref=e919]
+            - cell "1.015B" [ref=e920]
+          - row "76 🇲🇰 North Macedonia 1.015B" [ref=e921] [cursor=pointer]:
+            - cell "76" [ref=e922]:
+              - generic [ref=e923]: "76"
+            - cell [ref=e924]:
+              - generic "Add to comparison" [ref=e925]:
+                - checkbox
+                - img [ref=e927]
+            - cell "🇲🇰" [ref=e929]
+            - cell "North Macedonia" [ref=e930]
+            - cell "1.015B" [ref=e931]
+          - row "77 🇰🇳 Saint Kitts and Nevis 1.011B" [ref=e932] [cursor=pointer]:
+            - cell "77" [ref=e933]:
+              - generic [ref=e934]: "77"
+            - cell [ref=e935]:
+              - generic "Add to comparison" [ref=e936]:
+                - checkbox
+                - img [ref=e938]
+            - cell "🇰🇳" [ref=e940]
+            - cell "Saint Kitts and Nevis" [ref=e941]
+            - cell "1.011B" [ref=e942]
+          - row "78 🇧🇦 Bosnia and Herzegovina 1.009B" [ref=e943] [cursor=pointer]:
+            - cell "78" [ref=e944]:
+              - generic [ref=e945]: "78"
+            - cell [ref=e946]:
+              - generic "Add to comparison" [ref=e947]:
+                - checkbox
+                - img [ref=e949]
+            - cell "🇧🇦" [ref=e951]
+            - cell "Bosnia and Herzegovina" [ref=e952]
+            - cell "1.009B" [ref=e953]
+          - row "79 🇭🇳 Honduras 982.2M" [ref=e954] [cursor=pointer]:
+            - cell "79" [ref=e955]:
+              - generic [ref=e956]: "79"
+            - cell [ref=e957]:
+              - generic "Add to comparison" [ref=e958]:
+                - checkbox
+                - img [ref=e960]
+            - cell "🇭🇳" [ref=e962]
+            - cell "Honduras" [ref=e963]
+            - cell "982.2M" [ref=e964]
+          - row "80 🇲🇭 Marshall Islands 968.6M" [ref=e965] [cursor=pointer]:
+            - cell "80" [ref=e966]:
+              - generic [ref=e967]: "80"
+            - cell [ref=e968]:
+              - generic "Add to comparison" [ref=e969]:
+                - checkbox
+                - img [ref=e971]
+            - cell "🇲🇭" [ref=e973]
+            - cell "Marshall Islands" [ref=e974]
+            - cell "968.6M" [ref=e975]
+          - row "81 🇻🇪 Venezuela 964.6M" [ref=e976] [cursor=pointer]:
+            - cell "81" [ref=e977]:
+              - generic [ref=e978]: "81"
+            - cell [ref=e979]:
+              - generic "Add to comparison" [ref=e980]:
+                - checkbox
+                - img [ref=e982]
+            - cell "🇻🇪" [ref=e984]
+            - cell "Venezuela" [ref=e985]
+            - cell "964.6M" [ref=e986]
+          - row "82 🇵🇼 Palau 957.1M" [ref=e987] [cursor=pointer]:
+            - cell "82" [ref=e988]:
+              - generic [ref=e989]: "82"
+            - cell [ref=e990]:
+              - generic "Add to comparison" [ref=e991]:
+                - checkbox
+                - img [ref=e993]
+            - cell "🇵🇼" [ref=e995]
+            - cell "Palau" [ref=e996]
+            - cell "957.1M" [ref=e997]
+          - row "83 🇩🇲 Dominica 949.1M" [ref=e998] [cursor=pointer]:
+            - cell "83" [ref=e999]:
+              - generic [ref=e1000]: "83"
+            - cell [ref=e1001]:
+              - generic "Add to comparison" [ref=e1002]:
+                - checkbox
+                - img [ref=e1004]
+            - cell "🇩🇲" [ref=e1006]
+            - cell "Dominica" [ref=e1007]
+            - cell "949.1M" [ref=e1008]
+          - row "🇹🇴 Tonga 949.1M" [ref=e1009] [cursor=pointer]:
+            - cell [ref=e1010]
+            - cell [ref=e1011]:
+              - generic "Add to comparison" [ref=e1012]:
+                - checkbox
+                - img [ref=e1014]
+            - cell "🇹🇴" [ref=e1016]
+            - cell "Tonga" [ref=e1017]
+            - cell "949.1M" [ref=e1018]
+          - row "85 🇫🇲 Micronesia 942.5M" [ref=e1019] [cursor=pointer]:
+            - cell "85" [ref=e1020]:
+              - generic [ref=e1021]: "85"
+            - cell [ref=e1022]:
+              - generic "Add to comparison" [ref=e1023]:
+                - checkbox
+                - img [ref=e1025]
+            - cell "🇫🇲" [ref=e1027]
+            - cell "Micronesia" [ref=e1028]
+            - cell "942.5M" [ref=e1029]
+          - row "86 🇸🇧 Solomon Islands 941.3M" [ref=e1030] [cursor=pointer]:
+            - cell "86" [ref=e1031]:
+              - generic [ref=e1032]: "86"
+            - cell [ref=e1033]:
+              - generic "Add to comparison" [ref=e1034]:
+                - checkbox
+                - img [ref=e1036]
+            - cell "🇸🇧" [ref=e1038]
+            - cell "Solomon Islands" [ref=e1039]
+            - cell "941.3M" [ref=e1040]
+          - row "87 🇱🇨 Saint Lucia 927.6M" [ref=e1041] [cursor=pointer]:
+            - cell "87" [ref=e1042]:
+              - generic [ref=e1043]: "87"
+            - cell [ref=e1044]:
+              - generic "Add to comparison" [ref=e1045]:
+                - checkbox
+                - img [ref=e1047]
+            - cell "🇱🇨" [ref=e1049]
+            - cell "Saint Lucia" [ref=e1050]
+            - cell "927.6M" [ref=e1051]
+          - row "88 🇳🇮 Nicaragua 919.7M" [ref=e1052] [cursor=pointer]:
+            - cell "88" [ref=e1053]:
+              - generic [ref=e1054]: "88"
+            - cell [ref=e1055]:
+              - generic "Add to comparison" [ref=e1056]:
+                - checkbox
+                - img [ref=e1058]
+            - cell "🇳🇮" [ref=e1060]
+            - cell "Nicaragua" [ref=e1061]
+            - cell "919.7M" [ref=e1062]
+          - row "89 🇼🇸 Samoa 882.5M" [ref=e1063] [cursor=pointer]:
+            - cell "89" [ref=e1064]:
+              - generic [ref=e1065]: "89"
+            - cell [ref=e1066]:
+              - generic "Add to comparison" [ref=e1067]:
+                - checkbox
+                - img [ref=e1069]
+            - cell "🇼🇸" [ref=e1071]
+            - cell "Samoa" [ref=e1072]
+            - cell "882.5M" [ref=e1073]
+          - row "90 🇰🇮 Kiribati 879.8M" [ref=e1074] [cursor=pointer]:
+            - cell "90" [ref=e1075]:
+              - generic [ref=e1076]: "90"
+            - cell [ref=e1077]:
+              - generic "Add to comparison" [ref=e1078]:
+                - checkbox
+                - img [ref=e1080]
+            - cell "🇰🇮" [ref=e1082]
+            - cell "Kiribati" [ref=e1083]
+            - cell "879.8M" [ref=e1084]
+          - row "91 🇹🇻 Tuvalu 860.4M" [ref=e1085] [cursor=pointer]:
+            - cell "91" [ref=e1086]:
+              - generic [ref=e1087]: "91"
+            - cell [ref=e1088]:
+              - generic "Add to comparison" [ref=e1089]:
+                - checkbox
+                - img [ref=e1091]
+            - cell "🇹🇻" [ref=e1093]
+            - cell "Tuvalu" [ref=e1094]
+            - cell "860.4M" [ref=e1095]
+          - row "92 🇲🇩 Moldova 844.9M" [ref=e1096] [cursor=pointer]:
+            - cell "92" [ref=e1097]:
+              - generic [ref=e1098]: "92"
+            - cell [ref=e1099]:
+              - generic "Add to comparison" [ref=e1100]:
+                - checkbox
+                - img [ref=e1102]
+            - cell "🇲🇩" [ref=e1104]
+            - cell "Moldova" [ref=e1105]
+            - cell "844.9M" [ref=e1106]
+          - row "93 🇹🇱 Timor-Leste 789.5M" [ref=e1107] [cursor=pointer]:
+            - cell "93" [ref=e1108]:
+              - generic [ref=e1109]: "93"
+            - cell [ref=e1110]:
+              - generic "Add to comparison" [ref=e1111]:
+                - checkbox
+                - img [ref=e1113]
+            - cell "🇹🇱" [ref=e1115]
+            - cell "Timor-Leste" [ref=e1116]
+            - cell "789.5M" [ref=e1117]
+          - row "94 🇽🇰 Kosovo 776.6M" [ref=e1118] [cursor=pointer]:
+            - cell "94" [ref=e1119]:
+              - generic [ref=e1120]: "94"
+            - cell [ref=e1121]:
+              - generic "Add to comparison" [ref=e1122]:
+                - checkbox
+                - img [ref=e1124]
+            - cell "🇽🇰" [ref=e1126]
+            - cell "Kosovo" [ref=e1127]
+            - cell "776.6M" [ref=e1128]
+          - row "95 🇶🇦 Qatar 734.8M" [ref=e1129] [cursor=pointer]:
+            - cell "95" [ref=e1130]:
+              - generic [ref=e1131]: "95"
+            - cell [ref=e1132]:
+              - generic "Add to comparison" [ref=e1133]:
+                - checkbox
+                - img [ref=e1135]
+            - cell "🇶🇦" [ref=e1137]
+            - cell "Qatar" [ref=e1138]
+            - cell "734.8M" [ref=e1139]
+          - row "96 🇷🇺 Russia 638M" [ref=e1140] [cursor=pointer]:
+            - cell "96" [ref=e1141]:
+              - generic [ref=e1142]: "96"
+            - cell [ref=e1143]:
+              - generic "Add to comparison" [ref=e1144]:
+                - checkbox
+                - img [ref=e1146]
+            - cell "🇷🇺" [ref=e1148]
+            - cell "Russia" [ref=e1149]
+            - cell "638M" [ref=e1150]
+          - row "97 🇰🇼 Kuwait 590M" [ref=e1151] [cursor=pointer]:
+            - cell "97" [ref=e1152]:
+              - generic [ref=e1153]: "97"
+            - cell [ref=e1154]:
+              - generic "Add to comparison" [ref=e1155]:
+                - checkbox
+                - img [ref=e1157]
+            - cell "🇰🇼" [ref=e1159]
+            - cell "Kuwait" [ref=e1160]
+            - cell "590M" [ref=e1161]
+          - row "98 🇹🇷 Turkey 586.2M" [ref=e1162] [cursor=pointer]:
+            - cell "98" [ref=e1163]:
+              - generic [ref=e1164]: "98"
+            - cell [ref=e1165]:
+              - generic "Add to comparison" [ref=e1166]:
+                - checkbox
+                - img [ref=e1168]
+            - cell "🇹🇷" [ref=e1170]
+            - cell "Turkey" [ref=e1171]
+            - cell "586.2M" [ref=e1172]
+          - row "99 🇧🇭 Bahrain 578.4M" [ref=e1173] [cursor=pointer]:
+            - cell "99" [ref=e1174]:
+              - generic [ref=e1175]: "99"
+            - cell [ref=e1176]:
+              - generic "Add to comparison" [ref=e1177]:
+                - checkbox
+                - img [ref=e1179]
+            - cell "🇧🇭" [ref=e1181]
+            - cell "Bahrain" [ref=e1182]
+            - cell "578.4M" [ref=e1183]
+          - row "100 🇸🇦 Saudi Arabia 572.3M" [ref=e1184] [cursor=pointer]:
+            - cell "100" [ref=e1185]:
+              - generic [ref=e1186]: "100"
+            - cell [ref=e1187]:
+              - generic "Add to comparison" [ref=e1188]:
+                - checkbox
+                - img [ref=e1190]
+            - cell "🇸🇦" [ref=e1192]
+            - cell "Saudi Arabia" [ref=e1193]
+            - cell "572.3M" [ref=e1194]
+          - row "101 🇴🇲 Oman 569.9M" [ref=e1195] [cursor=pointer]:
+            - cell "101" [ref=e1196]:
+              - generic [ref=e1197]: "101"
+            - cell [ref=e1198]:
+              - generic "Add to comparison" [ref=e1199]:
+                - checkbox
+                - img [ref=e1201]
+            - cell "🇴🇲" [ref=e1203]
+            - cell "Oman" [ref=e1204]
+            - cell "569.9M" [ref=e1205]
+          - row "102 🇹🇭 Thailand 534.4M" [ref=e1206] [cursor=pointer]:
+            - cell "102" [ref=e1207]:
+              - generic [ref=e1208]: "102"
+            - cell [ref=e1209]:
+              - generic "Add to comparison" [ref=e1210]:
+                - checkbox
+                - img [ref=e1212]
+            - cell "🇹🇭" [ref=e1214]
+            - cell "Thailand" [ref=e1215]
+            - cell "534.4M" [ref=e1216]
+          - row "103 🇰🇿 Kazakhstan 530.2M" [ref=e1217] [cursor=pointer]:
+            - cell "103" [ref=e1218]:
+              - generic [ref=e1219]: "103"
+            - cell [ref=e1220]:
+              - generic "Add to comparison" [ref=e1221]:
+                - checkbox
+                - img [ref=e1223]
+            - cell "🇰🇿" [ref=e1225]
+            - cell "Kazakhstan" [ref=e1226]
+            - cell "530.2M" [ref=e1227]
+          - row "104 🇲🇻 Maldives 519.1M" [ref=e1228] [cursor=pointer]:
+            - cell "104" [ref=e1229]:
+              - generic [ref=e1230]: "104"
+            - cell [ref=e1231]:
+              - generic "Add to comparison" [ref=e1232]:
+                - checkbox
+                - img [ref=e1234]
+            - cell "🇲🇻" [ref=e1236]
+            - cell "Maldives" [ref=e1237]
+            - cell "519.1M" [ref=e1238]
+          - row "105 🇪🇨 Ecuador 478.5M" [ref=e1239] [cursor=pointer]:
+            - cell "105" [ref=e1240]:
+              - generic [ref=e1241]: "105"
+            - cell [ref=e1242]:
+              - generic "Add to comparison" [ref=e1243]:
+                - checkbox
+                - img [ref=e1245]
+            - cell "🇪🇨" [ref=e1247]
+            - cell "Ecuador" [ref=e1248]
+            - cell "478.5M" [ref=e1249]
+          - row "106 🇧🇾 Belarus 471.9M" [ref=e1250] [cursor=pointer]:
+            - cell "106" [ref=e1251]:
+              - generic [ref=e1252]: "106"
+            - cell [ref=e1253]:
+              - generic "Add to comparison" [ref=e1254]:
+                - checkbox
+                - img [ref=e1256]
+            - cell "🇧🇾" [ref=e1258]
+            - cell "Belarus" [ref=e1259]
+            - cell "471.9M" [ref=e1260]
+          - row "107 🇦🇲 Armenia 466.1M" [ref=e1261] [cursor=pointer]:
+            - cell "107" [ref=e1262]:
+              - generic [ref=e1263]: "107"
+            - cell [ref=e1264]:
+              - generic "Add to comparison" [ref=e1265]:
+                - checkbox
+                - img [ref=e1267]
+            - cell "🇦🇲" [ref=e1269]
+            - cell "Armenia" [ref=e1270]
+            - cell "466.1M" [ref=e1271]
+          - row "108 🇨🇳 China 441.5M" [ref=e1272] [cursor=pointer]:
+            - cell "108" [ref=e1273]:
+              - generic [ref=e1274]: "108"
+            - cell [ref=e1275]:
+              - generic "Add to comparison" [ref=e1276]:
+                - checkbox
+                - img [ref=e1278]
+            - cell "🇨🇳" [ref=e1280]
+            - cell "China" [ref=e1281]
+            - cell "441.5M" [ref=e1282]
+          - row "109 🇲🇳 Mongolia 436.7M" [ref=e1283] [cursor=pointer]:
+            - cell "109" [ref=e1284]:
+              - generic [ref=e1285]: "109"
+            - cell [ref=e1286]:
+              - generic "Add to comparison" [ref=e1287]:
+                - checkbox
+                - img [ref=e1289]
+            - cell "🇲🇳" [ref=e1291]
+            - cell "Mongolia" [ref=e1292]
+            - cell "436.7M" [ref=e1293]
+          - row "110 🇧🇿 Belize 417.4M" [ref=e1294] [cursor=pointer]:
+            - cell "110" [ref=e1295]:
+              - generic [ref=e1296]: "110"
+            - cell [ref=e1297]:
+              - generic "Add to comparison" [ref=e1298]:
+                - checkbox
+                - img [ref=e1300]
+            - cell "🇧🇿" [ref=e1302]
+            - cell "Belize" [ref=e1303]
+            - cell "417.4M" [ref=e1304]
+          - row "111 🇯🇲 Jamaica 416.5M" [ref=e1305] [cursor=pointer]:
+            - cell "111" [ref=e1306]:
+              - generic [ref=e1307]: "111"
+            - cell [ref=e1308]:
+              - generic "Add to comparison" [ref=e1309]:
+                - checkbox
+                - img [ref=e1311]
+            - cell "🇯🇲" [ref=e1313]
+            - cell "Jamaica" [ref=e1314]
+            - cell "416.5M" [ref=e1315]
+          - row "112 🇮🇩 Indonesia 407M" [ref=e1316] [cursor=pointer]:
+            - cell "112" [ref=e1317]:
+              - generic [ref=e1318]: "112"
+            - cell [ref=e1319]:
+              - generic "Add to comparison" [ref=e1320]:
+                - checkbox
+                - img [ref=e1322]
+            - cell "🇮🇩" [ref=e1324]
+            - cell "Indonesia" [ref=e1325]
+            - cell "407M" [ref=e1326]
+          - row "113 🇧🇴 Bolivia 397.9M" [ref=e1327] [cursor=pointer]:
+            - cell "113" [ref=e1328]:
+              - generic [ref=e1329]: "113"
+            - cell [ref=e1330]:
+              - generic "Add to comparison" [ref=e1331]:
+                - checkbox
+                - img [ref=e1333]
+            - cell "🇧🇴" [ref=e1335]
+            - cell "Bolivia" [ref=e1336]
+            - cell "397.9M" [ref=e1337]
+          - row "114 🇿🇦 South Africa 391.1M" [ref=e1338] [cursor=pointer]:
+            - cell "114" [ref=e1339]:
+              - generic [ref=e1340]: "114"
+            - cell [ref=e1341]:
+              - generic "Add to comparison" [ref=e1342]:
+                - checkbox
+                - img [ref=e1344]
+            - cell "🇿🇦" [ref=e1346]
+            - cell "South Africa" [ref=e1347]
+            - cell "391.1M" [ref=e1348]
+          - row "115 🇫🇯 Fiji 388.7M" [ref=e1349] [cursor=pointer]:
+            - cell "115" [ref=e1350]:
+              - generic [ref=e1351]: "115"
+            - cell [ref=e1352]:
+              - generic "Add to comparison" [ref=e1353]:
+                - checkbox
+                - img [ref=e1355]
+            - cell "🇫🇯" [ref=e1357]
+            - cell "Fiji" [ref=e1358]
+            - cell "388.7M" [ref=e1359]
+          - row "116 🇸🇷 Suriname 373.9M" [ref=e1360] [cursor=pointer]:
+            - cell "116" [ref=e1361]:
+              - generic [ref=e1362]: "116"
+            - cell [ref=e1363]:
+              - generic "Add to comparison" [ref=e1364]:
+                - checkbox
+                - img [ref=e1366]
+            - cell "🇸🇷" [ref=e1368]
+            - cell "Suriname" [ref=e1369]
+            - cell "373.9M" [ref=e1370]
+          - row "117 🇩🇴 Dominican Republic 350.7M" [ref=e1371] [cursor=pointer]:
+            - cell "117" [ref=e1372]:
+              - generic [ref=e1373]: "117"
+            - cell [ref=e1374]:
+              - generic "Add to comparison" [ref=e1375]:
+                - checkbox
+                - img [ref=e1377]
+            - cell "🇩🇴" [ref=e1379]
+            - cell "Dominican Republic" [ref=e1380]
+            - cell "350.7M" [ref=e1381]
+          - row "118 🇹🇳 Tunisia 344.4M" [ref=e1382] [cursor=pointer]:
+            - cell "118" [ref=e1383]:
+              - generic [ref=e1384]: "118"
+            - cell [ref=e1385]:
+              - generic "Add to comparison" [ref=e1386]:
+                - checkbox
+                - img [ref=e1388]
+            - cell "🇹🇳" [ref=e1390]
+            - cell "Tunisia" [ref=e1391]
+            - cell "344.4M" [ref=e1392]
+          - row "119 🇦🇿 Azerbaijan 341M" [ref=e1393] [cursor=pointer]:
+            - cell "119" [ref=e1394]:
+              - generic [ref=e1395]: "119"
+            - cell [ref=e1396]:
+              - generic "Add to comparison" [ref=e1397]:
+                - checkbox
+                - img [ref=e1399]
+            - cell "🇦🇿" [ref=e1401]
+            - cell "Azerbaijan" [ref=e1402]
+            - cell "341M" [ref=e1403]
+          - row "120 🇳🇷 Nauru 336.2M" [ref=e1404] [cursor=pointer]:
+            - cell "120" [ref=e1405]:
+              - generic [ref=e1406]: "120"
+            - cell [ref=e1407]:
+              - generic "Add to comparison" [ref=e1408]:
+                - checkbox
+                - img [ref=e1410]
+            - cell "🇳🇷" [ref=e1412]
+            - cell "Nauru" [ref=e1413]
+            - cell "336.2M" [ref=e1414]
+          - row "121 🇵🇬 Papua New Guinea 334.4M" [ref=e1415] [cursor=pointer]:
+            - cell "121" [ref=e1416]:
+              - generic [ref=e1417]: "121"
+            - cell [ref=e1418]:
+              - generic "Add to comparison" [ref=e1419]:
+                - checkbox
+                - img [ref=e1421]
+            - cell "🇵🇬" [ref=e1423]
+            - cell "Papua New Guinea" [ref=e1424]
+            - cell "334.4M" [ref=e1425]
+          - row "122 🇬🇾 Guyana 329.3M" [ref=e1426] [cursor=pointer]:
+            - cell "122" [ref=e1427]:
+              - generic [ref=e1428]: "122"
+            - cell [ref=e1429]:
+              - generic "Add to comparison" [ref=e1430]:
+                - checkbox
+                - img [ref=e1432]
+            - cell "🇬🇾" [ref=e1434]
+            - cell "Guyana" [ref=e1435]
+            - cell "329.3M" [ref=e1436]
+          - row "123 🇺🇿 Uzbekistan 318.5M" [ref=e1437] [cursor=pointer]:
+            - cell "123" [ref=e1438]:
+              - generic [ref=e1439]: "123"
+            - cell [ref=e1440]:
+              - generic "Add to comparison" [ref=e1441]:
+                - checkbox
+                - img [ref=e1443]
+            - cell "🇺🇿" [ref=e1445]
+            - cell "Uzbekistan" [ref=e1446]
+            - cell "318.5M" [ref=e1447]
+          - row "124 🇲🇦 Morocco 314.8M" [ref=e1448] [cursor=pointer]:
+            - cell "124" [ref=e1449]:
+              - generic [ref=e1450]: "124"
+            - cell [ref=e1451]:
+              - generic "Add to comparison" [ref=e1452]:
+                - checkbox
+                - img [ref=e1454]
+            - cell "🇲🇦" [ref=e1456]
+            - cell "Morocco" [ref=e1457]
+            - cell "314.8M" [ref=e1458]
+          - row "125 🇰🇬 Kyrgyzstan 295M" [ref=e1459] [cursor=pointer]:
+            - cell "125" [ref=e1460]:
+              - generic [ref=e1461]: "125"
+            - cell [ref=e1462]:
+              - generic "Add to comparison" [ref=e1463]:
+                - checkbox
+                - img [ref=e1465]
+            - cell "🇰🇬" [ref=e1467]
+            - cell "Kyrgyzstan" [ref=e1468]
+            - cell "295M" [ref=e1469]
+          - row "126 🇧🇼 Botswana 279.3M" [ref=e1470] [cursor=pointer]:
+            - cell "126" [ref=e1471]:
+              - generic [ref=e1472]: "126"
+            - cell [ref=e1473]:
+              - generic "Add to comparison" [ref=e1474]:
+                - checkbox
+                - img [ref=e1476]
+            - cell "🇧🇼" [ref=e1478]
+            - cell "Botswana" [ref=e1479]
+            - cell "279.3M" [ref=e1480]
+          - row "127 🇵🇭 Philippines 274.3M" [ref=e1481] [cursor=pointer]:
+            - cell "127" [ref=e1482]:
+              - generic [ref=e1483]: "127"
+            - cell [ref=e1484]:
+              - generic "Add to comparison" [ref=e1485]:
+                - checkbox
+                - img [ref=e1487]
+            - cell "🇵🇭" [ref=e1489]
+            - cell "Philippines" [ref=e1490]
+            - cell "274.3M" [ref=e1491]
+          - row "128 🇯🇴 Jordan 272.3M" [ref=e1492] [cursor=pointer]:
+            - cell "128" [ref=e1493]:
+              - generic [ref=e1494]: "128"
+            - cell [ref=e1495]:
+              - generic "Add to comparison" [ref=e1496]:
+                - checkbox
+                - img [ref=e1498]
+            - cell "🇯🇴" [ref=e1500]
+            - cell "Jordan" [ref=e1501]
+            - cell "272.3M" [ref=e1502]
+          - row "129 🇻🇺 Vanuatu 265.4M" [ref=e1503] [cursor=pointer]:
+            - cell "129" [ref=e1504]:
+              - generic [ref=e1505]: "129"
+            - cell [ref=e1506]:
+              - generic "Add to comparison" [ref=e1507]:
+                - checkbox
+                - img [ref=e1509]
+            - cell "🇻🇺" [ref=e1511]
+            - cell "Vanuatu" [ref=e1512]
+            - cell "265.4M" [ref=e1513]
+          - row "130 🇳🇦 Namibia 253.4M" [ref=e1514] [cursor=pointer]:
+            - cell "130" [ref=e1515]:
+              - generic [ref=e1516]: "130"
+            - cell [ref=e1517]:
+              - generic "Add to comparison" [ref=e1518]:
+                - checkbox
+                - img [ref=e1520]
+            - cell "🇳🇦" [ref=e1522]
+            - cell "Namibia" [ref=e1523]
+            - cell "253.4M" [ref=e1524]
+          - row "131 🇭🇹 Haiti 251.8M" [ref=e1525] [cursor=pointer]:
+            - cell "131" [ref=e1526]:
+              - generic [ref=e1527]: "131"
+            - cell [ref=e1528]:
+              - generic "Add to comparison" [ref=e1529]:
+                - checkbox
+                - img [ref=e1531]
+            - cell "🇭🇹" [ref=e1533]
+            - cell "Haiti" [ref=e1534]
+            - cell "251.8M" [ref=e1535]
+          - row "132 🇱🇸 Lesotho 249.6M" [ref=e1536] [cursor=pointer]:
+            - cell "132" [ref=e1537]:
+              - generic [ref=e1538]: "132"
+            - cell [ref=e1539]:
+              - generic "Add to comparison" [ref=e1540]:
+                - checkbox
+                - img [ref=e1542]
+            - cell "🇱🇸" [ref=e1544]
+            - cell "Lesotho" [ref=e1545]
+            - cell "249.6M" [ref=e1546]
+          - row "133 🇱🇦 Laos 215.4M" [ref=e1547] [cursor=pointer]:
+            - cell "133" [ref=e1548]:
+              - generic [ref=e1549]: "133"
+            - cell [ref=e1550]:
+              - generic "Add to comparison" [ref=e1551]:
+                - checkbox
+                - img [ref=e1553]
+            - cell "🇱🇦" [ref=e1555]
+            - cell "Laos" [ref=e1556]
+            - cell "215.4M" [ref=e1557]
+          - row "134 🇨🇻 Cape Verde 213.3M" [ref=e1558] [cursor=pointer]:
+            - cell "134" [ref=e1559]:
+              - generic [ref=e1560]: "134"
+            - cell [ref=e1561]:
+              - generic "Add to comparison" [ref=e1562]:
+                - checkbox
+                - img [ref=e1564]
+            - cell "🇨🇻" [ref=e1566]
+            - cell "Cape Verde" [ref=e1567]
+            - cell "213.3M" [ref=e1568]
+          - row "135 🇰🇭 Cambodia 211.6M" [ref=e1569] [cursor=pointer]:
+            - cell "135" [ref=e1570]:
+              - generic [ref=e1571]: "135"
+            - cell [ref=e1572]:
+              - generic "Add to comparison" [ref=e1573]:
+                - checkbox
+                - img [ref=e1575]
+            - cell "🇰🇭" [ref=e1577]
+            - cell "Cambodia" [ref=e1578]
+            - cell "211.6M" [ref=e1579]
+          - row "136 🇧🇹 Bhutan 207.2M" [ref=e1580] [cursor=pointer]:
+            - cell "136" [ref=e1581]:
+              - generic [ref=e1582]: "136"
+            - cell [ref=e1583]:
+              - generic "Add to comparison" [ref=e1584]:
+                - checkbox
+                - img [ref=e1586]
+            - cell "🇧🇹" [ref=e1588]
+            - cell "Bhutan" [ref=e1589]
+            - cell "207.2M" [ref=e1590]
+          - row "137 🇰🇪 Kenya 202.9M" [ref=e1591] [cursor=pointer]:
+            - cell "137" [ref=e1592]:
+              - generic [ref=e1593]: "137"
+            - cell [ref=e1594]:
+              - generic "Add to comparison" [ref=e1595]:
+                - checkbox
+                - img [ref=e1597]
+            - cell "🇰🇪" [ref=e1599]
+            - cell "Kenya" [ref=e1600]
+            - cell "202.9M" [ref=e1601]
+          - row "138 🇸🇹 Sao Tome and Principe 202.3M" [ref=e1602] [cursor=pointer]:
+            - cell "138" [ref=e1603]:
+              - generic [ref=e1604]: "138"
+            - cell [ref=e1605]:
+              - generic "Add to comparison" [ref=e1606]:
+                - checkbox
+                - img [ref=e1608]
+            - cell "🇸🇹" [ref=e1610]
+            - cell "Sao Tome and Principe" [ref=e1611]
+            - cell "202.3M" [ref=e1612]
+          - row "139 🇹🇿 Tanzania 197.3M" [ref=e1613] [cursor=pointer]:
+            - cell "139" [ref=e1614]:
+              - generic [ref=e1615]: "139"
+            - cell [ref=e1616]:
+              - generic "Add to comparison" [ref=e1617]:
+                - checkbox
+                - img [ref=e1619]
+            - cell "🇹🇿" [ref=e1621]
+            - cell "Tanzania" [ref=e1622]
+            - cell "197.3M" [ref=e1623]
+          - row "140 🇨🇺 Cuba 192.7M" [ref=e1624] [cursor=pointer]:
+            - cell "140" [ref=e1625]:
+              - generic [ref=e1626]: "140"
+            - cell [ref=e1627]:
+              - generic "Add to comparison" [ref=e1628]:
+                - checkbox
+                - img [ref=e1630]
+            - cell "🇨🇺" [ref=e1632]
+            - cell "Cuba" [ref=e1633]
+            - cell "192.7M" [ref=e1634]
+          - row "141 🇲🇼 Malawi 192.5M" [ref=e1635] [cursor=pointer]:
+            - cell "141" [ref=e1636]:
+              - generic [ref=e1637]: "141"
+            - cell [ref=e1638]:
+              - generic "Add to comparison" [ref=e1639]:
+                - checkbox
+                - img [ref=e1641]
+            - cell "🇲🇼" [ref=e1643]
+            - cell "Malawi" [ref=e1644]
+            - cell "192.5M" [ref=e1645]
+          - row "142 🇬🇦 Gabon 189.6M" [ref=e1646] [cursor=pointer]:
+            - cell "142" [ref=e1647]:
+              - generic [ref=e1648]: "142"
+            - cell [ref=e1649]:
+              - generic "Add to comparison" [ref=e1650]:
+                - checkbox
+                - img [ref=e1652]
+            - cell "🇬🇦" [ref=e1654]
+            - cell "Gabon" [ref=e1655]
+            - cell "189.6M" [ref=e1656]
+          - row "143 🇬🇳 Guinea 188.8M" [ref=e1657] [cursor=pointer]:
+            - cell "143" [ref=e1658]:
+              - generic [ref=e1659]: "143"
+            - cell [ref=e1660]:
+              - generic "Add to comparison" [ref=e1661]:
+                - checkbox
+                - img [ref=e1663]
+            - cell "🇬🇳" [ref=e1665]
+            - cell "Guinea" [ref=e1666]
+            - cell "188.8M" [ref=e1667]
+          - row "144 🇸🇿 Swaziland 188.4M" [ref=e1668] [cursor=pointer]:
+            - cell "144" [ref=e1669]:
+              - generic [ref=e1670]: "144"
+            - cell [ref=e1671]:
+              - generic "Add to comparison" [ref=e1672]:
+                - checkbox
+                - img [ref=e1674]
+            - cell "🇸🇿" [ref=e1676]
+            - cell "Swaziland" [ref=e1677]
+            - cell "188.4M" [ref=e1678]
+          - row "145 🇿🇲 Zambia 180.1M" [ref=e1679] [cursor=pointer]:
+            - cell "145" [ref=e1680]:
+              - generic [ref=e1681]: "145"
+            - cell [ref=e1682]:
+              - generic "Add to comparison" [ref=e1683]:
+                - checkbox
+                - img [ref=e1685]
+            - cell "🇿🇲" [ref=e1687]
+            - cell "Zambia" [ref=e1688]
+            - cell "180.1M" [ref=e1689]
+          - row "146 🇿🇼 Zimbabwe 179.4M" [ref=e1690] [cursor=pointer]:
+            - cell "146" [ref=e1691]:
+              - generic [ref=e1692]: "146"
+            - cell [ref=e1693]:
+              - generic "Add to comparison" [ref=e1694]:
+                - checkbox
+                - img [ref=e1696]
+            - cell "🇿🇼" [ref=e1698]
+            - cell "Zimbabwe" [ref=e1699]
+            - cell "179.4M" [ref=e1700]
+          - row "147 🇧🇯 Benin 179.2M" [ref=e1701] [cursor=pointer]:
+            - cell "147" [ref=e1702]:
+              - generic [ref=e1703]: "147"
+            - cell [ref=e1704]:
+              - generic "Add to comparison" [ref=e1705]:
+                - checkbox
+                - img [ref=e1707]
+            - cell "🇧🇯" [ref=e1709]
+            - cell "Benin" [ref=e1710]
+            - cell "179.2M" [ref=e1711]
+          - row "🇮🇳 India 179.2M" [ref=e1712] [cursor=pointer]:
+            - cell [ref=e1713]
+            - cell [ref=e1714]:
+              - generic "Add to comparison" [ref=e1715]:
+                - checkbox
+                - img [ref=e1717]
+            - cell "🇮🇳" [ref=e1719]
+            - cell "India" [ref=e1720]
+            - cell "179.2M" [ref=e1721]
+          - row "🇹🇯 Tajikistan 179.2M" [ref=e1722] [cursor=pointer]:
+            - cell [ref=e1723]
+            - cell [ref=e1724]:
+              - generic "Add to comparison" [ref=e1725]:
+                - checkbox
+                - img [ref=e1727]
+            - cell "🇹🇯" [ref=e1729]
+            - cell "Tajikistan" [ref=e1730]
+            - cell "179.2M" [ref=e1731]
+          - row "150 🇻🇳 Vietnam 178.4M" [ref=e1732] [cursor=pointer]:
+            - cell "150" [ref=e1733]:
+              - generic [ref=e1734]: "150"
+            - cell [ref=e1735]:
+              - generic "Add to comparison" [ref=e1736]:
+                - checkbox
+                - img [ref=e1738]
+            - cell "🇻🇳" [ref=e1740]
+            - cell "Vietnam" [ref=e1741]
+            - cell "178.4M" [ref=e1742]
+          - row "151 🇮🇷 Iran 177.9M" [ref=e1743] [cursor=pointer]:
+            - cell "151" [ref=e1744]:
+              - generic [ref=e1745]: "151"
+            - cell [ref=e1746]:
+              - generic "Add to comparison" [ref=e1747]:
+                - checkbox
+                - img [ref=e1749]
+            - cell "🇮🇷" [ref=e1751]
+            - cell "Iran" [ref=e1752]
+            - cell "177.9M" [ref=e1753]
+          - row "152 🇲🇬 Madagascar 175.7M" [ref=e1754] [cursor=pointer]:
+            - cell "152" [ref=e1755]:
+              - generic [ref=e1756]: "152"
+            - cell [ref=e1757]:
+              - generic "Add to comparison" [ref=e1758]:
+                - checkbox
+                - img [ref=e1760]
+            - cell "🇲🇬" [ref=e1762]
+            - cell "Madagascar" [ref=e1763]
+            - cell "175.7M" [ref=e1764]
+          - row "153 🇲🇲 Myanmar 171.5M" [ref=e1765] [cursor=pointer]:
+            - cell "153" [ref=e1766]:
+              - generic [ref=e1767]: "153"
+            - cell [ref=e1768]:
+              - generic "Add to comparison" [ref=e1769]:
+                - checkbox
+                - img [ref=e1771]
+            - cell "🇲🇲" [ref=e1773]
+            - cell "Myanmar" [ref=e1774]
+            - cell "171.5M" [ref=e1775]
+          - row "154 🇺🇬 Uganda 171.2M" [ref=e1776] [cursor=pointer]:
+            - cell "154" [ref=e1777]:
+              - generic [ref=e1778]: "154"
+            - cell [ref=e1779]:
+              - generic "Add to comparison" [ref=e1780]:
+                - checkbox
+                - img [ref=e1782]
+            - cell "🇺🇬" [ref=e1784]
+            - cell "Uganda" [ref=e1785]
+            - cell "171.2M" [ref=e1786]
+          - row "155 🇱🇧 Lebanon 165.9M" [ref=e1787] [cursor=pointer]:
+            - cell "155" [ref=e1788]:
+              - generic [ref=e1789]: "155"
+            - cell [ref=e1790]:
+              - generic "Add to comparison" [ref=e1791]:
+                - checkbox
+                - img [ref=e1793]
+            - cell "🇱🇧" [ref=e1795]
+            - cell "Lebanon" [ref=e1796]
+            - cell "165.9M" [ref=e1797]
+          - row "156 🇪🇬 Egypt 163.8M" [ref=e1798] [cursor=pointer]:
+            - cell "156" [ref=e1799]:
+              - generic [ref=e1800]: "156"
+            - cell [ref=e1801]:
+              - generic "Add to comparison" [ref=e1802]:
+                - checkbox
+                - img [ref=e1804]
+            - cell "🇪🇬" [ref=e1806]
+            - cell "Egypt" [ref=e1807]
+            - cell "163.8M" [ref=e1808]
+          - row "157 🇩🇿 Algeria 163.7M" [ref=e1809] [cursor=pointer]:
+            - cell "157" [ref=e1810]:
+              - generic [ref=e1811]: "157"
+            - cell [ref=e1812]:
+              - generic "Add to comparison" [ref=e1813]:
+                - checkbox
+                - img [ref=e1815]
+            - cell "🇩🇿" [ref=e1817]
+            - cell "Algeria" [ref=e1818]
+            - cell "163.7M" [ref=e1819]
+          - row "158 🇲🇷 Mauritania 160.1M" [ref=e1820] [cursor=pointer]:
+            - cell "158" [ref=e1821]:
+              - generic [ref=e1822]: "158"
+            - cell [ref=e1823]:
+              - generic "Add to comparison" [ref=e1824]:
+                - checkbox
+                - img [ref=e1826]
+            - cell "🇲🇷" [ref=e1828]
+            - cell "Mauritania" [ref=e1829]
+            - cell "160.1M" [ref=e1830]
+          - row "159 🇰🇲 Comoros 159.4M" [ref=e1831] [cursor=pointer]:
+            - cell "159" [ref=e1832]:
+              - generic [ref=e1833]: "159"
+            - cell [ref=e1834]:
+              - generic "Add to comparison" [ref=e1835]:
+                - checkbox
+                - img [ref=e1837]
+            - cell "🇰🇲" [ref=e1839]
+            - cell "Comoros" [ref=e1840]
+            - cell "159.4M" [ref=e1841]
+          - row "160 🇲🇿 Mozambique 156.5M" [ref=e1842] [cursor=pointer]:
+            - cell "160" [ref=e1843]:
+              - generic [ref=e1844]: "160"
+            - cell [ref=e1845]:
+              - generic "Add to comparison" [ref=e1846]:
+                - checkbox
+                - img [ref=e1848]
+            - cell "🇲🇿" [ref=e1850]
+            - cell "Mozambique" [ref=e1851]
+            - cell "156.5M" [ref=e1852]
+          - row "161 🇧🇫 Burkina Faso 152.4M" [ref=e1853] [cursor=pointer]:
+            - cell "161" [ref=e1854]:
+              - generic [ref=e1855]: "161"
+            - cell [ref=e1856]:
+              - generic "Add to comparison" [ref=e1857]:
+                - checkbox
+                - img [ref=e1859]
+            - cell "🇧🇫" [ref=e1861]
+            - cell "Burkina Faso" [ref=e1862]
+            - cell "152.4M" [ref=e1863]
+          - row "162 🇹🇩 Chad 148.2M" [ref=e1864] [cursor=pointer]:
+            - cell "162" [ref=e1865]:
+              - generic [ref=e1866]: "162"
+            - cell [ref=e1867]:
+              - generic "Add to comparison" [ref=e1868]:
+                - checkbox
+                - img [ref=e1870]
+            - cell "🇹🇩" [ref=e1872]
+            - cell "Chad" [ref=e1873]
+            - cell "148.2M" [ref=e1874]
+          - row "163 🇳🇪 Niger 146.6M" [ref=e1875] [cursor=pointer]:
+            - cell "163" [ref=e1876]:
+              - generic [ref=e1877]: "163"
+            - cell [ref=e1878]:
+              - generic "Add to comparison" [ref=e1879]:
+                - checkbox
+                - img [ref=e1881]
+            - cell "🇳🇪" [ref=e1883]
+            - cell "Niger" [ref=e1884]
+            - cell "146.6M" [ref=e1885]
+          - row "164 🇬🇲 Gambia 143.3M" [ref=e1886] [cursor=pointer]:
+            - cell "164" [ref=e1887]:
+              - generic [ref=e1888]: "164"
+            - cell [ref=e1889]:
+              - generic "Add to comparison" [ref=e1890]:
+                - checkbox
+                - img [ref=e1892]
+            - cell "🇬🇲" [ref=e1894]
+            - cell "Gambia" [ref=e1895]
+            - cell "143.3M" [ref=e1896]
+          - row "165 🇬🇶 Equatorial Guinea 140M" [ref=e1897] [cursor=pointer]:
+            - cell "165" [ref=e1898]:
+              - generic [ref=e1899]: "165"
+            - cell [ref=e1900]:
+              - generic "Add to comparison" [ref=e1901]:
+                - checkbox
+                - img [ref=e1903]
+            - cell "🇬🇶" [ref=e1905]
+            - cell "Equatorial Guinea" [ref=e1906]
+            - cell "140M" [ref=e1907]
+          - row "166 🇲🇱 Mali 139.1M" [ref=e1908] [cursor=pointer]:
+            - cell "166" [ref=e1909]:
+              - generic [ref=e1910]: "166"
+            - cell [ref=e1911]:
+              - generic "Add to comparison" [ref=e1912]:
+                - checkbox
+                - img [ref=e1914]
+            - cell "🇲🇱" [ref=e1916]
+            - cell "Mali" [ref=e1917]
+            - cell "139.1M" [ref=e1918]
+          - row "167 🇸🇳 Senegal 139M" [ref=e1919] [cursor=pointer]:
+            - cell "167" [ref=e1920]:
+              - generic [ref=e1921]: "167"
+            - cell [ref=e1922]:
+              - generic "Add to comparison" [ref=e1923]:
+                - checkbox
+                - img [ref=e1925]
+            - cell "🇸🇳" [ref=e1927]
+            - cell "Senegal" [ref=e1928]
+            - cell "139M" [ref=e1929]
+          - row "168 🇹🇬 Togo 134.3M" [ref=e1930] [cursor=pointer]:
+            - cell "168" [ref=e1931]:
+              - generic [ref=e1932]: "168"
+            - cell [ref=e1933]:
+              - generic "Add to comparison" [ref=e1934]:
+                - checkbox
+                - img [ref=e1936]
+            - cell "🇹🇬" [ref=e1938]
+            - cell "Togo" [ref=e1939]
+            - cell "134.3M" [ref=e1940]
+          - row "169 🇩🇯 Djibouti 125.6M" [ref=e1941] [cursor=pointer]:
+            - cell "169" [ref=e1942]:
+              - generic [ref=e1943]: "169"
+            - cell [ref=e1944]:
+              - generic "Add to comparison" [ref=e1945]:
+                - checkbox
+                - img [ref=e1947]
+            - cell "🇩🇯" [ref=e1949]
+            - cell "Djibouti" [ref=e1950]
+            - cell "125.6M" [ref=e1951]
+          - row "170 🇪🇹 Ethiopia 124.3M" [ref=e1952] [cursor=pointer]:
+            - cell "170" [ref=e1953]:
+              - generic [ref=e1954]: "170"
+            - cell [ref=e1955]:
+              - generic "Add to comparison" [ref=e1956]:
+                - checkbox
+                - img [ref=e1958]
+            - cell "🇪🇹" [ref=e1960]
+            - cell "Ethiopia" [ref=e1961]
+            - cell "124.3M" [ref=e1962]
+          - row "171 🇷🇼 Rwanda 123.6M" [ref=e1963] [cursor=pointer]:
+            - cell "171" [ref=e1964]:
+              - generic [ref=e1965]: "171"
+            - cell [ref=e1966]:
+              - generic "Add to comparison" [ref=e1967]:
+                - checkbox
+                - img [ref=e1969]
+            - cell "🇷🇼" [ref=e1971]
+            - cell "Rwanda" [ref=e1972]
+            - cell "123.6M" [ref=e1973]
+          - row "172 🇸🇱 Sierra Leone 123M" [ref=e1974] [cursor=pointer]:
+            - cell "172" [ref=e1975]:
+              - generic [ref=e1976]: "172"
+            - cell [ref=e1977]:
+              - generic "Add to comparison" [ref=e1978]:
+                - checkbox
+                - img [ref=e1980]
+            - cell "🇸🇱" [ref=e1982]
+            - cell "Sierra Leone" [ref=e1983]
+            - cell "123M" [ref=e1984]
+          - row "173 🇬🇭 Ghana 122.9M" [ref=e1985] [cursor=pointer]:
+            - cell "173" [ref=e1986]:
+              - generic [ref=e1987]: "173"
+            - cell [ref=e1988]:
+              - generic "Add to comparison" [ref=e1989]:
+                - checkbox
+                - img [ref=e1991]
+            - cell "🇬🇭" [ref=e1993]
+            - cell "Ghana" [ref=e1994]
+            - cell "122.9M" [ref=e1995]
+          - row "174 🇸🇸 South Sudan 122.5M" [ref=e1996] [cursor=pointer]:
+            - cell "174" [ref=e1997]:
+              - generic [ref=e1998]: "174"
+            - cell [ref=e1999]:
+              - generic "Add to comparison" [ref=e2000]:
+                - checkbox
+                - img [ref=e2002]
+            - cell "🇸🇸" [ref=e2004]
+            - cell "South Sudan" [ref=e2005]
+            - cell "122.5M" [ref=e2006]
+          - row "175 🇵🇸 Palestine 117.8M" [ref=e2007] [cursor=pointer]:
+            - cell "175" [ref=e2008]:
+              - generic [ref=e2009]: "175"
+            - cell [ref=e2010]:
+              - generic "Add to comparison" [ref=e2011]:
+                - checkbox
+                - img [ref=e2013]
+            - cell "🇵🇸" [ref=e2015]
+            - cell "Palestine" [ref=e2016]
+            - cell "117.8M" [ref=e2017]
+          - row "176 🇹🇲 Turkmenistan 117.4M" [ref=e2018] [cursor=pointer]:
+            - cell "176" [ref=e2019]:
+              - generic [ref=e2020]: "176"
+            - cell [ref=e2021]:
+              - generic "Add to comparison" [ref=e2022]:
+                - checkbox
+                - img [ref=e2024]
+            - cell "🇹🇲" [ref=e2026]
+            - cell "Turkmenistan" [ref=e2027]
+            - cell "117.4M" [ref=e2028]
+          - row "177 🇦🇴 Angola 115.5M" [ref=e2029] [cursor=pointer]:
+            - cell "177" [ref=e2030]:
+              - generic [ref=e2031]: "177"
+            - cell [ref=e2032]:
+              - generic "Add to comparison" [ref=e2033]:
+                - checkbox
+                - img [ref=e2035]
+            - cell "🇦🇴" [ref=e2037]
+            - cell "Angola" [ref=e2038]
+            - cell "115.5M" [ref=e2039]
+          - row "178 🇨🇬 Congo 104.2M" [ref=e2040] [cursor=pointer]:
+            - cell "178" [ref=e2041]:
+              - generic [ref=e2042]: "178"
+            - cell [ref=e2043]:
+              - generic "Add to comparison" [ref=e2044]:
+                - checkbox
+                - img [ref=e2046]
+            - cell "🇨🇬" [ref=e2048]
+            - cell "Congo" [ref=e2049]
+            - cell "104.2M" [ref=e2050]
+          - row "179 🇱🇾 Libya 103.3M" [ref=e2051] [cursor=pointer]:
+            - cell "179" [ref=e2052]:
+              - generic [ref=e2053]: "179"
+            - cell [ref=e2054]:
+              - generic "Add to comparison" [ref=e2055]:
+                - checkbox
+                - img [ref=e2057]
+            - cell "🇱🇾" [ref=e2059]
+            - cell "Libya" [ref=e2060]
+            - cell "103.3M" [ref=e2061]
+          - row "180 🇨🇮 Ivory Coast 96.3M" [ref=e2062] [cursor=pointer]:
+            - cell "180" [ref=e2063]:
+              - generic [ref=e2064]: "180"
+            - cell [ref=e2065]:
+              - generic "Add to comparison" [ref=e2066]:
+                - checkbox
+                - img [ref=e2068]
+            - cell "🇨🇮" [ref=e2070]
+            - cell "Ivory Coast" [ref=e2071]
+            - cell "96.3M" [ref=e2072]
+          - row "181 🇱🇰 Sri Lanka 95.2M" [ref=e2073] [cursor=pointer]:
+            - cell "181" [ref=e2074]:
+              - generic [ref=e2075]: "181"
+            - cell [ref=e2076]:
+              - generic "Add to comparison" [ref=e2077]:
+                - checkbox
+                - img [ref=e2079]
+            - cell "🇱🇰" [ref=e2081]
+            - cell "Sri Lanka" [ref=e2082]
+            - cell "95.2M" [ref=e2083]
+          - row "182 🇬🇼 Guinea-Bissau 94.4M" [ref=e2084] [cursor=pointer]:
+            - cell "182" [ref=e2085]:
+              - generic [ref=e2086]: "182"
+            - cell [ref=e2087]:
+              - generic "Add to comparison" [ref=e2088]:
+                - checkbox
+                - img [ref=e2090]
+            - cell "🇬🇼" [ref=e2092]
+            - cell "Guinea-Bissau" [ref=e2093]
+            - cell "94.4M" [ref=e2094]
+          - row "183 🇮🇶 Iraq 93.3M" [ref=e2095] [cursor=pointer]:
+            - cell "183" [ref=e2096]:
+              - generic [ref=e2097]: "183"
+            - cell [ref=e2098]:
+              - generic "Add to comparison" [ref=e2099]:
+                - checkbox
+                - img [ref=e2101]
+            - cell "🇮🇶" [ref=e2103]
+            - cell "Iraq" [ref=e2104]
+            - cell "93.3M" [ref=e2105]
+          - row "184 🇨🇫 Central African Republic 93.1M" [ref=e2106] [cursor=pointer]:
+            - cell "184" [ref=e2107]:
+              - generic [ref=e2108]: "184"
+            - cell [ref=e2109]:
+              - generic "Add to comparison" [ref=e2110]:
+                - checkbox
+                - img [ref=e2112]
+            - cell "🇨🇫" [ref=e2114]
+            - cell "Central African Republic" [ref=e2115]
+            - cell "93.1M" [ref=e2116]
+          - row "185 🇧🇮 Burundi 92.8M" [ref=e2117] [cursor=pointer]:
+            - cell "185" [ref=e2118]:
+              - generic [ref=e2119]: "185"
+            - cell [ref=e2120]:
+              - generic "Add to comparison" [ref=e2121]:
+                - checkbox
+                - img [ref=e2123]
+            - cell "🇧🇮" [ref=e2125]
+            - cell "Burundi" [ref=e2126]
+            - cell "92.8M" [ref=e2127]
+          - row "186 🇰🇵 North Korea 89.7M" [ref=e2128] [cursor=pointer]:
+            - cell "186" [ref=e2129]:
+              - generic [ref=e2130]: "186"
+            - cell [ref=e2131]:
+              - generic "Add to comparison" [ref=e2132]:
+                - checkbox
+                - img [ref=e2134]
+            - cell "🇰🇵" [ref=e2136]
+            - cell "North Korea" [ref=e2137]
+            - cell "89.7M" [ref=e2138]
+          - row "187 🇨🇩 DR Congo 89.1M" [ref=e2139] [cursor=pointer]:
+            - cell "187" [ref=e2140]:
+              - generic [ref=e2141]: "187"
+            - cell [ref=e2142]:
+              - generic "Add to comparison" [ref=e2143]:
+                - checkbox
+                - img [ref=e2145]
+            - cell "🇨🇩" [ref=e2147]
+            - cell "DR Congo" [ref=e2148]
+            - cell "89.1M" [ref=e2149]
+          - row "🇸🇩 Sudan 89.1M" [ref=e2150] [cursor=pointer]:
+            - cell [ref=e2151]
+            - cell [ref=e2152]:
+              - generic "Add to comparison" [ref=e2153]:
+                - checkbox
+                - img [ref=e2155]
+            - cell "🇸🇩" [ref=e2157]
+            - cell "Sudan" [ref=e2158]
+            - cell "89.1M" [ref=e2159]
+          - row "189 🇾🇪 Yemen 86M" [ref=e2160] [cursor=pointer]:
+            - cell "189" [ref=e2161]:
+              - generic [ref=e2162]: "189"
+            - cell [ref=e2163]:
+              - generic "Add to comparison" [ref=e2164]:
+                - checkbox
+                - img [ref=e2166]
+            - cell "🇾🇪" [ref=e2168]
+            - cell "Yemen" [ref=e2169]
+            - cell "86M" [ref=e2170]
+          - row "190 🇪🇷 Eritrea 85.9M" [ref=e2171] [cursor=pointer]:
+            - cell "190" [ref=e2172]:
+              - generic [ref=e2173]: "190"
+            - cell [ref=e2174]:
+              - generic "Add to comparison" [ref=e2175]:
+                - checkbox
+                - img [ref=e2177]
+            - cell "🇪🇷" [ref=e2179]
+            - cell "Eritrea" [ref=e2180]
+            - cell "85.9M" [ref=e2181]
+          - row "191 🇱🇷 Liberia 85.3M" [ref=e2182] [cursor=pointer]:
+            - cell "191" [ref=e2183]:
+              - generic [ref=e2184]: "191"
+            - cell [ref=e2185]:
+              - generic "Add to comparison" [ref=e2186]:
+                - checkbox
+                - img [ref=e2188]
+            - cell "🇱🇷" [ref=e2190]
+            - cell "Liberia" [ref=e2191]
+            - cell "85.3M" [ref=e2192]
+          - row "192 🇨🇲 Cameroon 84.8M" [ref=e2193] [cursor=pointer]:
+            - cell "192" [ref=e2194]:
+              - generic [ref=e2195]: "192"
+            - cell [ref=e2196]:
+              - generic "Add to comparison" [ref=e2197]:
+                - checkbox
+                - img [ref=e2199]
+            - cell "🇨🇲" [ref=e2201]
+            - cell "Cameroon" [ref=e2202]
+            - cell "84.8M" [ref=e2203]
+          - row "193 🇳🇵 Nepal 83.3M" [ref=e2204] [cursor=pointer]:
+            - cell "193" [ref=e2205]:
+              - generic [ref=e2206]: "193"
+            - cell [ref=e2207]:
+              - generic "Add to comparison" [ref=e2208]:
+                - checkbox
+                - img [ref=e2210]
+            - cell "🇳🇵" [ref=e2212]
+            - cell "Nepal" [ref=e2213]
+            - cell "83.3M" [ref=e2214]
+          - row "194 🇸🇴 Somalia 79.8M" [ref=e2215] [cursor=pointer]:
+            - cell "194" [ref=e2216]:
+              - generic [ref=e2217]: "194"
+            - cell [ref=e2218]:
+              - generic "Add to comparison" [ref=e2219]:
+                - checkbox
+                - img [ref=e2221]
+            - cell "🇸🇴" [ref=e2223]
+            - cell "Somalia" [ref=e2224]
+            - cell "79.8M" [ref=e2225]
+          - row "195 🇸🇾 Syria 77.9M" [ref=e2226] [cursor=pointer]:
+            - cell "195" [ref=e2227]:
+              - generic [ref=e2228]: "195"
+            - cell [ref=e2229]:
+              - generic "Add to comparison" [ref=e2230]:
+                - checkbox
+                - img [ref=e2232]
+            - cell "🇸🇾" [ref=e2234]
+            - cell "Syria" [ref=e2235]
+            - cell "77.9M" [ref=e2236]
+          - row "196 🇦🇫 Afghanistan 47.7M" [ref=e2237] [cursor=pointer]:
+            - cell "196" [ref=e2238]:
+              - generic [ref=e2239]: "196"
+            - cell [ref=e2240]:
+              - generic "Add to comparison" [ref=e2241]:
+                - checkbox
+                - img [ref=e2243]
+            - cell "🇦🇫" [ref=e2245]
+            - cell "Afghanistan" [ref=e2246]
+            - cell "47.7M" [ref=e2247]
+          - row "197 🇧🇩 Bangladesh 34.2M" [ref=e2248] [cursor=pointer]:
+            - cell "197" [ref=e2249]:
+              - generic [ref=e2250]: "197"
+            - cell [ref=e2251]:
+              - generic "Add to comparison" [ref=e2252]:
+                - checkbox
+                - img [ref=e2254]
+            - cell "🇧🇩" [ref=e2256]
+            - cell "Bangladesh" [ref=e2257]
+            - cell "34.2M" [ref=e2258]
+          - row "198 🇳🇬 Nigeria 32.5M" [ref=e2259] [cursor=pointer]:
+            - cell "198" [ref=e2260]:
+              - generic [ref=e2261]: "198"
+            - cell [ref=e2262]:
+              - generic "Add to comparison" [ref=e2263]:
+                - checkbox
+                - img [ref=e2265]
+            - cell "🇳🇬" [ref=e2267]
+            - cell "Nigeria" [ref=e2268]
+            - cell "32.5M" [ref=e2269]
+          - row "199 🇵🇰 Pakistan 28.3M" [ref=e2270] [cursor=pointer]:
+            - cell "199" [ref=e2271]:
+              - generic [ref=e2272]: "199"
+            - cell [ref=e2273]:
+              - generic "Add to comparison" [ref=e2274]:
+                - checkbox
+                - img [ref=e2276]
+            - cell "🇵🇰" [ref=e2278]
+            - cell "Pakistan" [ref=e2279]
+            - cell "28.3M" [ref=e2280]
+      - generic [ref=e2282]:
+        - generic [ref=e2283]: © 2026 Ivan Braun
+        - generic [ref=e2284]: build · 2026.06.10
+  - button "Open Next.js Dev Tools" [ref=e2290] [cursor=pointer]:
+    - img [ref=e2291]
+  - alert [ref=e2294]

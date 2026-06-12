@@ -1,0 +1,39 @@
+[     586ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3210/_next/static/chunks/node_modules_react-dom_4411d9bd._.js:14107
+[     617ms] [LOG] [HMR] connected @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[     769ms] [WARNING] Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[   27718ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[   27823ms] [LOG] [Fast Refresh] done in 34ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[   87564ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[   87712ms] [LOG] [Fast Refresh] done in 182ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  202813ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  203092ms] [LOG] [Fast Refresh] done in 380ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  203128ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3210/_next/static/chunks/node_modules_react-dom_4411d9bd._.js:14107
+[  203137ms] [LOG] [HMR] connected @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  203260ms] [WARNING] Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  203782ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204023ms] [LOG] [Fast Refresh] done in 342ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204055ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3210/_next/static/chunks/node_modules_react-dom_4411d9bd._.js:14107
+[  204058ms] [LOG] [HMR] connected @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204058ms] [WARNING] [HMR] Invalid message: {"type":"isrManifest","data":{"/passport-ranking/":true}}
+TypeError: Cannot read properties of undefined (reading 'components')
+    at handleStaticIndicator (http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2680:46)
+    at processMessage (http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2694:17)
+    at http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2568:13
+    at WebSocket.handleMessage (http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2213:17) @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204170ms] [WARNING] Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204521ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204753ms] [LOG] [Fast Refresh] done in 334ms @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204783ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3210/_next/static/chunks/node_modules_react-dom_4411d9bd._.js:14107
+[  204786ms] [LOG] [HMR] connected @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204786ms] [WARNING] [HMR] Invalid message: {"type":"isrManifest","data":{"/passport-ranking/":true}}
+TypeError: Cannot read properties of undefined (reading 'components')
+    at handleStaticIndicator (http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2680:46)
+    at processMessage (http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2694:17)
+    at http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2568:13
+    at WebSocket.handleMessage (http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2213:17) @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  204905ms] [WARNING] Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_6024eba3._.js:1231
+[  495555ms] [ERROR] WebSocket connection to 'ws://localhost:3210/_next/webpack-hmr' failed:  @ http://localhost:3210/_next/static/chunks/node_modules_next_dist_client_d0aa886c._.js:2231

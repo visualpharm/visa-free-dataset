@@ -296,6 +296,123 @@ Source: [VisasNews](https://visasnews.com/en/bilateral-agreements/) — reciproc
 
 ---
 
+## Updates 2026-06
+
+*Applied 2026-06-11. Each section's effective date is in the source line.*
+
+### Russia ↔ Saudi Arabia (mutual visa waiver)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Russia | Saudi Arabia | visa on arrival | 90 |
+| Saudi Arabia | Russia | e-visa | 90 |
+
+Source: [VisaVerge](https://www.visaverge.com/news/russia-and-saudi-arabia-set-may-2026-for-90-day-visa-free-travel-novak-confirms/), [Wego](https://blog.wego.com/saudi-arabia-and-russia-visa-free-travel/) — agreement signed in Riyadh 1 December 2025, in force 11 May 2026; up to 90 days per calendar year for tourism, business, visits, and transit (work, study, Hajj/Umrah excluded).
+
+---
+
+### Togo (visa-free for all African nationals)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Algeria, Angola, Botswana, Burundi, Cameroon, Central African Republic, Chad, Comoros, Congo, DR Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Kenya, Lesotho, Libya, Madagascar, Malawi, Mauritania, Mauritius, Mozambique, Namibia, Rwanda, Sao Tome and Principe, Seychelles, Somalia, South Africa, South Sudan, Sudan, Swaziland, Tanzania, Tunisia, Uganda, Zambia, Zimbabwe | Togo | e-visa | 30 |
+
+Source: [Africanews](https://www.africanews.com/2026/05/19/togo-opens-borders-to-african-travelers-visa-free/), [VisasNews](https://visasnews.com/en/togo-confirms-visa-free-entry-for-african-travelers-after-cabinet-approval/) — Cabinet approved 18 May 2026; 30-day visa-free entry for all African passports at all entry points. A free online travel declaration (voyage.gouv.tg) is still required at least 24h before arrival. ECOWAS passports were already visa-free and are unchanged.
+
+---
+
+### Ghana (pre-arrival e-visa replaces visa on arrival)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Algeria, Angola, Burundi, Cameroon, Central African Republic, Chad, Comoros, Congo, DR Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Libya, Madagascar, Malawi, Mauritania, Morocco, Mozambique, Namibia, Sao Tome and Principe, Somalia, South Sudan, Tunisia, Zambia | Ghana | visa on arrival | e-visa |
+
+Source: [Ghana MFA](https://mfa.gov.gh/index.php/ghana-launches-e-visa-portal/), [KPMG](https://kpmg.com/xx/en/our-insights/gms-flash-alert/2026/flash-alert-2026-138.html) — e-visa portal launched 25 May 2026 (Africa Day); pre-arrival application now mandatory, fee-free for African passport holders. ECOWAS and other visa-free passports unchanged.
+
+---
+
+### United Arab Emirates (temporary suspension — Ebola health measure)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| DR Congo, Uganda, South Sudan | United Arab Emirates | e-visa | no admission |
+
+Source: [Gulf News](https://gulfnews.com/uae/health/uae-suspends-new-visas-for-nationals-of-three-countries-1.500564387) — effective 6 June 2026; all new visa issuance suspended and entry denied (including via third countries) unless outside the affected countries for more than 21 days. Temporary, open-ended.
+
+---
+
+### Turkey (visa-free for Australia)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Australia | Turkey | visa on arrival | 90 |
+
+Source: [Turkish Minute](https://turkishminute.com/2026/04/17/turkey-unilaterally-lifts-visa-requirement-for-australian-tourists/), [VisasNews](https://visasnews.com/en/turkey-lifts-visa-requirement-for-australians-effective-april-17-2026/) — unilateral, effective 17 April 2026; 90 days in any 180.
+
+---
+
+### Azerbaijan ↔ Maldives (mutual visa waiver)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Azerbaijan | Maldives | visa on arrival | 90 |
+| Maldives | Azerbaijan | e-visa | 90 |
+
+Source: [AZERTAC](https://azertag.az/en/xeber/mutual_visa_exemption_agreement_between_azerbaijan_and_the_maldives_enters_into_force_video-4157043) — signed New York 24 September 2025, in force 29 April 2026; 90-day stays.
+
+---
+
+### Morocco (AEVM exemption for Mali)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Mali | Morocco | eta | 90 |
+
+Source: [Morocco World News](https://www.moroccoworldnews.com/2026/04/288730/morocco-suspends-aevm-requirement-for-malian-travelers-starting-monday/), [VisasNews](https://visasnews.com/en/malians-exempt-from-moroccos-aevm-travel-authorization-starting-april-27-2026/) — effective 27 April 2026; Malian nationals no longer need the AEVM electronic travel authorization. Morocco's AEVM now applies only to Republic of the Congo, Ecuador, Ghana, and Guinea.
+
+---
+
+### Gabon (entry suspension for US citizens)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| United States | Gabon | e-visa | no admission |
+
+Source: [OSAC](https://www.osac.gov/Content/Report/33da701a-4de9-4a4d-bc7f-290a7e8584f5) — effective 1 January 2026; Gabon suspended visa issuance and entry for US citizens in reciprocity for the US travel ban (Proclamation 10998).
+
+---
+
+### Canada (eTA for Qatar)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Qatar | Canada | visa required | eta |
+
+Source: [VisaHQ News](https://www.visahq.news/2025-11-27/ca/canada-grants-visa-free-eta-access-to-qatari-nationals/), [VisasNews](https://visasnews.com/en/canada-waives-visa-requirement-for-qatari-citizens/) — effective 25 November 2025; Qatari citizens eligible for eTA (air arrivals) instead of a visitor visa.
+
+---
+
+### Russia ↔ Jordan (mutual visa waiver)
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Russia | Jordan | visa on arrival | 30 |
+| Jordan | Russia | e-visa | 30 |
+
+Source: [TASS](https://tass.com/economy/2058199) — in force 13 December 2025; 30 days per visit, 90 days per year.
+
+---
+
+### Watching (announced, not yet effective — not applied)
+
+- **Thailand**: Cabinet approved (19 May 2026) replacing the 60-day visa exemption with 30-day (54 countries) / 15-day tiers; takes effect 15 days after Royal Gazette publication, which had not happened as of 11 June 2026. [TAT](https://www.tatnews.org/2026/05/thai-cabinet-approves-revision-of-60-day-visa-exemption-scheme-pending-royal-gazette-publication/)
+- **Azerbaijan → Japan**: unilateral visa waiver announced 10 June 2026, effective date pending. [APA](https://en.apa.az/foreign-policy/azerbaijan-to-introduce-unilateral-visa-free-regime-for-japanese-citizens-for-one-year-updated-510802)
+- **Uruguay → China**: visa waiver announced ~4 June 2026, details pending.
+- **Russia ↔ Oman**: ratified, start date not announced. [Oman MFA](https://www.fm.gov.om/en/24628/)
+- **Libya**: airport visa-on-arrival suspended ~10 June 2026 pending a new framework — no dataset cells were coded as Libya VOA, so nothing to change. [Xinhua](https://english.news.cn/20260611/70dc7460f22740ecb4f8c59310370627/c.html)
+
+---
+
 ## Original Dataset Documentation
 
 ### About datasets

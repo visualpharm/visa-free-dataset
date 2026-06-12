@@ -1,0 +1,149 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Ivan Braun" [ref=e5] [cursor=pointer]:
+        - /url: /passport-ranking
+      - navigation [ref=e6]:
+        - link "Experience" [ref=e7] [cursor=pointer]:
+          - /url: /experience
+        - link "Book" [ref=e8] [cursor=pointer]:
+          - /url: /book
+        - link "Tech Events" [ref=e9] [cursor=pointer]:
+          - /url: /tech-events-2026
+        - link "Passport Ranking" [ref=e10] [cursor=pointer]:
+          - /url: /passport-ranking
+        - link "Contact" [ref=e11] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=e12]: 🇺🇸 🇦🇷 🇧🇷
+  - generic [ref=e13]:
+    - main [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]: THE OPEN DOOR INDEX · METHODOLOGY · 2026
+        - heading "We measure passports by the flow they unlock, not the countries they list." [level=1] [ref=e17]:
+          - text: We measure passports by the
+          - emphasis [ref=e18]: flow
+          - text: they unlock, not the countries they list.
+        - paragraph [ref=e19]: The Open Door Index assigns every passport a score equal to the sum of annual tourist arrivals at every destination its citizens can enter without applying for a visa in advance. A passport that opens France (100M visitors a year) outscores one that opens Tuvalu (1,000 visitors). Every number on this site is a tourist-arrivals figure – never a country count.
+        - generic [ref=e20]:
+          - link "← Back to ranking" [ref=e21] [cursor=pointer]:
+            - /url: /passport-ranking
+          - generic [ref=e22]: ·
+          - link "Key findings →" [ref=e23] [cursor=pointer]:
+            - /url: /passport-insights
+      - list [ref=e24]:
+        - listitem [ref=e25]:
+          - complementary [ref=e26]:
+            - generic [ref=e27]: ∑
+            - generic [ref=e28]:
+              - text: visitors
+              - subscript [ref=e29]: d
+              - text: · ∀ d ∈ accessible(p)
+          - generic [ref=e30]:
+            - generic [ref=e31]: "01"
+            - heading "The formula, in one line." [level=2] [ref=e32]
+            - paragraph [ref=e33]:
+              - text: For every passport
+              - strong [ref=e34]: p
+              - text: ", we compute:"
+              - strong [ref=e35]: score(p) = Σ visitors(d)
+              - text: over every destination
+              - strong [ref=e36]: d
+              - text: that
+              - strong [ref=e37]: p
+              - text: "'s citizens can enter visa-free, on visa-on-arrival, with an electronic travel authorization, or under a numeric-day stay agreement. We do"
+              - emphasis [ref=e38]: not
+              - text: divide by population. We do
+              - emphasis [ref=e39]: not
+              - text: count destinations. The score is in
+              - strong [ref=e40]: millions of annual visitors of accessible world
+              - text: .
+        - listitem [ref=e41]:
+          - complementary [ref=e42]:
+            - generic [ref=e43]: ✓
+            - generic [ref=e44]: visa-free · VOA · ETA · numeric stay
+          - generic [ref=e45]:
+            - generic [ref=e46]: "02"
+            - heading "What counts as \"open access\"." [level=2] [ref=e47]:
+              - text: What counts as
+              - emphasis [ref=e48]: "\"open access\"."
+            - paragraph [ref=e49]:
+              - text: "A destination is \"accessible\" to a passport-holder if they can arrive without applying for a visa beforehand. That covers four categories from the source dataset:"
+              - strong [ref=e50]: visa-free
+              - text: ","
+              - strong [ref=e51]: visa-on-arrival
+              - text: ","
+              - strong [ref=e52]: ETA
+              - text: (electronic travel authorization, e.g. Australia, Sri Lanka), and
+              - strong [ref=e53]: numeric-day stay agreements
+              - text: (e.g. "30 days" or "90 days" without a separate visa). E-visas
+              - emphasis [ref=e54]: do not
+              - text: count – an e-visa is still a visa application, just submitted online instead of at an embassy. Each citizen also has access to their own home country, included in the sum.
+        - listitem [ref=e55]:
+          - complementary [ref=e56]:
+            - generic [ref=e57]: 🌍
+            - generic [ref=e58]: UNWTO · 199 destinations
+          - generic [ref=e59]:
+            - generic [ref=e60]: "03"
+            - heading "Where the visitor numbers come from." [level=2] [ref=e61]
+            - paragraph [ref=e62]:
+              - text: Annual international tourist arrivals are pulled from the
+              - strong [ref=e63]: UN World Tourism Organization (UNWTO)
+              - text: database and supplemented with national tourism-board figures for countries UNWTO publishes infrequently. Each destination has a single
+              - strong [ref=e64]: visitors-per-year
+              - text: number in millions. The dataset covers
+              - strong [ref=e65]: 199 destinations
+              - text: – every country and territory listed in the source passport-index dataset – including small island states, partial recognitions, and self-governing territories.
+        - listitem [ref=e66]:
+          - complementary [ref=e67]:
+            - generic [ref=e68]: 🛂
+            - generic [ref=e69]: passport-index-dataset · 199×199
+          - generic [ref=e70]:
+            - generic [ref=e71]: "04"
+            - heading "Where the visa rules come from." [level=2] [ref=e72]
+            - paragraph [ref=e73]:
+              - text: The bilateral access matrix comes from the open-source
+              - strong [ref=e74]: passport-index-dataset
+              - text: on GitHub (originally ilyankou/passport-index-dataset; this site uses our maintained fork with consular updates through May 2026). For every ordered pair (passport country, destination country), the dataset records the access category. We re-verify any consequential change against the issuing country's foreign ministry or embassy site before applying it.
+        - listitem [ref=e75]:
+          - complementary [ref=e76]:
+            - generic [ref=e77]: ¬
+            - generic [ref=e78]: no per-capita · no country count
+          - generic [ref=e79]:
+            - generic [ref=e80]: "05"
+            - heading "Two things we deliberately don't do." [level=2] [ref=e81]:
+              - text: Two things we deliberately
+              - emphasis [ref=e82]: don't do.
+            - paragraph [ref=e83]:
+              - strong [ref=e84]: We do not divide by population.
+              - text: Per-capita rankings make microstates win for arithmetic reasons – Andorra (80,000 people) topping a list of passports felt absurd, and was.
+              - strong [ref=e85]: We do not count countries.
+              - text: Counting destinations treats Tuvalu (1,000 visitors a year) as equivalent to France (100 million). The whole point of this index is that those two unlocks are not the same; ranking by visitor flow says so honestly.
+        - listitem [ref=e86]:
+          - complementary [ref=e87]:
+            - generic [ref=e88]: ⌖
+            - generic [ref=e89]: tied ranks share a number
+          - generic [ref=e90]:
+            - generic [ref=e91]: "06"
+            - heading "How ties are handled." [level=2] [ref=e92]
+            - paragraph [ref=e93]:
+              - text: "Many passports score within a million arrivals of each other – the EU Schengen states are a good example. Where two or more passports tie at a given score, they share a rank: the table renders the rank number once, on the first row of the tied group, and leaves it blank on the rows beneath until the next rank starts. No"
+              - strong [ref=e94]: =
+              - text: glyph, no
+              - strong [ref=e95]: ×N
+              - text: badge – just a quietly shared number. As you scroll through a large tied group, the rank pins to the top of the table so the group's identity stays visible.
+      - generic [ref=e96]:
+        - generic [ref=e97]: ∎
+        - paragraph [ref=e98]:
+          - text: We rank passports by where the world can
+          - emphasis [ref=e99]: wants
+          - text: to go.
+        - paragraph [ref=e100]: Every score on this site is a tourist-flow number, sourced from UNWTO and a maintained fork of the open passport-index dataset. No counting. No averaging away the difference between a Pacific atoll and Paris.
+        - generic [ref=e101]:
+          - link "Open the ranking →" [ref=e102] [cursor=pointer]:
+            - /url: /passport-ranking
+          - link "Read the key findings" [ref=e103] [cursor=pointer]:
+            - /url: /passport-insights
+    - contentinfo [ref=e104]:
+      - generic [ref=e105]:
+        - generic [ref=e106]: "© 2026 Ivan Braun · Data: UNWTO + passport-index-dataset"
+        - generic [ref=e107]: Build · 2026.05

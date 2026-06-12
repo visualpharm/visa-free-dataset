@@ -1,0 +1,138 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Ivan Braun" [ref=e5] [cursor=pointer]:
+          - /url: /passport-ranking
+        - navigation [ref=e6]:
+          - link "Experience" [ref=e7] [cursor=pointer]:
+            - /url: /experience
+          - link "Book" [ref=e8] [cursor=pointer]:
+            - /url: /book
+          - link "Tech Events" [ref=e9] [cursor=pointer]:
+            - /url: /tech-events-2026
+          - link "Passport Ranking" [ref=e10] [cursor=pointer]:
+            - /url: /passport-ranking
+          - link "Contact" [ref=e11] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e12]: 🇺🇸 🇦🇷 🇧🇷
+    - generic [ref=e13]:
+      - main [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e16]: THE OPEN DOOR INDEX · KEY FINDINGS · 2026
+          - heading "The strongest passport unlocks 53× more of where humans actually go than the weakest." [level=1] [ref=e17]:
+            - text: The strongest passport unlocks
+            - emphasis [ref=e18]: 53× more
+            - text: of where humans actually go than the weakest.
+          - paragraph [ref=e19]: South Korea's passport opens 1.44 billion tourist arrivals' worth of world a year – about 98% of all global tourism. Pakistan's opens 27 million – roughly what France absorbs in ten weeks. Old indexes counted countries and called it a 7× gap. Ours counts where people go, and the truth is sharper.
+          - generic [ref=e20]:
+            - link "← Back to ranking" [ref=e21] [cursor=pointer]:
+              - /url: /passport-ranking
+            - generic [ref=e22]: ·
+            - link "Methodology →" [ref=e23] [cursor=pointer]:
+              - /url: /passport-insights/methodology
+        - list [ref=e24]:
+          - listitem [ref=e25]:
+            - complementary [ref=e26]
+            - generic [ref=e27]:
+              - generic [ref=e28]: "01"
+              - heading "The map was lying flat." [level=2] [ref=e29]:
+                - text: The map was lying
+                - emphasis [ref=e30]: flat.
+              - paragraph [ref=e31]:
+                - text: Old rankings score every destination as one point – Tuvalu equals France. Once you weight by where humans actually go, the leaderboard collapses and reforms. The honest gap between the strongest and weakest passport isn't 7×. It's
+                - strong [ref=e32]: fifty-three×
+                - text: .
+          - listitem [ref=e33]:
+            - complementary [ref=e34]:
+              - generic [ref=e35]: door open. nobody coming.
+            - generic [ref=e36]:
+              - generic [ref=e37]: "02"
+              - heading "Burundi welcomes everyone. Fifty thousand show up." [level=2] [ref=e38]:
+                - text: Burundi welcomes everyone.
+                - emphasis [ref=e39]: Fifty thousand
+                - text: show up.
+              - paragraph [ref=e40]:
+                - text: That's roughly what France absorbs every
+                - strong [ref=e41]: four hours
+                - text: ". Comoros, Micronesia, Samoa, Guinea-Bissau run the same warm, empty hospitality: doors wide, living rooms quiet. There's something quietly lonely about a country that has perfected the art of welcoming and is mostly ignored anyway."
+          - listitem [ref=e42]:
+            - complementary [ref=e43]:
+              - generic [ref=e44]: smaller than Texas. owns the world.
+            - generic [ref=e45]:
+              - generic [ref=e46]: "03"
+              - heading "The strongest passports come from countries smaller than you'd guess." [level=2] [ref=e47]:
+                - text: The strongest passports come from countries
+                - emphasis [ref=e48]: smaller than you'd guess.
+              - paragraph [ref=e49]:
+                - text: South Korea, Finland, Norway, Sweden, Singapore – the top five each unlock roughly
+                - strong [ref=e50]: 98% of where humans travel
+                - text: ". Almost the entire annual flow of world tourism, available without an embassy appointment. The population of the top ten put together fits comfortably inside Texas. The pattern holds across decades: the more quietly a country has its own act together, the less the rest of the world feels the need to make its citizens fill out a form."
+          - listitem [ref=e51]:
+            - complementary [ref=e52]
+            - generic [ref=e53]:
+              - generic [ref=e54]: "04"
+              - heading "Americans go almost everywhere. Almost no one comes here." [level=2] [ref=e55]:
+                - text: Americans go almost everywhere.
+                - emphasis [ref=e56]: Almost no one comes here.
+              - paragraph [ref=e57]:
+                - text: The American passport unlocks
+                - strong [ref=e58]: 1.27 billion arrivals
+                - text: of world a year. The U.S. itself receives
+                - strong [ref=e59]: 72 million
+                - text: – about
+                - strong [ref=e60]: 5%
+                - text: "of what its own passport opens. Australia's asymmetry is sharper still: a 1.4-billion-arrival passport for a country that pulls in"
+                - strong [ref=e61]: 9 million visitors
+                - text: . The same paper that breezes through Heathrow makes someone else fill out a six-page application to spend a week in Cleveland.
+          - listitem [ref=e62]:
+            - complementary [ref=e63]:
+              - generic [ref=e64]: a casualty report in passport form.
+            - generic [ref=e65]:
+              - generic [ref=e66]: "05"
+              - heading "The bottom of the table is a list of conflicts." [level=2] [ref=e67]:
+                - text: The bottom of the table is
+                - emphasis [ref=e68]: a list of conflicts.
+              - paragraph [ref=e69]:
+                - text: Pakistan, Nigeria, Bangladesh, Afghanistan, Syria – each unlocks under
+                - strong [ref=e70]: 80 million arrivals
+                - text: of world, well under
+                - strong [ref=e71]: 5% of where humans go
+                - text: . A weak passport is rarely a passport problem. It's the slow administrative violence of being the wrong color of paper at every border, applied to populations already navigating collapse, sanctions, or war.
+          - listitem [ref=e72]:
+            - complementary [ref=e73]:
+              - generic [ref=e74]: ↑
+              - generic [ref=e75]: 🇨🇳
+              - generic [ref=e76]: +455M of mobility unlocked.
+            - generic [ref=e77]:
+              - generic [ref=e78]: "06"
+              - heading "China quietly unlocked 455 million tourists' worth of new mobility." [level=2] [ref=e79]:
+                - text: China quietly unlocked
+                - emphasis [ref=e80]: 455 million
+                - text: tourists' worth of new mobility.
+              - paragraph [ref=e81]:
+                - text: A country that absorbs
+                - strong [ref=e82]: 65 million arrivals
+                - text: a year opened up to several new passports in 2026. In flow terms, that's the largest single expansion of the year. India added another
+                - strong [ref=e83]: 110 million
+                - text: ", Japan another"
+                - strong [ref=e84]: 96 million
+                - text: . Only Namibia pulled the other direction – about
+                - strong [ref=e85]: 53 million of mobility
+                - text: retracted. The arc is bending toward open, but unevenly.
+        - generic [ref=e86]:
+          - generic [ref=e87]: ⌐
+          - paragraph [ref=e88]:
+            - text: The conventional ranking tells you whose passport is most efficient.
+            - emphasis [ref=e89]: honest.
+          - paragraph [ref=e90]: Where the world actually wants to go. Who opens the door. And who waits a long time for guests who never come.
+          - generic [ref=e91]:
+            - link "Open the ranking →" [ref=e92] [cursor=pointer]:
+              - /url: /passport-ranking
+            - link "Read the methodology" [ref=e93] [cursor=pointer]:
+              - /url: /passport-insights/methodology
+      - contentinfo [ref=e94]:
+        - generic [ref=e95]:
+          - generic [ref=e96]: © 2026 Ivan Braun
+          - generic [ref=e97]: Build · 2026.05
+  - alert [ref=e98]

@@ -461,7 +461,7 @@ Algeria,Gabon,e-visa
 Algeria,Gambia,90
 Algeria,Georgia,e-visa
 Algeria,Germany,visa required
-Algeria,Ghana,visa on arrival
+Algeria,Ghana,e-visa
 Algeria,Greece,visa required
 Algeria,Grenada,visa required
 Algeria,Guatemala,visa required
@@ -574,7 +574,7 @@ Algeria,Tajikistan,visa on arrival
 Algeria,Tanzania,visa on arrival
 Algeria,Thailand,e-visa
 Algeria,Timor-Leste,visa on arrival
-Algeria,Togo,e-visa
+Algeria,Togo,30
 Algeria,Tonga,visa required
 Algeria,Trinidad and Tobago,visa required
 Algeria,Tunisia,90
@@ -859,7 +859,7 @@ Angola,Gabon,e-visa
 Angola,Gambia,90
 Angola,Georgia,e-visa
 Angola,Germany,visa required
-Angola,Ghana,visa on arrival
+Angola,Ghana,e-visa
 Angola,Greece,visa required
 Angola,Grenada,visa required
 Angola,Guatemala,visa required
@@ -972,7 +972,7 @@ Angola,Tajikistan,e-visa
 Angola,Tanzania,visa on arrival
 Angola,Thailand,visa required
 Angola,Timor-Leste,visa on arrival
-Angola,Togo,e-visa
+Angola,Togo,30
 Angola,Tonga,visa required
 Angola,Trinidad and Tobago,visa required
 Angola,Tunisia,90
@@ -1774,7 +1774,7 @@ Australia,Trinidad and Tobago,visa on arrival
 Australia,Tunisia,90
 Australia,Turkmenistan,visa required
 Australia,Tuvalu,visa on arrival
-Australia,Turkey,visa on arrival
+Australia,Turkey,90
 Australia,Uganda,e-visa
 Australia,Ukraine,90
 Australia,United Arab Emirates,30
@@ -2094,7 +2094,7 @@ Azerbaijan,Macao,visa on arrival
 Azerbaijan,Madagascar,visa on arrival
 Azerbaijan,Malawi,visa on arrival
 Azerbaijan,Malaysia,30
-Azerbaijan,Maldives,visa on arrival
+Azerbaijan,Maldives,90
 Azerbaijan,Mali,visa required
 Azerbaijan,Malta,visa required
 Azerbaijan,Marshall Islands,visa on arrival
@@ -4554,7 +4554,7 @@ Botswana,Tajikistan,e-visa
 Botswana,Tanzania,90
 Botswana,Thailand,visa required
 Botswana,Timor-Leste,visa on arrival
-Botswana,Togo,e-visa
+Botswana,Togo,30
 Botswana,Tonga,visa required
 Botswana,Trinidad and Tobago,visa free
 Botswana,Tunisia,visa required
@@ -5436,7 +5436,7 @@ Burundi,Gabon,e-visa
 Burundi,Gambia,90
 Burundi,Georgia,e-visa
 Burundi,Germany,visa required
-Burundi,Ghana,visa on arrival
+Burundi,Ghana,e-visa
 Burundi,Greece,visa required
 Burundi,Grenada,visa required
 Burundi,Guatemala,visa required
@@ -5549,7 +5549,7 @@ Burundi,Tajikistan,e-visa
 Burundi,Tanzania,90
 Burundi,Thailand,visa required
 Burundi,Timor-Leste,visa on arrival
-Burundi,Togo,e-visa
+Burundi,Togo,30
 Burundi,Tonga,visa required
 Burundi,Trinidad and Tobago,visa required
 Burundi,Tunisia,visa required
@@ -5834,7 +5834,7 @@ Cameroon,Gabon,90
 Cameroon,Gambia,90
 Cameroon,Georgia,e-visa
 Cameroon,Germany,visa required
-Cameroon,Ghana,visa on arrival
+Cameroon,Ghana,e-visa
 Cameroon,Greece,visa required
 Cameroon,Grenada,90
 Cameroon,Guatemala,visa required
@@ -5947,7 +5947,7 @@ Cameroon,Tajikistan,e-visa
 Cameroon,Tanzania,visa on arrival
 Cameroon,Thailand,visa required
 Cameroon,Timor-Leste,visa on arrival
-Cameroon,Togo,e-visa
+Cameroon,Togo,30
 Cameroon,Tonga,visa required
 Cameroon,Trinidad and Tobago,visa required
 Cameroon,Tunisia,visa required
@@ -6431,7 +6431,7 @@ Central African Republic,Gabon,90
 Central African Republic,Gambia,90
 Central African Republic,Georgia,e-visa
 Central African Republic,Germany,visa required
-Central African Republic,Ghana,visa on arrival
+Central African Republic,Ghana,e-visa
 Central African Republic,Greece,visa required
 Central African Republic,Grenada,visa required
 Central African Republic,Guatemala,visa required
@@ -6544,7 +6544,7 @@ Central African Republic,Tajikistan,e-visa
 Central African Republic,Tanzania,visa on arrival
 Central African Republic,Thailand,visa required
 Central African Republic,Timor-Leste,visa on arrival
-Central African Republic,Togo,e-visa
+Central African Republic,Togo,30
 Central African Republic,Tonga,visa required
 Central African Republic,Trinidad and Tobago,visa required
 Central African Republic,Tunisia,visa required
@@ -6630,7 +6630,7 @@ Chad,Gabon,90
 Chad,Gambia,90
 Chad,Georgia,e-visa
 Chad,Germany,visa required
-Chad,Ghana,visa on arrival
+Chad,Ghana,e-visa
 Chad,Greece,visa required
 Chad,Grenada,visa required
 Chad,Guatemala,visa required
@@ -6743,7 +6743,7 @@ Chad,Tajikistan,e-visa
 Chad,Tanzania,e-visa
 Chad,Thailand,visa required
 Chad,Timor-Leste,visa on arrival
-Chad,Togo,e-visa
+Chad,Togo,30
 Chad,Tonga,visa required
 Chad,Trinidad and Tobago,visa required
 Chad,Tunisia,visa required
@@ -7426,7 +7426,7 @@ Comoros,Gabon,e-visa
 Comoros,Gambia,90
 Comoros,Georgia,e-visa
 Comoros,Germany,visa required
-Comoros,Ghana,visa on arrival
+Comoros,Ghana,e-visa
 Comoros,Greece,visa required
 Comoros,Grenada,visa required
 Comoros,Guatemala,visa required
@@ -7539,7 +7539,7 @@ Comoros,Tajikistan,e-visa
 Comoros,Tanzania,visa on arrival
 Comoros,Thailand,visa required
 Comoros,Timor-Leste,visa on arrival
-Comoros,Togo,e-visa
+Comoros,Togo,30
 Comoros,Tonga,visa required
 Comoros,Trinidad and Tobago,visa required
 Comoros,Tunisia,visa required
@@ -7625,7 +7625,7 @@ Congo,Gabon,90
 Congo,Gambia,90
 Congo,Georgia,e-visa
 Congo,Germany,visa required
-Congo,Ghana,visa on arrival
+Congo,Ghana,e-visa
 Congo,Greece,visa required
 Congo,Grenada,visa required
 Congo,Guatemala,visa required
@@ -7738,7 +7738,7 @@ Congo,Tajikistan,e-visa
 Congo,Tanzania,visa on arrival
 Congo,Thailand,e-visa
 Congo,Timor-Leste,visa on arrival
-Congo,Togo,e-visa
+Congo,Togo,30
 Congo,Tonga,visa required
 Congo,Trinidad and Tobago,visa required
 Congo,Tunisia,visa required
@@ -7824,7 +7824,7 @@ DR Congo,Gabon,e-visa
 DR Congo,Gambia,90
 DR Congo,Georgia,e-visa
 DR Congo,Germany,visa required
-DR Congo,Ghana,visa on arrival
+DR Congo,Ghana,e-visa
 DR Congo,Greece,visa required
 DR Congo,Grenada,visa required
 DR Congo,Guatemala,visa required
@@ -7937,7 +7937,7 @@ DR Congo,Tajikistan,e-visa
 DR Congo,Tanzania,visa on arrival
 DR Congo,Thailand,visa required
 DR Congo,Timor-Leste,visa on arrival
-DR Congo,Togo,e-visa
+DR Congo,Togo,30
 DR Congo,Tonga,visa required
 DR Congo,Trinidad and Tobago,visa required
 DR Congo,Tunisia,visa required
@@ -7946,7 +7946,7 @@ DR Congo,Tuvalu,visa on arrival
 DR Congo,Turkey,visa required
 DR Congo,Uganda,90
 DR Congo,Ukraine,visa required
-DR Congo,United Arab Emirates,e-visa
+DR Congo,United Arab Emirates,no admission
 DR Congo,United Kingdom,visa required
 DR Congo,United States,visa required
 DR Congo,Uruguay,visa required
@@ -9416,7 +9416,7 @@ Djibouti,Gabon,e-visa
 Djibouti,Gambia,90
 Djibouti,Georgia,e-visa
 Djibouti,Germany,visa required
-Djibouti,Ghana,visa on arrival
+Djibouti,Ghana,e-visa
 Djibouti,Greece,visa required
 Djibouti,Grenada,visa required
 Djibouti,Guatemala,visa required
@@ -9529,7 +9529,7 @@ Djibouti,Tajikistan,e-visa
 Djibouti,Tanzania,e-visa
 Djibouti,Thailand,e-visa
 Djibouti,Timor-Leste,visa on arrival
-Djibouti,Togo,e-visa
+Djibouti,Togo,30
 Djibouti,Tonga,visa required
 Djibouti,Trinidad and Tobago,visa required
 Djibouti,Tunisia,visa required
@@ -10212,7 +10212,7 @@ Egypt,Gabon,e-visa
 Egypt,Gambia,90
 Egypt,Georgia,e-visa
 Egypt,Germany,visa required
-Egypt,Ghana,visa on arrival
+Egypt,Ghana,e-visa
 Egypt,Greece,visa required
 Egypt,Grenada,visa required
 Egypt,Guatemala,visa required
@@ -10325,7 +10325,7 @@ Egypt,Tajikistan,visa on arrival
 Egypt,Tanzania,visa on arrival
 Egypt,Thailand,e-visa
 Egypt,Timor-Leste,visa on arrival
-Egypt,Togo,e-visa
+Egypt,Togo,30
 Egypt,Tonga,visa required
 Egypt,Trinidad and Tobago,visa required
 Egypt,Tunisia,visa required
@@ -10610,7 +10610,7 @@ Equatorial Guinea,Gabon,90
 Equatorial Guinea,Gambia,90
 Equatorial Guinea,Georgia,e-visa
 Equatorial Guinea,Germany,visa required
-Equatorial Guinea,Ghana,visa on arrival
+Equatorial Guinea,Ghana,e-visa
 Equatorial Guinea,Greece,visa required
 Equatorial Guinea,Grenada,visa required
 Equatorial Guinea,Guatemala,visa required
@@ -10723,7 +10723,7 @@ Equatorial Guinea,Tajikistan,e-visa
 Equatorial Guinea,Tanzania,visa on arrival
 Equatorial Guinea,Thailand,visa required
 Equatorial Guinea,Timor-Leste,visa on arrival
-Equatorial Guinea,Togo,e-visa
+Equatorial Guinea,Togo,30
 Equatorial Guinea,Tonga,visa required
 Equatorial Guinea,Trinidad and Tobago,visa required
 Equatorial Guinea,Tunisia,90
@@ -10809,7 +10809,7 @@ Eritrea,Gabon,e-visa
 Eritrea,Gambia,90
 Eritrea,Georgia,e-visa
 Eritrea,Germany,visa required
-Eritrea,Ghana,visa on arrival
+Eritrea,Ghana,e-visa
 Eritrea,Greece,visa required
 Eritrea,Grenada,visa required
 Eritrea,Guatemala,visa required
@@ -10922,7 +10922,7 @@ Eritrea,Tajikistan,e-visa
 Eritrea,Tanzania,e-visa
 Eritrea,Thailand,e-visa
 Eritrea,Timor-Leste,visa on arrival
-Eritrea,Togo,e-visa
+Eritrea,Togo,30
 Eritrea,Tonga,visa required
 Eritrea,Trinidad and Tobago,visa required
 Eritrea,Tunisia,visa required
@@ -11320,7 +11320,7 @@ Swaziland,Tajikistan,e-visa
 Swaziland,Tanzania,90
 Swaziland,Thailand,visa required
 Swaziland,Timor-Leste,visa on arrival
-Swaziland,Togo,e-visa
+Swaziland,Togo,30
 Swaziland,Tonga,visa required
 Swaziland,Trinidad and Tobago,visa free
 Swaziland,Tunisia,visa required
@@ -11406,7 +11406,7 @@ Ethiopia,Gabon,e-visa
 Ethiopia,Gambia,90
 Ethiopia,Georgia,e-visa
 Ethiopia,Germany,visa required
-Ethiopia,Ghana,visa on arrival
+Ethiopia,Ghana,e-visa
 Ethiopia,Greece,visa required
 Ethiopia,Grenada,visa required
 Ethiopia,Guatemala,visa required
@@ -11519,7 +11519,7 @@ Ethiopia,Tajikistan,e-visa
 Ethiopia,Tanzania,visa on arrival
 Ethiopia,Thailand,visa on arrival
 Ethiopia,Timor-Leste,visa on arrival
-Ethiopia,Togo,e-visa
+Ethiopia,Togo,30
 Ethiopia,Tonga,visa required
 Ethiopia,Trinidad and Tobago,visa required
 Ethiopia,Tunisia,visa required
@@ -12202,7 +12202,7 @@ Gabon,Gabon,-1
 Gabon,Gambia,90
 Gabon,Georgia,e-visa
 Gabon,Germany,visa required
-Gabon,Ghana,visa on arrival
+Gabon,Ghana,e-visa
 Gabon,Greece,visa required
 Gabon,Grenada,visa required
 Gabon,Guatemala,visa required
@@ -12315,7 +12315,7 @@ Gabon,Tajikistan,e-visa
 Gabon,Tanzania,visa on arrival
 Gabon,Thailand,visa required
 Gabon,Timor-Leste,visa on arrival
-Gabon,Togo,e-visa
+Gabon,Togo,30
 Gabon,Tonga,visa required
 Gabon,Trinidad and Tobago,visa required
 Gabon,Tunisia,90
@@ -17257,7 +17257,7 @@ Jordan,Poland,visa required
 Jordan,Portugal,visa required
 Jordan,Qatar,e-visa
 Jordan,Romania,visa required
-Jordan,Russia,e-visa
+Jordan,Russia,30
 Jordan,Rwanda,visa on arrival
 Jordan,Saint Kitts and Nevis,90
 Jordan,Saint Lucia,visa required
@@ -17688,7 +17688,7 @@ Kenya,Tajikistan,e-visa
 Kenya,Tanzania,90
 Kenya,Thailand,visa required
 Kenya,Timor-Leste,visa on arrival
-Kenya,Togo,e-visa
+Kenya,Togo,30
 Kenya,Tonga,visa required
 Kenya,Trinidad and Tobago,visa free
 Kenya,Tunisia,visa required
@@ -19280,7 +19280,7 @@ Lesotho,Tajikistan,e-visa
 Lesotho,Tanzania,90
 Lesotho,Thailand,visa required
 Lesotho,Timor-Leste,visa on arrival
-Lesotho,Togo,e-visa
+Lesotho,Togo,30
 Lesotho,Tonga,visa required
 Lesotho,Trinidad and Tobago,visa free
 Lesotho,Tunisia,visa required
@@ -19565,7 +19565,7 @@ Libya,Gabon,e-visa
 Libya,Gambia,90
 Libya,Georgia,e-visa
 Libya,Germany,visa required
-Libya,Ghana,visa on arrival
+Libya,Ghana,e-visa
 Libya,Greece,visa required
 Libya,Grenada,visa required
 Libya,Guatemala,visa required
@@ -19678,7 +19678,7 @@ Libya,Tajikistan,e-visa
 Libya,Tanzania,visa on arrival
 Libya,Thailand,e-visa
 Libya,Timor-Leste,visa on arrival
-Libya,Togo,e-visa
+Libya,Togo,30
 Libya,Tonga,visa required
 Libya,Trinidad and Tobago,visa required
 Libya,Tunisia,90
@@ -20560,7 +20560,7 @@ Madagascar,Gabon,e-visa
 Madagascar,Gambia,90
 Madagascar,Georgia,e-visa
 Madagascar,Germany,visa required
-Madagascar,Ghana,visa on arrival
+Madagascar,Ghana,e-visa
 Madagascar,Greece,visa required
 Madagascar,Grenada,visa required
 Madagascar,Guatemala,90
@@ -20673,7 +20673,7 @@ Madagascar,Tajikistan,e-visa
 Madagascar,Tanzania,90
 Madagascar,Thailand,visa required
 Madagascar,Timor-Leste,visa on arrival
-Madagascar,Togo,e-visa
+Madagascar,Togo,30
 Madagascar,Tonga,visa required
 Madagascar,Trinidad and Tobago,visa required
 Madagascar,Tunisia,visa required
@@ -20759,7 +20759,7 @@ Malawi,Gabon,e-visa
 Malawi,Gambia,90
 Malawi,Georgia,e-visa
 Malawi,Germany,visa required
-Malawi,Ghana,visa on arrival
+Malawi,Ghana,e-visa
 Malawi,Greece,visa required
 Malawi,Grenada,90
 Malawi,Guatemala,visa required
@@ -20872,7 +20872,7 @@ Malawi,Tajikistan,e-visa
 Malawi,Tanzania,90
 Malawi,Thailand,visa required
 Malawi,Timor-Leste,visa on arrival
-Malawi,Togo,e-visa
+Malawi,Togo,30
 Malawi,Tonga,visa required
 Malawi,Trinidad and Tobago,visa free
 Malawi,Tunisia,visa required
@@ -21102,7 +21102,7 @@ Maldives,Argentina,visa required
 Maldives,Armenia,e-visa
 Maldives,Australia,e-visa
 Maldives,Austria,visa required
-Maldives,Azerbaijan,e-visa
+Maldives,Azerbaijan,90
 Maldives,Bahamas,90
 Maldives,Bahrain,e-visa
 Maldives,Bangladesh,90
@@ -21409,7 +21409,7 @@ Mali,Moldova,e-visa
 Mali,Monaco,visa required
 Mali,Mongolia,visa required
 Mali,Montenegro,visa required
-Mali,Morocco,eta
+Mali,Morocco,90
 Mali,Mozambique,visa on arrival
 Mali,Myanmar,visa required
 Mali,Namibia,visa required
@@ -21953,7 +21953,7 @@ Mauritania,Gabon,e-visa
 Mauritania,Gambia,90
 Mauritania,Georgia,e-visa
 Mauritania,Germany,visa required
-Mauritania,Ghana,visa on arrival
+Mauritania,Ghana,e-visa
 Mauritania,Greece,visa required
 Mauritania,Grenada,visa required
 Mauritania,Guatemala,visa required
@@ -22066,7 +22066,7 @@ Mauritania,Tajikistan,e-visa
 Mauritania,Tanzania,e-visa
 Mauritania,Thailand,visa required
 Mauritania,Timor-Leste,visa on arrival
-Mauritania,Togo,e-visa
+Mauritania,Togo,30
 Mauritania,Tonga,visa required
 Mauritania,Trinidad and Tobago,visa required
 Mauritania,Tunisia,visa free
@@ -22265,7 +22265,7 @@ Mauritius,Tajikistan,e-visa
 Mauritius,Tanzania,90
 Mauritius,Thailand,60
 Mauritius,Timor-Leste,visa on arrival
-Mauritius,Togo,e-visa
+Mauritius,Togo,30
 Mauritius,Tonga,visa required
 Mauritius,Trinidad and Tobago,visa free
 Mauritius,Tunisia,90
@@ -23545,7 +23545,7 @@ Morocco,Gabon,30
 Morocco,Gambia,90
 Morocco,Georgia,e-visa
 Morocco,Germany,visa required
-Morocco,Ghana,visa on arrival
+Morocco,Ghana,e-visa
 Morocco,Greece,visa required
 Morocco,Grenada,90
 Morocco,Guatemala,visa required
@@ -23744,7 +23744,7 @@ Mozambique,Gabon,e-visa
 Mozambique,Gambia,90
 Mozambique,Georgia,e-visa
 Mozambique,Germany,visa required
-Mozambique,Ghana,visa on arrival
+Mozambique,Ghana,e-visa
 Mozambique,Greece,visa required
 Mozambique,Grenada,90
 Mozambique,Guatemala,visa required
@@ -23857,7 +23857,7 @@ Mozambique,Tajikistan,e-visa
 Mozambique,Tanzania,90
 Mozambique,Thailand,visa required
 Mozambique,Timor-Leste,visa on arrival
-Mozambique,Togo,e-visa
+Mozambique,Togo,30
 Mozambique,Tonga,visa required
 Mozambique,Trinidad and Tobago,visa required
 Mozambique,Tunisia,visa required
@@ -24142,7 +24142,7 @@ Namibia,Gabon,e-visa
 Namibia,Gambia,90
 Namibia,Georgia,e-visa
 Namibia,Germany,visa required
-Namibia,Ghana,visa on arrival
+Namibia,Ghana,e-visa
 Namibia,Greece,visa required
 Namibia,Grenada,90
 Namibia,Guatemala,visa required
@@ -24255,7 +24255,7 @@ Namibia,Tajikistan,e-visa
 Namibia,Tanzania,90
 Namibia,Thailand,visa on arrival
 Namibia,Timor-Leste,visa on arrival
-Namibia,Togo,e-visa
+Namibia,Togo,30
 Namibia,Tonga,visa required
 Namibia,Trinidad and Tobago,visa free
 Namibia,Tunisia,90
@@ -28485,7 +28485,7 @@ Qatar,Burkina Faso,e-visa
 Qatar,Burundi,visa on arrival
 Qatar,Cambodia,visa on arrival
 Qatar,Cameroon,e-visa
-Qatar,Canada,visa required
+Qatar,Canada,eta
 Qatar,Cape Verde,visa on arrival
 Qatar,Central African Republic,visa required
 Qatar,Chad,visa required
@@ -28939,7 +28939,7 @@ Russia,Israel,90
 Russia,Italy,visa required
 Russia,Jamaica,90
 Russia,Japan,visa required
-Russia,Jordan,visa on arrival
+Russia,Jordan,30
 Russia,Kazakhstan,90
 Russia,Kenya,eta
 Russia,Kiribati,90
@@ -29005,7 +29005,7 @@ Russia,Saint Lucia,42
 Russia,Samoa,90
 Russia,San Marino,visa required
 Russia,Sao Tome and Principe,15
-Russia,Saudi Arabia,visa on arrival
+Russia,Saudi Arabia,90
 Russia,Senegal,visa on arrival
 Russia,Serbia,30
 Russia,Seychelles,90
@@ -29230,7 +29230,7 @@ Rwanda,Tajikistan,e-visa
 Rwanda,Tanzania,90
 Rwanda,Thailand,visa required
 Rwanda,Timor-Leste,visa on arrival
-Rwanda,Togo,e-visa
+Rwanda,Togo,30
 Rwanda,Tonga,visa required
 Rwanda,Trinidad and Tobago,visa required
 Rwanda,Tunisia,visa required
@@ -30112,7 +30112,7 @@ Sao Tome and Principe,Gabon,e-visa
 Sao Tome and Principe,Gambia,90
 Sao Tome and Principe,Georgia,e-visa
 Sao Tome and Principe,Germany,visa required
-Sao Tome and Principe,Ghana,visa on arrival
+Sao Tome and Principe,Ghana,e-visa
 Sao Tome and Principe,Greece,visa required
 Sao Tome and Principe,Grenada,visa required
 Sao Tome and Principe,Guatemala,90
@@ -30225,7 +30225,7 @@ Sao Tome and Principe,Tajikistan,e-visa
 Sao Tome and Principe,Tanzania,visa on arrival
 Sao Tome and Principe,Thailand,visa required
 Sao Tome and Principe,Timor-Leste,visa on arrival
-Sao Tome and Principe,Togo,e-visa
+Sao Tome and Principe,Togo,30
 Sao Tome and Principe,Tonga,visa required
 Sao Tome and Principe,Trinidad and Tobago,visa required
 Sao Tome and Principe,Tunisia,visa required
@@ -30391,7 +30391,7 @@ Saudi Arabia,Poland,visa required
 Saudi Arabia,Portugal,visa required
 Saudi Arabia,Qatar,visa free
 Saudi Arabia,Romania,visa required
-Saudi Arabia,Russia,e-visa
+Saudi Arabia,Russia,90
 Saudi Arabia,Rwanda,visa on arrival
 Saudi Arabia,Saint Kitts and Nevis,90
 Saudi Arabia,Saint Lucia,visa required
@@ -31021,7 +31021,7 @@ Seychelles,Tajikistan,e-visa
 Seychelles,Tanzania,90
 Seychelles,Thailand,visa on arrival
 Seychelles,Timor-Leste,visa on arrival
-Seychelles,Togo,e-visa
+Seychelles,Togo,30
 Seychelles,Tonga,visa on arrival
 Seychelles,Trinidad and Tobago,visa free
 Seychelles,Tunisia,90
@@ -32102,7 +32102,7 @@ Somalia,Gabon,e-visa
 Somalia,Gambia,90
 Somalia,Georgia,e-visa
 Somalia,Germany,visa required
-Somalia,Ghana,visa on arrival
+Somalia,Ghana,e-visa
 Somalia,Greece,visa required
 Somalia,Grenada,visa required
 Somalia,Guatemala,visa required
@@ -32215,7 +32215,7 @@ Somalia,Tajikistan,e-visa
 Somalia,Tanzania,e-visa
 Somalia,Thailand,visa required
 Somalia,Timor-Leste,visa on arrival
-Somalia,Togo,e-visa
+Somalia,Togo,30
 Somalia,Tonga,visa required
 Somalia,Trinidad and Tobago,visa required
 Somalia,Tunisia,visa required
@@ -32414,7 +32414,7 @@ South Africa,Tajikistan,visa on arrival
 South Africa,Tanzania,90
 South Africa,Thailand,60
 South Africa,Timor-Leste,visa on arrival
-South Africa,Togo,e-visa
+South Africa,Togo,30
 South Africa,Tonga,visa required
 South Africa,Trinidad and Tobago,90
 South Africa,Tunisia,90
@@ -32699,7 +32699,7 @@ South Sudan,Gabon,e-visa
 South Sudan,Gambia,90
 South Sudan,Georgia,e-visa
 South Sudan,Germany,visa required
-South Sudan,Ghana,visa on arrival
+South Sudan,Ghana,e-visa
 South Sudan,Greece,visa required
 South Sudan,Grenada,visa required
 South Sudan,Guatemala,visa required
@@ -32812,7 +32812,7 @@ South Sudan,Tajikistan,e-visa
 South Sudan,Tanzania,90
 South Sudan,Thailand,visa required
 South Sudan,Timor-Leste,visa on arrival
-South Sudan,Togo,e-visa
+South Sudan,Togo,30
 South Sudan,Tonga,visa required
 South Sudan,Trinidad and Tobago,visa required
 South Sudan,Tunisia,visa required
@@ -32821,7 +32821,7 @@ South Sudan,Tuvalu,visa on arrival
 South Sudan,Turkey,visa required
 South Sudan,Uganda,180
 South Sudan,Ukraine,visa required
-South Sudan,United Arab Emirates,e-visa
+South Sudan,United Arab Emirates,no admission
 South Sudan,United Kingdom,visa required
 South Sudan,United States,visa required
 South Sudan,Uruguay,visa required
@@ -33608,7 +33608,7 @@ Sudan,Tajikistan,e-visa
 Sudan,Tanzania,visa on arrival
 Sudan,Thailand,e-visa
 Sudan,Timor-Leste,visa on arrival
-Sudan,Togo,e-visa
+Sudan,Togo,30
 Sudan,Tonga,visa required
 Sudan,Trinidad and Tobago,visa required
 Sudan,Tunisia,visa required
@@ -35001,7 +35001,7 @@ Tanzania,Tajikistan,e-visa
 Tanzania,Tanzania,-1
 Tanzania,Thailand,visa required
 Tanzania,Timor-Leste,visa on arrival
-Tanzania,Togo,e-visa
+Tanzania,Togo,30
 Tanzania,Tonga,visa required
 Tanzania,Trinidad and Tobago,visa required
 Tanzania,Tunisia,visa required
@@ -36082,7 +36082,7 @@ Tunisia,Gabon,visa free
 Tunisia,Gambia,90
 Tunisia,Georgia,e-visa
 Tunisia,Germany,visa required
-Tunisia,Ghana,visa on arrival
+Tunisia,Ghana,e-visa
 Tunisia,Greece,visa required
 Tunisia,Grenada,visa required
 Tunisia,Guatemala,visa required
@@ -36195,7 +36195,7 @@ Tunisia,Tajikistan,visa on arrival
 Tunisia,Tanzania,visa on arrival
 Tunisia,Thailand,visa on arrival
 Tunisia,Timor-Leste,visa on arrival
-Tunisia,Togo,e-visa
+Tunisia,Togo,30
 Tunisia,Tonga,visa required
 Tunisia,Trinidad and Tobago,visa required
 Tunisia,Tunisia,-1
@@ -36991,7 +36991,7 @@ Uganda,Tajikistan,e-visa
 Uganda,Tanzania,90
 Uganda,Thailand,visa required
 Uganda,Timor-Leste,visa on arrival
-Uganda,Togo,e-visa
+Uganda,Togo,30
 Uganda,Tonga,visa required
 Uganda,Trinidad and Tobago,visa required
 Uganda,Tunisia,visa required
@@ -37000,7 +37000,7 @@ Uganda,Tuvalu,visa on arrival
 Uganda,Turkey,visa required
 Uganda,Uganda,-1
 Uganda,Ukraine,visa required
-Uganda,United Arab Emirates,e-visa
+Uganda,United Arab Emirates,no admission
 Uganda,United Kingdom,visa required
 Uganda,United States,visa required
 Uganda,Uruguay,visa required
@@ -37670,7 +37670,7 @@ United States,Ethiopia,visa on arrival
 United States,Fiji,120
 United States,Finland,90
 United States,France,90
-United States,Gabon,e-visa
+United States,Gabon,no admission
 United States,Gambia,visa on arrival
 United States,Georgia,360
 United States,Germany,90
@@ -39266,7 +39266,7 @@ Zambia,Gabon,e-visa
 Zambia,Gambia,90
 Zambia,Georgia,e-visa
 Zambia,Germany,visa required
-Zambia,Ghana,visa on arrival
+Zambia,Ghana,e-visa
 Zambia,Greece,visa required
 Zambia,Grenada,90
 Zambia,Guatemala,visa required
@@ -39379,7 +39379,7 @@ Zambia,Tajikistan,e-visa
 Zambia,Tanzania,90
 Zambia,Thailand,visa required
 Zambia,Timor-Leste,visa on arrival
-Zambia,Togo,e-visa
+Zambia,Togo,30
 Zambia,Tonga,visa required
 Zambia,Trinidad and Tobago,visa free
 Zambia,Tunisia,visa required
@@ -39578,7 +39578,7 @@ Zimbabwe,Tajikistan,e-visa
 Zimbabwe,Tanzania,90
 Zimbabwe,Thailand,visa required
 Zimbabwe,Timor-Leste,visa on arrival
-Zimbabwe,Togo,e-visa
+Zimbabwe,Togo,30
 Zimbabwe,Tonga,visa required
 Zimbabwe,Trinidad and Tobago,visa free
 Zimbabwe,Tunisia,visa required
