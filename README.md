@@ -415,6 +415,18 @@ Source: [Vietnam Tourism — New visa exemption policies effective 15 August 202
 
 ---
 
+### Maldives (entry ban for Israeli passport holders)
+
+*Applied 2026-06-14; effective 15 April 2025.*
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Israel | Maldives | visa on arrival | no admission |
+
+Source: [The President's Office of Maldives](https://presidency.gov.mv/Press/Article/33500), [CNN](https://www.cnn.com/2025/04/16/africa/maldives-bans-israeli-passports-intl-latam) — President Muizzu ratified the Third Amendment to the Immigration Act on 15 April 2025, prohibiting entry of Israeli passport holders. The Maldives grants free 30-day visa on arrival to every other nationality; this is the sole exclusion. (Dual nationals may still enter on a non-Israeli passport.)
+
+---
+
 ### Watching (announced, not yet effective — not applied)
 
 - **Thailand**: Cabinet approved (19 May 2026) replacing the 60-day visa exemption with 30-day (54 countries) / 15-day tiers; takes effect 15 days after Royal Gazette publication, which had not happened as of 11 June 2026. [TAT](https://www.tatnews.org/2026/05/thai-cabinet-approves-revision-of-60-day-visa-exemption-scheme-pending-royal-gazette-publication/)
