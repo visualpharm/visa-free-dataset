@@ -16422,7 +16422,7 @@ ISR,MAC,90
 ISR,MDG,visa on arrival
 ISR,MWI,90
 ISR,MYS,no admission
-ISR,MDV,visa on arrival
+ISR,MDV,no admission
 ISR,MLI,visa required
 ISR,MLT,90
 ISR,MHL,visa on arrival
