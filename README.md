@@ -403,6 +403,18 @@ Source: [TASS](https://tass.com/economy/2058199) — in force 13 December 2025; 
 
 ---
 
+### Vietnam (45-day visa exemption for 12 European countries)
+
+*Backfill of a missed policy. Applied 2026-06-14; effective 15 August 2025.*
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| Belgium, Bulgaria, Croatia, Czech Republic, Hungary, Luxembourg, Netherlands, Poland, Romania, Slovakia, Slovenia, Switzerland | Vietnam | e-visa | 45 |
+
+Source: [Vietnam Tourism — New visa exemption policies effective 15 August 2025](https://vietnam.travel/things-to-do/new-visa-exemption-policies-effective-15-august-2025), [Embassy of Vietnam in Japan](https://vnembassy-jp.org/en/vietnam-exempts-visas-under-tourism-development-stimulus-program-citizens-12-countries-belgium) — Resolution 229/NQ-CP under the Tourism Development Stimulus Program; 45-day visa-free stay regardless of passport type, in force 15 August 2025 through 14 August 2028.
+
+---
+
 ### Watching (announced, not yet effective — not applied)
 
 - **Thailand**: Cabinet approved (19 May 2026) replacing the 60-day visa exemption with 30-day (54 countries) / 15-day tiers; takes effect 15 days after Royal Gazette publication, which had not happened as of 11 June 2026. [TAT](https://www.tatnews.org/2026/05/thai-cabinet-approves-revision-of-60-day-visa-exemption-scheme-pending-royal-gazette-publication/)

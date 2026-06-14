@@ -3377,7 +3377,7 @@ BE,UZ,30
 BE,VU,150
 BE,VA,visa free
 BE,VE,90
-BE,VN,e-visa
+BE,VN,45
 BE,YE,visa required
 BE,ZM,90
 BE,ZW,visa on arrival
@@ -5168,7 +5168,7 @@ BG,UZ,30
 BG,VU,120
 BG,VA,visa free
 BG,VE,90
-BG,VN,e-visa
+BG,VN,45
 BG,YE,visa required
 BG,ZM,90
 BG,ZW,visa on arrival
@@ -8551,7 +8551,7 @@ HR,UZ,30
 HR,VU,120
 HR,VA,visa free
 HR,VE,90
-HR,VN,e-visa
+HR,VN,45
 HR,YE,visa required
 HR,ZM,90
 HR,ZW,visa on arrival
@@ -9148,7 +9148,7 @@ CZ,UZ,30
 CZ,VU,120
 CZ,VA,visa free
 CZ,VE,90
-CZ,VN,e-visa
+CZ,VN,45
 CZ,YE,visa required
 CZ,ZM,90
 CZ,ZW,visa on arrival
@@ -15118,7 +15118,7 @@ HU,UZ,30
 HU,VU,120
 HU,VA,visa free
 HU,VE,90
-HU,VN,e-visa
+HU,VN,45
 HU,YE,visa required
 HU,ZM,90
 HU,ZW,visa on arrival
@@ -20292,7 +20292,7 @@ LU,UZ,30
 LU,VU,120
 LU,VA,visa free
 LU,VE,90
-LU,VN,e-visa
+LU,VN,45
 LU,YE,visa required
 LU,ZM,90
 LU,ZW,visa on arrival
@@ -24869,7 +24869,7 @@ NL,UZ,30
 NL,VU,120
 NL,VA,visa free
 NL,VE,90
-NL,VN,e-visa
+NL,VN,45
 NL,YE,visa required
 NL,ZM,90
 NL,ZW,visa on arrival
@@ -28252,7 +28252,7 @@ PL,UZ,30
 PL,VU,120
 PL,VA,visa free
 PL,VE,90
-PL,VN,e-visa
+PL,VN,45
 PL,YE,visa required
 PL,ZM,90
 PL,ZW,visa on arrival
@@ -28849,7 +28849,7 @@ RO,UZ,30
 RO,VU,120
 RO,VA,visa free
 RO,VE,90
-RO,VN,e-visa
+RO,VN,45
 RO,YE,visa required
 RO,ZM,90
 RO,ZW,visa on arrival
@@ -31635,7 +31635,7 @@ SK,UZ,30
 SK,VU,120
 SK,VA,visa free
 SK,VE,90
-SK,VN,e-visa
+SK,VN,45
 SK,YE,visa required
 SK,ZM,90
 SK,ZW,visa on arrival
@@ -31834,7 +31834,7 @@ SI,UZ,30
 SI,VU,120
 SI,VA,visa free
 SI,VE,90
-SI,VN,e-visa
+SI,VN,45
 SI,YE,visa required
 SI,ZM,90
 SI,ZW,visa on arrival
@@ -34222,7 +34222,7 @@ CH,UZ,30
 CH,VU,120
 CH,VA,visa free
 CH,VE,90
-CH,VN,e-visa
+CH,VN,45
 CH,YE,visa required
 CH,ZM,visa on arrival
 CH,ZW,visa on arrival
