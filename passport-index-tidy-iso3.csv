@@ -3377,7 +3377,7 @@ BEL,UZB,30
 BEL,VUT,150
 BEL,VAT,visa free
 BEL,VEN,90
-BEL,VNM,e-visa
+BEL,VNM,45
 BEL,YEM,visa required
 BEL,ZMB,90
 BEL,ZWE,visa on arrival
@@ -5168,7 +5168,7 @@ BGR,UZB,30
 BGR,VUT,120
 BGR,VAT,visa free
 BGR,VEN,90
-BGR,VNM,e-visa
+BGR,VNM,45
 BGR,YEM,visa required
 BGR,ZMB,90
 BGR,ZWE,visa on arrival
@@ -8551,7 +8551,7 @@ HRV,UZB,30
 HRV,VUT,120
 HRV,VAT,visa free
 HRV,VEN,90
-HRV,VNM,e-visa
+HRV,VNM,45
 HRV,YEM,visa required
 HRV,ZMB,90
 HRV,ZWE,visa on arrival
@@ -9148,7 +9148,7 @@ CZE,UZB,30
 CZE,VUT,120
 CZE,VAT,visa free
 CZE,VEN,90
-CZE,VNM,e-visa
+CZE,VNM,45
 CZE,YEM,visa required
 CZE,ZMB,90
 CZE,ZWE,visa on arrival
@@ -15118,7 +15118,7 @@ HUN,UZB,30
 HUN,VUT,120
 HUN,VAT,visa free
 HUN,VEN,90
-HUN,VNM,e-visa
+HUN,VNM,45
 HUN,YEM,visa required
 HUN,ZMB,90
 HUN,ZWE,visa on arrival
@@ -20292,7 +20292,7 @@ LUX,UZB,30
 LUX,VUT,120
 LUX,VAT,visa free
 LUX,VEN,90
-LUX,VNM,e-visa
+LUX,VNM,45
 LUX,YEM,visa required
 LUX,ZMB,90
 LUX,ZWE,visa on arrival
@@ -24869,7 +24869,7 @@ NLD,UZB,30
 NLD,VUT,120
 NLD,VAT,visa free
 NLD,VEN,90
-NLD,VNM,e-visa
+NLD,VNM,45
 NLD,YEM,visa required
 NLD,ZMB,90
 NLD,ZWE,visa on arrival
@@ -28252,7 +28252,7 @@ POL,UZB,30
 POL,VUT,120
 POL,VAT,visa free
 POL,VEN,90
-POL,VNM,e-visa
+POL,VNM,45
 POL,YEM,visa required
 POL,ZMB,90
 POL,ZWE,visa on arrival
@@ -28849,7 +28849,7 @@ ROU,UZB,30
 ROU,VUT,120
 ROU,VAT,visa free
 ROU,VEN,90
-ROU,VNM,e-visa
+ROU,VNM,45
 ROU,YEM,visa required
 ROU,ZMB,90
 ROU,ZWE,visa on arrival
@@ -31635,7 +31635,7 @@ SVK,UZB,30
 SVK,VUT,120
 SVK,VAT,visa free
 SVK,VEN,90
-SVK,VNM,e-visa
+SVK,VNM,45
 SVK,YEM,visa required
 SVK,ZMB,90
 SVK,ZWE,visa on arrival
@@ -31834,7 +31834,7 @@ SVN,UZB,30
 SVN,VUT,120
 SVN,VAT,visa free
 SVN,VEN,90
-SVN,VNM,e-visa
+SVN,VNM,45
 SVN,YEM,visa required
 SVN,ZMB,90
 SVN,ZWE,visa on arrival
@@ -34222,7 +34222,7 @@ CHE,UZB,30
 CHE,VUT,120
 CHE,VAT,visa free
 CHE,VEN,90
-CHE,VNM,e-visa
+CHE,VNM,45
 CHE,YEM,visa required
 CHE,ZMB,visa on arrival
 CHE,ZWE,visa on arrival
