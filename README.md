@@ -427,6 +427,25 @@ Source: [The President's Office of Maldives](https://presidency.gov.mv/Press/Art
 
 ---
 
+### Suriname (Tourist Card recoding — stale data fix)
+
+*Applied 2026-06-14. Reflects the standing e-Tourist Card system.*
+
+Suriname's entry policy has three tiers, and the dataset had most of them wrong (153 nationalities were marked `visa required`, and a handful were marked visa-free for no current reason). Corrected:
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| 153 nationalities previously marked `visa required` | Suriname | visa required | eta |
+| China, Malaysia, Philippines, Serbia | Suriname | 30 | eta |
+| Chile, Denmark, Hong Kong, Sweden | Suriname | 90 | eta |
+| Tunisia | Suriname | 90 | e-visa |
+
+The **e-Tourist Card** (USD/EUR 50, applied online before arrival, up to 90 days) is open to all nationalities except a short visa-required list. It is a paid electronic pre-arrival authorisation with no consular discretion — coded `eta`, consistent with how this dataset already codes the near-identical Kenya eTA. The previous visa-free outliers (notably Sweden at 90) were stale and had been inflating those passports' scores. Left unchanged: the visa-free CARICOM/South-American group (`180`) and the genuine visa/e-Visa list (`e-visa`, 21 countries including Tunisia, which moved off the stale visa-free value).
+
+Source: [Visa policy of Suriname (Wikipedia)](https://en.wikipedia.org/wiki/Visa_policy_of_Suriname), corroborated by the [Consulate General of Suriname in Amsterdam](https://netherlands.consulate.gov.sr/consular-affairs/visa-information/) — the dataset's existing visa-required list already matched the official Category-3 list exactly, confirming the categorisation.
+
+---
+
 ### Watching (announced, not yet effective — not applied)
 
 - **Thailand**: Cabinet approved (19 May 2026) replacing the 60-day visa exemption with 30-day (54 countries) / 15-day tiers; takes effect 15 days after Royal Gazette publication, which had not happened as of 11 June 2026. [TAT](https://www.tatnews.org/2026/05/thai-cabinet-approves-revision-of-60-day-visa-exemption-scheme-pending-royal-gazette-publication/)

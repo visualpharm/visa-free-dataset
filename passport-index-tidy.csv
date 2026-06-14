@@ -366,7 +366,7 @@ Albania,Spain,90
 Albania,Sri Lanka,visa on arrival
 Albania,Saint Vincent and the Grenadines,90
 Albania,Sudan,visa required
-Albania,Suriname,visa required
+Albania,Suriname,eta
 Albania,Sweden,90
 Albania,Switzerland,90
 Albania,Syria,e-visa
@@ -565,7 +565,7 @@ Algeria,Spain,visa required
 Algeria,Sri Lanka,visa on arrival
 Algeria,Saint Vincent and the Grenadines,90
 Algeria,Sudan,visa required
-Algeria,Suriname,visa required
+Algeria,Suriname,eta
 Algeria,Sweden,visa required
 Algeria,Switzerland,visa required
 Algeria,Syria,visa free
@@ -764,7 +764,7 @@ Andorra,Spain,90
 Andorra,Sri Lanka,visa on arrival
 Andorra,Saint Vincent and the Grenadines,90
 Andorra,Sudan,visa required
-Andorra,Suriname,visa required
+Andorra,Suriname,eta
 Andorra,Sweden,90
 Andorra,Switzerland,90
 Andorra,Syria,e-visa
@@ -1560,7 +1560,7 @@ Armenia,Spain,visa required
 Armenia,Sri Lanka,visa on arrival
 Armenia,Saint Vincent and the Grenadines,90
 Armenia,Sudan,visa required
-Armenia,Suriname,visa required
+Armenia,Suriname,eta
 Armenia,Sweden,visa required
 Armenia,Switzerland,visa required
 Armenia,Syria,e-visa
@@ -1759,7 +1759,7 @@ Australia,Spain,90
 Australia,Sri Lanka,visa on arrival
 Australia,Saint Vincent and the Grenadines,90
 Australia,Sudan,visa required
-Australia,Suriname,visa required
+Australia,Suriname,eta
 Australia,Sweden,90
 Australia,Switzerland,90
 Australia,Syria,e-visa
@@ -1958,7 +1958,7 @@ Austria,Spain,visa free
 Austria,Sri Lanka,visa on arrival
 Austria,Saint Vincent and the Grenadines,90
 Austria,Sudan,visa required
-Austria,Suriname,visa required
+Austria,Suriname,eta
 Austria,Sweden,visa free
 Austria,Switzerland,visa free
 Austria,Syria,e-visa
@@ -2157,7 +2157,7 @@ Azerbaijan,Spain,visa required
 Azerbaijan,Sri Lanka,visa on arrival
 Azerbaijan,Saint Vincent and the Grenadines,90
 Azerbaijan,Sudan,visa required
-Azerbaijan,Suriname,visa required
+Azerbaijan,Suriname,eta
 Azerbaijan,Sweden,visa required
 Azerbaijan,Switzerland,visa required
 Azerbaijan,Syria,visa on arrival
@@ -2555,7 +2555,7 @@ Bahrain,Spain,visa required
 Bahrain,Sri Lanka,visa on arrival
 Bahrain,Saint Vincent and the Grenadines,90
 Bahrain,Sudan,visa required
-Bahrain,Suriname,visa required
+Bahrain,Suriname,eta
 Bahrain,Sweden,visa required
 Bahrain,Switzerland,visa required
 Bahrain,Syria,visa free
@@ -3152,7 +3152,7 @@ Belarus,Spain,visa required
 Belarus,Sri Lanka,visa on arrival
 Belarus,Saint Vincent and the Grenadines,90
 Belarus,Sudan,visa required
-Belarus,Suriname,visa required
+Belarus,Suriname,eta
 Belarus,Sweden,visa required
 Belarus,Switzerland,visa required
 Belarus,Syria,visa on arrival
@@ -3351,7 +3351,7 @@ Belgium,Spain,visa free
 Belgium,Sri Lanka,visa on arrival
 Belgium,Saint Vincent and the Grenadines,90
 Belgium,Sudan,visa required
-Belgium,Suriname,visa required
+Belgium,Suriname,eta
 Belgium,Sweden,visa free
 Belgium,Switzerland,visa free
 Belgium,Syria,e-visa
@@ -3749,7 +3749,7 @@ Benin,Spain,visa required
 Benin,Sri Lanka,visa on arrival
 Benin,Saint Vincent and the Grenadines,90
 Benin,Sudan,visa required
-Benin,Suriname,visa required
+Benin,Suriname,eta
 Benin,Sweden,visa required
 Benin,Switzerland,visa required
 Benin,Syria,e-visa
@@ -3948,7 +3948,7 @@ Bhutan,Spain,visa required
 Bhutan,Sri Lanka,visa on arrival
 Bhutan,Saint Vincent and the Grenadines,90
 Bhutan,Sudan,visa required
-Bhutan,Suriname,visa required
+Bhutan,Suriname,eta
 Bhutan,Sweden,visa required
 Bhutan,Switzerland,visa required
 Bhutan,Syria,e-visa
@@ -4147,7 +4147,7 @@ Bolivia,Spain,visa required
 Bolivia,Sri Lanka,visa on arrival
 Bolivia,Saint Vincent and the Grenadines,90
 Bolivia,Sudan,visa required
-Bolivia,Suriname,visa required
+Bolivia,Suriname,eta
 Bolivia,Sweden,visa required
 Bolivia,Switzerland,visa required
 Bolivia,Syria,e-visa
@@ -4346,7 +4346,7 @@ Bosnia and Herzegovina,Spain,90
 Bosnia and Herzegovina,Sri Lanka,visa on arrival
 Bosnia and Herzegovina,Saint Vincent and the Grenadines,90
 Bosnia and Herzegovina,Sudan,visa required
-Bosnia and Herzegovina,Suriname,visa required
+Bosnia and Herzegovina,Suriname,eta
 Bosnia and Herzegovina,Sweden,90
 Bosnia and Herzegovina,Switzerland,90
 Bosnia and Herzegovina,Syria,e-visa
@@ -4545,7 +4545,7 @@ Botswana,Spain,visa required
 Botswana,Sri Lanka,visa on arrival
 Botswana,Saint Vincent and the Grenadines,90
 Botswana,Sudan,visa required
-Botswana,Suriname,visa required
+Botswana,Suriname,eta
 Botswana,Sweden,visa required
 Botswana,Switzerland,visa required
 Botswana,Syria,e-visa
@@ -4943,7 +4943,7 @@ Brunei,Spain,90
 Brunei,Sri Lanka,visa on arrival
 Brunei,Saint Vincent and the Grenadines,90
 Brunei,Sudan,visa required
-Brunei,Suriname,visa required
+Brunei,Suriname,eta
 Brunei,Sweden,90
 Brunei,Switzerland,90
 Brunei,Syria,e-visa
@@ -5142,7 +5142,7 @@ Bulgaria,Spain,visa free
 Bulgaria,Sri Lanka,visa on arrival
 Bulgaria,Saint Vincent and the Grenadines,90
 Bulgaria,Sudan,visa required
-Bulgaria,Suriname,visa required
+Bulgaria,Suriname,eta
 Bulgaria,Sweden,visa free
 Bulgaria,Switzerland,visa free
 Bulgaria,Syria,e-visa
@@ -5341,7 +5341,7 @@ Burkina Faso,Spain,visa required
 Burkina Faso,Sri Lanka,visa on arrival
 Burkina Faso,Saint Vincent and the Grenadines,30
 Burkina Faso,Sudan,visa required
-Burkina Faso,Suriname,visa required
+Burkina Faso,Suriname,eta
 Burkina Faso,Sweden,visa required
 Burkina Faso,Switzerland,visa required
 Burkina Faso,Syria,e-visa
@@ -5540,7 +5540,7 @@ Burundi,Spain,visa required
 Burundi,Sri Lanka,visa on arrival
 Burundi,Saint Vincent and the Grenadines,90
 Burundi,Sudan,visa required
-Burundi,Suriname,visa required
+Burundi,Suriname,eta
 Burundi,Sweden,visa required
 Burundi,Switzerland,visa required
 Burundi,Syria,e-visa
@@ -5739,7 +5739,7 @@ Cambodia,Spain,visa required
 Cambodia,Sri Lanka,visa on arrival
 Cambodia,Saint Vincent and the Grenadines,90
 Cambodia,Sudan,visa required
-Cambodia,Suriname,visa required
+Cambodia,Suriname,eta
 Cambodia,Sweden,visa required
 Cambodia,Switzerland,visa required
 Cambodia,Syria,e-visa
@@ -6137,7 +6137,7 @@ Canada,Spain,90
 Canada,Sri Lanka,visa on arrival
 Canada,Saint Vincent and the Grenadines,180
 Canada,Sudan,visa required
-Canada,Suriname,visa required
+Canada,Suriname,eta
 Canada,Sweden,90
 Canada,Switzerland,90
 Canada,Syria,e-visa
@@ -6336,7 +6336,7 @@ Cape Verde,Spain,visa required
 Cape Verde,Sri Lanka,visa on arrival
 Cape Verde,Saint Vincent and the Grenadines,90
 Cape Verde,Sudan,visa required
-Cape Verde,Suriname,visa required
+Cape Verde,Suriname,eta
 Cape Verde,Sweden,visa required
 Cape Verde,Switzerland,visa required
 Cape Verde,Syria,e-visa
@@ -6535,7 +6535,7 @@ Central African Republic,Spain,visa required
 Central African Republic,Sri Lanka,visa on arrival
 Central African Republic,Saint Vincent and the Grenadines,90
 Central African Republic,Sudan,visa required
-Central African Republic,Suriname,visa required
+Central African Republic,Suriname,eta
 Central African Republic,Sweden,visa required
 Central African Republic,Switzerland,visa required
 Central African Republic,Syria,e-visa
@@ -6734,7 +6734,7 @@ Chad,Spain,visa required
 Chad,Sri Lanka,visa on arrival
 Chad,Saint Vincent and the Grenadines,90
 Chad,Sudan,visa required
-Chad,Suriname,visa required
+Chad,Suriname,eta
 Chad,Sweden,visa required
 Chad,Switzerland,visa required
 Chad,Syria,e-visa
@@ -6933,7 +6933,7 @@ Chile,Spain,90
 Chile,Sri Lanka,visa on arrival
 Chile,Saint Vincent and the Grenadines,90
 Chile,Sudan,visa required
-Chile,Suriname,90
+Chile,Suriname,eta
 Chile,Sweden,90
 Chile,Switzerland,90
 Chile,Syria,e-visa
@@ -7132,7 +7132,7 @@ China,Spain,visa required
 China,Sri Lanka,visa on arrival
 China,Saint Vincent and the Grenadines,visa required
 China,Sudan,visa required
-China,Suriname,30
+China,Suriname,eta
 China,Sweden,visa required
 China,Switzerland,visa required
 China,Syria,e-visa
@@ -7331,7 +7331,7 @@ Colombia,Spain,90
 Colombia,Sri Lanka,visa on arrival
 Colombia,Saint Vincent and the Grenadines,90
 Colombia,Sudan,visa required
-Colombia,Suriname,visa required
+Colombia,Suriname,eta
 Colombia,Sweden,90
 Colombia,Switzerland,90
 Colombia,Syria,e-visa
@@ -7530,7 +7530,7 @@ Comoros,Spain,visa required
 Comoros,Sri Lanka,visa on arrival
 Comoros,Saint Vincent and the Grenadines,90
 Comoros,Sudan,visa required
-Comoros,Suriname,visa required
+Comoros,Suriname,eta
 Comoros,Sweden,visa required
 Comoros,Switzerland,visa required
 Comoros,Syria,e-visa
@@ -7729,7 +7729,7 @@ Congo,Spain,visa required
 Congo,Sri Lanka,visa on arrival
 Congo,Saint Vincent and the Grenadines,90
 Congo,Sudan,visa required
-Congo,Suriname,visa required
+Congo,Suriname,eta
 Congo,Sweden,visa required
 Congo,Switzerland,visa required
 Congo,Syria,e-visa
@@ -7928,7 +7928,7 @@ DR Congo,Spain,visa required
 DR Congo,Sri Lanka,visa on arrival
 DR Congo,Saint Vincent and the Grenadines,90
 DR Congo,Sudan,visa required
-DR Congo,Suriname,visa required
+DR Congo,Suriname,eta
 DR Congo,Sweden,visa required
 DR Congo,Switzerland,visa required
 DR Congo,Syria,e-visa
@@ -8127,7 +8127,7 @@ Costa Rica,Spain,90
 Costa Rica,Sri Lanka,visa on arrival
 Costa Rica,Saint Vincent and the Grenadines,90
 Costa Rica,Sudan,visa required
-Costa Rica,Suriname,visa required
+Costa Rica,Suriname,eta
 Costa Rica,Sweden,90
 Costa Rica,Switzerland,90
 Costa Rica,Syria,e-visa
@@ -8326,7 +8326,7 @@ Ivory Coast,Spain,visa required
 Ivory Coast,Sri Lanka,visa required
 Ivory Coast,Saint Vincent and the Grenadines,90
 Ivory Coast,Sudan,visa required
-Ivory Coast,Suriname,visa required
+Ivory Coast,Suriname,eta
 Ivory Coast,Sweden,visa required
 Ivory Coast,Switzerland,visa required
 Ivory Coast,Syria,e-visa
@@ -8525,7 +8525,7 @@ Croatia,Spain,visa free
 Croatia,Sri Lanka,visa on arrival
 Croatia,Saint Vincent and the Grenadines,90
 Croatia,Sudan,visa required
-Croatia,Suriname,visa required
+Croatia,Suriname,eta
 Croatia,Sweden,visa free
 Croatia,Switzerland,visa free
 Croatia,Syria,e-visa
@@ -8923,7 +8923,7 @@ Cyprus,Spain,visa free
 Cyprus,Sri Lanka,visa on arrival
 Cyprus,Saint Vincent and the Grenadines,90
 Cyprus,Sudan,visa required
-Cyprus,Suriname,visa required
+Cyprus,Suriname,eta
 Cyprus,Sweden,visa free
 Cyprus,Switzerland,visa free
 Cyprus,Syria,e-visa
@@ -9122,7 +9122,7 @@ Czech Republic,Spain,visa free
 Czech Republic,Sri Lanka,visa on arrival
 Czech Republic,Saint Vincent and the Grenadines,90
 Czech Republic,Sudan,visa required
-Czech Republic,Suriname,visa required
+Czech Republic,Suriname,eta
 Czech Republic,Sweden,visa free
 Czech Republic,Switzerland,visa free
 Czech Republic,Syria,e-visa
@@ -9321,7 +9321,7 @@ Denmark,Spain,visa free
 Denmark,Sri Lanka,visa on arrival
 Denmark,Saint Vincent and the Grenadines,90
 Denmark,Sudan,visa required
-Denmark,Suriname,90
+Denmark,Suriname,eta
 Denmark,Sweden,visa free
 Denmark,Switzerland,visa free
 Denmark,Syria,e-visa
@@ -9520,7 +9520,7 @@ Djibouti,Spain,visa required
 Djibouti,Sri Lanka,visa on arrival
 Djibouti,Saint Vincent and the Grenadines,90
 Djibouti,Sudan,visa required
-Djibouti,Suriname,visa required
+Djibouti,Suriname,eta
 Djibouti,Sweden,visa required
 Djibouti,Switzerland,visa required
 Djibouti,Syria,e-visa
@@ -10117,7 +10117,7 @@ Ecuador,Spain,visa required
 Ecuador,Sri Lanka,visa on arrival
 Ecuador,Saint Vincent and the Grenadines,90
 Ecuador,Sudan,visa required
-Ecuador,Suriname,visa required
+Ecuador,Suriname,eta
 Ecuador,Sweden,visa required
 Ecuador,Switzerland,visa required
 Ecuador,Syria,e-visa
@@ -10515,7 +10515,7 @@ El Salvador,Spain,90
 El Salvador,Sri Lanka,visa on arrival
 El Salvador,Saint Vincent and the Grenadines,90
 El Salvador,Sudan,visa required
-El Salvador,Suriname,visa required
+El Salvador,Suriname,eta
 El Salvador,Sweden,90
 El Salvador,Switzerland,90
 El Salvador,Syria,e-visa
@@ -10714,7 +10714,7 @@ Equatorial Guinea,Spain,visa required
 Equatorial Guinea,Sri Lanka,visa on arrival
 Equatorial Guinea,Saint Vincent and the Grenadines,90
 Equatorial Guinea,Sudan,visa required
-Equatorial Guinea,Suriname,visa required
+Equatorial Guinea,Suriname,eta
 Equatorial Guinea,Sweden,visa required
 Equatorial Guinea,Switzerland,visa required
 Equatorial Guinea,Syria,e-visa
@@ -11112,7 +11112,7 @@ Estonia,Spain,visa free
 Estonia,Sri Lanka,visa on arrival
 Estonia,Saint Vincent and the Grenadines,90
 Estonia,Sudan,visa required
-Estonia,Suriname,visa required
+Estonia,Suriname,eta
 Estonia,Sweden,visa free
 Estonia,Switzerland,visa free
 Estonia,Syria,e-visa
@@ -11311,7 +11311,7 @@ Swaziland,Spain,visa required
 Swaziland,Sri Lanka,visa on arrival
 Swaziland,Saint Vincent and the Grenadines,90
 Swaziland,Sudan,visa required
-Swaziland,Suriname,visa required
+Swaziland,Suriname,eta
 Swaziland,Sweden,visa required
 Swaziland,Switzerland,visa required
 Swaziland,Syria,e-visa
@@ -11510,7 +11510,7 @@ Ethiopia,Spain,visa required
 Ethiopia,Sri Lanka,visa on arrival
 Ethiopia,Saint Vincent and the Grenadines,90
 Ethiopia,Sudan,visa required
-Ethiopia,Suriname,visa required
+Ethiopia,Suriname,eta
 Ethiopia,Sweden,visa required
 Ethiopia,Switzerland,visa required
 Ethiopia,Syria,e-visa
@@ -11709,7 +11709,7 @@ Fiji,Spain,visa required
 Fiji,Sri Lanka,visa on arrival
 Fiji,Saint Vincent and the Grenadines,90
 Fiji,Sudan,visa required
-Fiji,Suriname,visa required
+Fiji,Suriname,eta
 Fiji,Sweden,visa required
 Fiji,Switzerland,visa required
 Fiji,Syria,e-visa
@@ -11908,7 +11908,7 @@ Finland,Spain,visa free
 Finland,Sri Lanka,visa on arrival
 Finland,Saint Vincent and the Grenadines,90
 Finland,Sudan,visa required
-Finland,Suriname,visa required
+Finland,Suriname,eta
 Finland,Sweden,visa free
 Finland,Switzerland,visa free
 Finland,Syria,e-visa
@@ -12107,7 +12107,7 @@ France,Spain,visa free
 France,Sri Lanka,visa on arrival
 France,Saint Vincent and the Grenadines,90
 France,Sudan,visa required
-France,Suriname,visa required
+France,Suriname,eta
 France,Sweden,visa free
 France,Switzerland,visa free
 France,Syria,e-visa
@@ -12306,7 +12306,7 @@ Gabon,Spain,visa required
 Gabon,Sri Lanka,visa on arrival
 Gabon,Saint Vincent and the Grenadines,90
 Gabon,Sudan,visa required
-Gabon,Suriname,visa required
+Gabon,Suriname,eta
 Gabon,Sweden,visa required
 Gabon,Switzerland,visa required
 Gabon,Syria,e-visa
@@ -12505,7 +12505,7 @@ Gambia,Spain,visa required
 Gambia,Sri Lanka,visa on arrival
 Gambia,Saint Vincent and the Grenadines,90
 Gambia,Sudan,visa required
-Gambia,Suriname,visa required
+Gambia,Suriname,eta
 Gambia,Sweden,visa required
 Gambia,Switzerland,visa required
 Gambia,Syria,e-visa
@@ -12704,7 +12704,7 @@ Georgia,Spain,90
 Georgia,Sri Lanka,visa on arrival
 Georgia,Saint Vincent and the Grenadines,90
 Georgia,Sudan,visa required
-Georgia,Suriname,visa required
+Georgia,Suriname,eta
 Georgia,Sweden,90
 Georgia,Switzerland,90
 Georgia,Syria,visa on arrival
@@ -12903,7 +12903,7 @@ Germany,Spain,visa free
 Germany,Sri Lanka,visa on arrival
 Germany,Saint Vincent and the Grenadines,90
 Germany,Sudan,visa required
-Germany,Suriname,visa required
+Germany,Suriname,eta
 Germany,Sweden,visa free
 Germany,Switzerland,visa free
 Germany,Syria,e-visa
@@ -13301,7 +13301,7 @@ Greece,Spain,visa free
 Greece,Sri Lanka,visa on arrival
 Greece,Saint Vincent and the Grenadines,90
 Greece,Sudan,visa required
-Greece,Suriname,visa required
+Greece,Suriname,eta
 Greece,Sweden,visa free
 Greece,Switzerland,visa free
 Greece,Syria,e-visa
@@ -13699,7 +13699,7 @@ Guatemala,Spain,90
 Guatemala,Sri Lanka,visa on arrival
 Guatemala,Saint Vincent and the Grenadines,90
 Guatemala,Sudan,visa required
-Guatemala,Suriname,visa required
+Guatemala,Suriname,eta
 Guatemala,Sweden,90
 Guatemala,Switzerland,90
 Guatemala,Syria,e-visa
@@ -13898,7 +13898,7 @@ Guinea,Spain,visa required
 Guinea,Sri Lanka,visa on arrival
 Guinea,Saint Vincent and the Grenadines,90
 Guinea,Sudan,visa required
-Guinea,Suriname,visa required
+Guinea,Suriname,eta
 Guinea,Sweden,visa required
 Guinea,Switzerland,visa required
 Guinea,Syria,e-visa
@@ -14097,7 +14097,7 @@ Guinea-Bissau,Spain,visa required
 Guinea-Bissau,Sri Lanka,visa on arrival
 Guinea-Bissau,Saint Vincent and the Grenadines,90
 Guinea-Bissau,Sudan,visa required
-Guinea-Bissau,Suriname,visa required
+Guinea-Bissau,Suriname,eta
 Guinea-Bissau,Sweden,visa required
 Guinea-Bissau,Switzerland,visa required
 Guinea-Bissau,Syria,e-visa
@@ -14694,7 +14694,7 @@ Honduras,Spain,90
 Honduras,Sri Lanka,visa on arrival
 Honduras,Saint Vincent and the Grenadines,90
 Honduras,Sudan,visa required
-Honduras,Suriname,visa required
+Honduras,Suriname,eta
 Honduras,Sweden,90
 Honduras,Switzerland,90
 Honduras,Syria,e-visa
@@ -14893,7 +14893,7 @@ Hong Kong,Spain,90
 Hong Kong,Sri Lanka,visa on arrival
 Hong Kong,Saint Vincent and the Grenadines,90
 Hong Kong,Sudan,visa required
-Hong Kong,Suriname,90
+Hong Kong,Suriname,eta
 Hong Kong,Sweden,90
 Hong Kong,Switzerland,90
 Hong Kong,Syria,e-visa
@@ -15092,7 +15092,7 @@ Hungary,Spain,visa free
 Hungary,Sri Lanka,visa on arrival
 Hungary,Saint Vincent and the Grenadines,90
 Hungary,Sudan,visa required
-Hungary,Suriname,visa required
+Hungary,Suriname,eta
 Hungary,Sweden,visa free
 Hungary,Switzerland,visa free
 Hungary,Syria,e-visa
@@ -15291,7 +15291,7 @@ Iceland,Spain,visa free
 Iceland,Sri Lanka,visa on arrival
 Iceland,Saint Vincent and the Grenadines,90
 Iceland,Sudan,visa required
-Iceland,Suriname,visa required
+Iceland,Suriname,eta
 Iceland,Sweden,visa free
 Iceland,Switzerland,visa free
 Iceland,Syria,e-visa
@@ -15689,7 +15689,7 @@ Indonesia,Spain,visa required
 Indonesia,Sri Lanka,visa on arrival
 Indonesia,Saint Vincent and the Grenadines,90
 Indonesia,Sudan,visa required
-Indonesia,Suriname,visa required
+Indonesia,Suriname,eta
 Indonesia,Sweden,visa required
 Indonesia,Switzerland,visa required
 Indonesia,Syria,e-visa
@@ -15888,7 +15888,7 @@ Iran,Spain,visa required
 Iran,Sri Lanka,visa on arrival
 Iran,Saint Vincent and the Grenadines,visa required
 Iran,Sudan,visa required
-Iran,Suriname,visa required
+Iran,Suriname,eta
 Iran,Sweden,visa required
 Iran,Switzerland,visa required
 Iran,Syria,visa on arrival
@@ -16087,7 +16087,7 @@ Iraq,Spain,visa required
 Iraq,Sri Lanka,visa on arrival
 Iraq,Saint Vincent and the Grenadines,visa required
 Iraq,Sudan,visa required
-Iraq,Suriname,visa required
+Iraq,Suriname,eta
 Iraq,Sweden,visa required
 Iraq,Switzerland,visa required
 Iraq,Syria,e-visa
@@ -16286,7 +16286,7 @@ Ireland,Spain,visa free
 Ireland,Sri Lanka,visa on arrival
 Ireland,Saint Vincent and the Grenadines,90
 Ireland,Sudan,visa required
-Ireland,Suriname,visa required
+Ireland,Suriname,eta
 Ireland,Sweden,visa free
 Ireland,Switzerland,visa free
 Ireland,Syria,e-visa
@@ -16684,7 +16684,7 @@ Italy,Spain,visa free
 Italy,Sri Lanka,visa on arrival
 Italy,Saint Vincent and the Grenadines,90
 Italy,Sudan,visa required
-Italy,Suriname,visa required
+Italy,Suriname,eta
 Italy,Sweden,visa free
 Italy,Switzerland,visa free
 Italy,Syria,e-visa
@@ -17082,7 +17082,7 @@ Japan,Spain,90
 Japan,Sri Lanka,visa on arrival
 Japan,Saint Vincent and the Grenadines,90
 Japan,Sudan,visa required
-Japan,Suriname,visa required
+Japan,Suriname,eta
 Japan,Sweden,90
 Japan,Switzerland,90
 Japan,Syria,e-visa
@@ -17281,7 +17281,7 @@ Jordan,Spain,visa required
 Jordan,Sri Lanka,visa on arrival
 Jordan,Saint Vincent and the Grenadines,visa required
 Jordan,Sudan,visa required
-Jordan,Suriname,visa required
+Jordan,Suriname,eta
 Jordan,Sweden,visa required
 Jordan,Switzerland,visa required
 Jordan,Syria,visa free
@@ -17480,7 +17480,7 @@ Kazakhstan,Spain,visa required
 Kazakhstan,Sri Lanka,visa on arrival
 Kazakhstan,Saint Vincent and the Grenadines,90
 Kazakhstan,Sudan,visa required
-Kazakhstan,Suriname,visa required
+Kazakhstan,Suriname,eta
 Kazakhstan,Sweden,visa required
 Kazakhstan,Switzerland,visa required
 Kazakhstan,Syria,visa on arrival
@@ -17878,7 +17878,7 @@ Kiribati,Spain,90
 Kiribati,Sri Lanka,visa on arrival
 Kiribati,Saint Vincent and the Grenadines,90
 Kiribati,Sudan,visa required
-Kiribati,Suriname,visa required
+Kiribati,Suriname,eta
 Kiribati,Sweden,90
 Kiribati,Switzerland,90
 Kiribati,Syria,e-visa
@@ -18077,7 +18077,7 @@ Kosovo,Spain,90
 Kosovo,Sri Lanka,visa on arrival
 Kosovo,Saint Vincent and the Grenadines,90
 Kosovo,Sudan,visa required
-Kosovo,Suriname,visa required
+Kosovo,Suriname,eta
 Kosovo,Sweden,90
 Kosovo,Switzerland,90
 Kosovo,Syria,e-visa
@@ -18276,7 +18276,7 @@ Kuwait,Spain,visa required
 Kuwait,Sri Lanka,visa on arrival
 Kuwait,Saint Vincent and the Grenadines,90
 Kuwait,Sudan,visa free
-Kuwait,Suriname,visa required
+Kuwait,Suriname,eta
 Kuwait,Sweden,visa required
 Kuwait,Switzerland,visa required
 Kuwait,Syria,visa free
@@ -18475,7 +18475,7 @@ Kyrgyzstan,Spain,visa required
 Kyrgyzstan,Sri Lanka,visa on arrival
 Kyrgyzstan,Saint Vincent and the Grenadines,90
 Kyrgyzstan,Sudan,visa required
-Kyrgyzstan,Suriname,visa required
+Kyrgyzstan,Suriname,eta
 Kyrgyzstan,Sweden,visa required
 Kyrgyzstan,Switzerland,visa required
 Kyrgyzstan,Syria,visa on arrival
@@ -18674,7 +18674,7 @@ Laos,Spain,visa required
 Laos,Sri Lanka,visa on arrival
 Laos,Saint Vincent and the Grenadines,90
 Laos,Sudan,visa required
-Laos,Suriname,visa required
+Laos,Suriname,eta
 Laos,Sweden,visa required
 Laos,Switzerland,visa required
 Laos,Syria,e-visa
@@ -18873,7 +18873,7 @@ Latvia,Spain,visa free
 Latvia,Sri Lanka,visa on arrival
 Latvia,Saint Vincent and the Grenadines,90
 Latvia,Sudan,visa required
-Latvia,Suriname,visa required
+Latvia,Suriname,eta
 Latvia,Sweden,visa free
 Latvia,Switzerland,visa free
 Latvia,Syria,e-visa
@@ -19072,7 +19072,7 @@ Lebanon,Spain,visa required
 Lebanon,Sri Lanka,visa on arrival
 Lebanon,Saint Vincent and the Grenadines,visa required
 Lebanon,Sudan,visa required
-Lebanon,Suriname,visa required
+Lebanon,Suriname,eta
 Lebanon,Sweden,visa required
 Lebanon,Switzerland,visa required
 Lebanon,Syria,visa free
@@ -19271,7 +19271,7 @@ Lesotho,Spain,visa required
 Lesotho,Sri Lanka,visa on arrival
 Lesotho,Saint Vincent and the Grenadines,90
 Lesotho,Sudan,visa required
-Lesotho,Suriname,visa required
+Lesotho,Suriname,eta
 Lesotho,Sweden,visa required
 Lesotho,Switzerland,visa required
 Lesotho,Syria,e-visa
@@ -19470,7 +19470,7 @@ Liberia,Spain,visa required
 Liberia,Sri Lanka,visa on arrival
 Liberia,Saint Vincent and the Grenadines,90
 Liberia,Sudan,visa required
-Liberia,Suriname,visa required
+Liberia,Suriname,eta
 Liberia,Sweden,visa required
 Liberia,Switzerland,visa required
 Liberia,Syria,e-visa
@@ -19669,7 +19669,7 @@ Libya,Spain,visa required
 Libya,Sri Lanka,visa on arrival
 Libya,Saint Vincent and the Grenadines,90
 Libya,Sudan,visa required
-Libya,Suriname,visa required
+Libya,Suriname,eta
 Libya,Sweden,visa required
 Libya,Switzerland,visa required
 Libya,Syria,e-visa
@@ -19868,7 +19868,7 @@ Liechtenstein,Spain,visa free
 Liechtenstein,Sri Lanka,visa on arrival
 Liechtenstein,Saint Vincent and the Grenadines,90
 Liechtenstein,Sudan,visa required
-Liechtenstein,Suriname,visa required
+Liechtenstein,Suriname,eta
 Liechtenstein,Sweden,visa free
 Liechtenstein,Switzerland,visa free
 Liechtenstein,Syria,e-visa
@@ -20067,7 +20067,7 @@ Lithuania,Spain,visa free
 Lithuania,Sri Lanka,visa on arrival
 Lithuania,Saint Vincent and the Grenadines,90
 Lithuania,Sudan,visa required
-Lithuania,Suriname,visa required
+Lithuania,Suriname,eta
 Lithuania,Sweden,visa free
 Lithuania,Switzerland,visa free
 Lithuania,Syria,e-visa
@@ -20266,7 +20266,7 @@ Luxembourg,Spain,visa free
 Luxembourg,Sri Lanka,visa on arrival
 Luxembourg,Saint Vincent and the Grenadines,90
 Luxembourg,Sudan,visa required
-Luxembourg,Suriname,visa required
+Luxembourg,Suriname,eta
 Luxembourg,Sweden,visa free
 Luxembourg,Switzerland,visa free
 Luxembourg,Syria,e-visa
@@ -20465,7 +20465,7 @@ Macao,Spain,90
 Macao,Sri Lanka,visa on arrival
 Macao,Saint Vincent and the Grenadines,90
 Macao,Sudan,visa required
-Macao,Suriname,visa required
+Macao,Suriname,eta
 Macao,Sweden,90
 Macao,Switzerland,90
 Macao,Syria,e-visa
@@ -20664,7 +20664,7 @@ Madagascar,Spain,visa required
 Madagascar,Sri Lanka,visa on arrival
 Madagascar,Saint Vincent and the Grenadines,90
 Madagascar,Sudan,visa required
-Madagascar,Suriname,visa required
+Madagascar,Suriname,eta
 Madagascar,Sweden,visa required
 Madagascar,Switzerland,visa required
 Madagascar,Syria,e-visa
@@ -20863,7 +20863,7 @@ Malawi,Spain,visa required
 Malawi,Sri Lanka,visa on arrival
 Malawi,Saint Vincent and the Grenadines,90
 Malawi,Sudan,visa required
-Malawi,Suriname,visa required
+Malawi,Suriname,eta
 Malawi,Sweden,visa required
 Malawi,Switzerland,visa required
 Malawi,Syria,e-visa
@@ -21062,7 +21062,7 @@ Malaysia,Spain,90
 Malaysia,Sri Lanka,visa on arrival
 Malaysia,Saint Vincent and the Grenadines,90
 Malaysia,Sudan,visa on arrival
-Malaysia,Suriname,30
+Malaysia,Suriname,eta
 Malaysia,Sweden,90
 Malaysia,Switzerland,90
 Malaysia,Syria,visa on arrival
@@ -21261,7 +21261,7 @@ Maldives,Spain,visa required
 Maldives,Sri Lanka,visa on arrival
 Maldives,Saint Vincent and the Grenadines,90
 Maldives,Sudan,visa required
-Maldives,Suriname,visa required
+Maldives,Suriname,eta
 Maldives,Sweden,visa required
 Maldives,Switzerland,visa required
 Maldives,Syria,e-visa
@@ -21460,7 +21460,7 @@ Mali,Spain,visa required
 Mali,Sri Lanka,visa on arrival
 Mali,Saint Vincent and the Grenadines,90
 Mali,Sudan,visa required
-Mali,Suriname,visa required
+Mali,Suriname,eta
 Mali,Sweden,visa required
 Mali,Switzerland,visa required
 Mali,Syria,e-visa
@@ -21659,7 +21659,7 @@ Malta,Spain,visa free
 Malta,Sri Lanka,visa on arrival
 Malta,Saint Vincent and the Grenadines,90
 Malta,Sudan,visa required
-Malta,Suriname,visa required
+Malta,Suriname,eta
 Malta,Sweden,visa free
 Malta,Switzerland,visa free
 Malta,Syria,e-visa
@@ -21858,7 +21858,7 @@ Marshall Islands,Spain,90
 Marshall Islands,Sri Lanka,visa on arrival
 Marshall Islands,Saint Vincent and the Grenadines,90
 Marshall Islands,Sudan,visa required
-Marshall Islands,Suriname,visa required
+Marshall Islands,Suriname,eta
 Marshall Islands,Sweden,90
 Marshall Islands,Switzerland,90
 Marshall Islands,Syria,e-visa
@@ -22057,7 +22057,7 @@ Mauritania,Spain,visa required
 Mauritania,Sri Lanka,visa on arrival
 Mauritania,Saint Vincent and the Grenadines,90
 Mauritania,Sudan,visa required
-Mauritania,Suriname,visa required
+Mauritania,Suriname,eta
 Mauritania,Sweden,visa required
 Mauritania,Switzerland,visa required
 Mauritania,Syria,visa free
@@ -22256,7 +22256,7 @@ Mauritius,Spain,90
 Mauritius,Sri Lanka,visa on arrival
 Mauritius,Saint Vincent and the Grenadines,90
 Mauritius,Sudan,visa required
-Mauritius,Suriname,visa required
+Mauritius,Suriname,eta
 Mauritius,Sweden,90
 Mauritius,Switzerland,90
 Mauritius,Syria,e-visa
@@ -22455,7 +22455,7 @@ Mexico,Spain,90
 Mexico,Sri Lanka,visa on arrival
 Mexico,Saint Vincent and the Grenadines,90
 Mexico,Sudan,visa required
-Mexico,Suriname,visa required
+Mexico,Suriname,eta
 Mexico,Sweden,90
 Mexico,Switzerland,90
 Mexico,Syria,e-visa
@@ -22654,7 +22654,7 @@ Micronesia,Spain,90
 Micronesia,Sri Lanka,visa on arrival
 Micronesia,Saint Vincent and the Grenadines,90
 Micronesia,Sudan,visa required
-Micronesia,Suriname,visa required
+Micronesia,Suriname,eta
 Micronesia,Sweden,90
 Micronesia,Switzerland,90
 Micronesia,Syria,e-visa
@@ -22853,7 +22853,7 @@ Moldova,Spain,90
 Moldova,Sri Lanka,visa on arrival
 Moldova,Saint Vincent and the Grenadines,90
 Moldova,Sudan,visa required
-Moldova,Suriname,visa required
+Moldova,Suriname,eta
 Moldova,Sweden,90
 Moldova,Switzerland,90
 Moldova,Syria,visa on arrival
@@ -23052,7 +23052,7 @@ Monaco,Spain,90
 Monaco,Sri Lanka,visa on arrival
 Monaco,Saint Vincent and the Grenadines,90
 Monaco,Sudan,visa required
-Monaco,Suriname,visa required
+Monaco,Suriname,eta
 Monaco,Sweden,90
 Monaco,Switzerland,90
 Monaco,Syria,e-visa
@@ -23251,7 +23251,7 @@ Mongolia,Spain,visa required
 Mongolia,Sri Lanka,visa on arrival
 Mongolia,Saint Vincent and the Grenadines,90
 Mongolia,Sudan,visa required
-Mongolia,Suriname,visa required
+Mongolia,Suriname,eta
 Mongolia,Sweden,visa required
 Mongolia,Switzerland,visa required
 Mongolia,Syria,e-visa
@@ -23450,7 +23450,7 @@ Montenegro,Spain,90
 Montenegro,Sri Lanka,visa on arrival
 Montenegro,Saint Vincent and the Grenadines,90
 Montenegro,Sudan,visa required
-Montenegro,Suriname,visa required
+Montenegro,Suriname,eta
 Montenegro,Sweden,90
 Montenegro,Switzerland,90
 Montenegro,Syria,e-visa
@@ -23649,7 +23649,7 @@ Morocco,Spain,visa required
 Morocco,Sri Lanka,visa on arrival
 Morocco,Saint Vincent and the Grenadines,90
 Morocco,Sudan,visa required
-Morocco,Suriname,visa required
+Morocco,Suriname,eta
 Morocco,Sweden,visa required
 Morocco,Switzerland,visa required
 Morocco,Syria,visa free
@@ -23848,7 +23848,7 @@ Mozambique,Spain,visa required
 Mozambique,Sri Lanka,visa on arrival
 Mozambique,Saint Vincent and the Grenadines,90
 Mozambique,Sudan,visa required
-Mozambique,Suriname,visa required
+Mozambique,Suriname,eta
 Mozambique,Sweden,visa required
 Mozambique,Switzerland,visa required
 Mozambique,Syria,e-visa
@@ -24047,7 +24047,7 @@ Myanmar,Spain,visa required
 Myanmar,Sri Lanka,visa on arrival
 Myanmar,Saint Vincent and the Grenadines,90
 Myanmar,Sudan,visa required
-Myanmar,Suriname,visa required
+Myanmar,Suriname,eta
 Myanmar,Sweden,visa required
 Myanmar,Switzerland,visa required
 Myanmar,Syria,e-visa
@@ -24246,7 +24246,7 @@ Namibia,Spain,visa required
 Namibia,Sri Lanka,visa on arrival
 Namibia,Saint Vincent and the Grenadines,90
 Namibia,Sudan,visa required
-Namibia,Suriname,visa required
+Namibia,Suriname,eta
 Namibia,Sweden,visa required
 Namibia,Switzerland,visa required
 Namibia,Syria,e-visa
@@ -24445,7 +24445,7 @@ Nauru,Spain,visa required
 Nauru,Sri Lanka,visa on arrival
 Nauru,Saint Vincent and the Grenadines,90
 Nauru,Sudan,visa required
-Nauru,Suriname,visa required
+Nauru,Suriname,eta
 Nauru,Sweden,visa required
 Nauru,Switzerland,visa required
 Nauru,Syria,e-visa
@@ -24843,7 +24843,7 @@ Netherlands,Spain,visa free
 Netherlands,Sri Lanka,visa on arrival
 Netherlands,Saint Vincent and the Grenadines,90
 Netherlands,Sudan,visa required
-Netherlands,Suriname,visa required
+Netherlands,Suriname,eta
 Netherlands,Sweden,visa free
 Netherlands,Switzerland,visa free
 Netherlands,Syria,e-visa
@@ -25042,7 +25042,7 @@ New Zealand,Spain,90
 New Zealand,Sri Lanka,visa on arrival
 New Zealand,Saint Vincent and the Grenadines,90
 New Zealand,Sudan,visa required
-New Zealand,Suriname,visa required
+New Zealand,Suriname,eta
 New Zealand,Sweden,90
 New Zealand,Switzerland,90
 New Zealand,Syria,e-visa
@@ -25241,7 +25241,7 @@ Nicaragua,Spain,90
 Nicaragua,Sri Lanka,visa on arrival
 Nicaragua,Saint Vincent and the Grenadines,90
 Nicaragua,Sudan,visa required
-Nicaragua,Suriname,visa required
+Nicaragua,Suriname,eta
 Nicaragua,Sweden,90
 Nicaragua,Switzerland,90
 Nicaragua,Syria,e-visa
@@ -25440,7 +25440,7 @@ Niger,Spain,visa required
 Niger,Sri Lanka,visa on arrival
 Niger,Saint Vincent and the Grenadines,90
 Niger,Sudan,visa required
-Niger,Suriname,visa required
+Niger,Suriname,eta
 Niger,Sweden,visa required
 Niger,Switzerland,visa required
 Niger,Syria,e-visa
@@ -25838,7 +25838,7 @@ North Korea,Spain,visa required
 North Korea,Sri Lanka,no admission
 North Korea,Saint Vincent and the Grenadines,90
 North Korea,Sudan,visa required
-North Korea,Suriname,visa required
+North Korea,Suriname,eta
 North Korea,Sweden,visa required
 North Korea,Switzerland,visa required
 North Korea,Syria,e-visa
@@ -26037,7 +26037,7 @@ North Macedonia,Spain,90
 North Macedonia,Sri Lanka,visa on arrival
 North Macedonia,Saint Vincent and the Grenadines,90
 North Macedonia,Sudan,visa required
-North Macedonia,Suriname,visa required
+North Macedonia,Suriname,eta
 North Macedonia,Sweden,90
 North Macedonia,Switzerland,90
 North Macedonia,Syria,e-visa
@@ -26236,7 +26236,7 @@ Norway,Spain,visa free
 Norway,Sri Lanka,visa on arrival
 Norway,Saint Vincent and the Grenadines,90
 Norway,Sudan,visa required
-Norway,Suriname,visa required
+Norway,Suriname,eta
 Norway,Sweden,visa free
 Norway,Switzerland,visa free
 Norway,Syria,e-visa
@@ -26435,7 +26435,7 @@ Oman,Spain,visa required
 Oman,Sri Lanka,visa on arrival
 Oman,Saint Vincent and the Grenadines,90
 Oman,Sudan,visa required
-Oman,Suriname,visa required
+Oman,Suriname,eta
 Oman,Sweden,visa required
 Oman,Switzerland,visa required
 Oman,Syria,visa free
@@ -26833,7 +26833,7 @@ Palau,Spain,90
 Palau,Sri Lanka,visa on arrival
 Palau,Saint Vincent and the Grenadines,90
 Palau,Sudan,visa required
-Palau,Suriname,visa required
+Palau,Suriname,eta
 Palau,Sweden,90
 Palau,Switzerland,90
 Palau,Syria,e-visa
@@ -27032,7 +27032,7 @@ Palestine,Spain,visa required
 Palestine,Sri Lanka,visa on arrival
 Palestine,Saint Vincent and the Grenadines,visa required
 Palestine,Sudan,visa required
-Palestine,Suriname,visa required
+Palestine,Suriname,eta
 Palestine,Sweden,visa required
 Palestine,Switzerland,visa required
 Palestine,Syria,no admission
@@ -27231,7 +27231,7 @@ Panama,Spain,90
 Panama,Sri Lanka,visa on arrival
 Panama,Saint Vincent and the Grenadines,90
 Panama,Sudan,visa required
-Panama,Suriname,visa required
+Panama,Suriname,eta
 Panama,Sweden,90
 Panama,Switzerland,90
 Panama,Syria,e-visa
@@ -27430,7 +27430,7 @@ Papua New Guinea,Spain,visa required
 Papua New Guinea,Sri Lanka,visa on arrival
 Papua New Guinea,Saint Vincent and the Grenadines,90
 Papua New Guinea,Sudan,visa required
-Papua New Guinea,Suriname,visa required
+Papua New Guinea,Suriname,eta
 Papua New Guinea,Sweden,visa required
 Papua New Guinea,Switzerland,visa required
 Papua New Guinea,Syria,e-visa
@@ -27629,7 +27629,7 @@ Paraguay,Spain,90
 Paraguay,Sri Lanka,visa on arrival
 Paraguay,Saint Vincent and the Grenadines,90
 Paraguay,Sudan,visa required
-Paraguay,Suriname,visa required
+Paraguay,Suriname,eta
 Paraguay,Sweden,90
 Paraguay,Switzerland,90
 Paraguay,Syria,e-visa
@@ -27828,7 +27828,7 @@ Peru,Spain,90
 Peru,Sri Lanka,visa on arrival
 Peru,Saint Vincent and the Grenadines,90
 Peru,Sudan,visa required
-Peru,Suriname,visa required
+Peru,Suriname,eta
 Peru,Sweden,90
 Peru,Switzerland,90
 Peru,Syria,e-visa
@@ -28027,7 +28027,7 @@ Philippines,Spain,visa required
 Philippines,Sri Lanka,visa on arrival
 Philippines,Saint Vincent and the Grenadines,90
 Philippines,Sudan,visa required
-Philippines,Suriname,30
+Philippines,Suriname,eta
 Philippines,Sweden,visa required
 Philippines,Switzerland,visa required
 Philippines,Syria,e-visa
@@ -28226,7 +28226,7 @@ Poland,Spain,visa free
 Poland,Sri Lanka,visa on arrival
 Poland,Saint Vincent and the Grenadines,90
 Poland,Sudan,visa required
-Poland,Suriname,visa required
+Poland,Suriname,eta
 Poland,Sweden,visa free
 Poland,Switzerland,visa free
 Poland,Syria,e-visa
@@ -28425,7 +28425,7 @@ Portugal,Spain,visa free
 Portugal,Sri Lanka,visa on arrival
 Portugal,Saint Vincent and the Grenadines,90
 Portugal,Sudan,visa required
-Portugal,Suriname,visa required
+Portugal,Suriname,eta
 Portugal,Sweden,visa free
 Portugal,Switzerland,visa free
 Portugal,Syria,e-visa
@@ -28624,7 +28624,7 @@ Qatar,Spain,visa required
 Qatar,Sri Lanka,visa on arrival
 Qatar,Saint Vincent and the Grenadines,90
 Qatar,Sudan,30
-Qatar,Suriname,visa required
+Qatar,Suriname,eta
 Qatar,Sweden,visa required
 Qatar,Switzerland,visa required
 Qatar,Syria,visa free
@@ -28823,7 +28823,7 @@ Romania,Spain,visa free
 Romania,Sri Lanka,visa on arrival
 Romania,Saint Vincent and the Grenadines,90
 Romania,Sudan,visa required
-Romania,Suriname,visa required
+Romania,Suriname,eta
 Romania,Sweden,visa free
 Romania,Switzerland,visa free
 Romania,Syria,e-visa
@@ -29022,7 +29022,7 @@ Russia,Spain,visa required
 Russia,Sri Lanka,visa on arrival
 Russia,Saint Vincent and the Grenadines,90
 Russia,Sudan,visa required
-Russia,Suriname,visa required
+Russia,Suriname,eta
 Russia,Sweden,visa required
 Russia,Switzerland,visa required
 Russia,Syria,e-visa
@@ -29221,7 +29221,7 @@ Rwanda,Spain,visa required
 Rwanda,Sri Lanka,visa on arrival
 Rwanda,Saint Vincent and the Grenadines,90
 Rwanda,Sudan,visa required
-Rwanda,Suriname,visa required
+Rwanda,Suriname,eta
 Rwanda,Sweden,visa required
 Rwanda,Switzerland,visa required
 Rwanda,Syria,e-visa
@@ -29818,7 +29818,7 @@ Samoa,Spain,90
 Samoa,Sri Lanka,visa on arrival
 Samoa,Saint Vincent and the Grenadines,90
 Samoa,Sudan,visa required
-Samoa,Suriname,visa required
+Samoa,Suriname,eta
 Samoa,Sweden,90
 Samoa,Switzerland,90
 Samoa,Syria,e-visa
@@ -30017,7 +30017,7 @@ San Marino,Spain,90
 San Marino,Sri Lanka,visa on arrival
 San Marino,Saint Vincent and the Grenadines,90
 San Marino,Sudan,visa required
-San Marino,Suriname,visa required
+San Marino,Suriname,eta
 San Marino,Sweden,90
 San Marino,Switzerland,90
 San Marino,Syria,e-visa
@@ -30216,7 +30216,7 @@ Sao Tome and Principe,Spain,visa required
 Sao Tome and Principe,Sri Lanka,visa on arrival
 Sao Tome and Principe,Saint Vincent and the Grenadines,90
 Sao Tome and Principe,Sudan,visa required
-Sao Tome and Principe,Suriname,visa required
+Sao Tome and Principe,Suriname,eta
 Sao Tome and Principe,Sweden,visa required
 Sao Tome and Principe,Switzerland,visa required
 Sao Tome and Principe,Syria,e-visa
@@ -30415,7 +30415,7 @@ Saudi Arabia,Spain,visa required
 Saudi Arabia,Sri Lanka,visa on arrival
 Saudi Arabia,Saint Vincent and the Grenadines,90
 Saudi Arabia,Sudan,visa required
-Saudi Arabia,Suriname,visa required
+Saudi Arabia,Suriname,eta
 Saudi Arabia,Sweden,visa required
 Saudi Arabia,Switzerland,visa required
 Saudi Arabia,Syria,visa free
@@ -30614,7 +30614,7 @@ Senegal,Spain,visa required
 Senegal,Sri Lanka,visa on arrival
 Senegal,Saint Vincent and the Grenadines,90
 Senegal,Sudan,visa required
-Senegal,Suriname,visa required
+Senegal,Suriname,eta
 Senegal,Sweden,visa required
 Senegal,Switzerland,visa required
 Senegal,Syria,e-visa
@@ -30813,7 +30813,7 @@ Serbia,Spain,90
 Serbia,Sri Lanka,visa on arrival
 Serbia,Saint Vincent and the Grenadines,90
 Serbia,Sudan,visa required
-Serbia,Suriname,30
+Serbia,Suriname,eta
 Serbia,Sweden,90
 Serbia,Switzerland,90
 Serbia,Syria,e-visa
@@ -31012,7 +31012,7 @@ Seychelles,Spain,90
 Seychelles,Sri Lanka,90
 Seychelles,Saint Vincent and the Grenadines,90
 Seychelles,Sudan,visa required
-Seychelles,Suriname,visa required
+Seychelles,Suriname,eta
 Seychelles,Sweden,90
 Seychelles,Switzerland,90
 Seychelles,Syria,e-visa
@@ -31211,7 +31211,7 @@ Sierra Leone,Spain,visa required
 Sierra Leone,Sri Lanka,visa on arrival
 Sierra Leone,Saint Vincent and the Grenadines,90
 Sierra Leone,Sudan,visa required
-Sierra Leone,Suriname,visa required
+Sierra Leone,Suriname,eta
 Sierra Leone,Sweden,visa required
 Sierra Leone,Switzerland,visa required
 Sierra Leone,Syria,e-visa
@@ -31410,7 +31410,7 @@ Singapore,Spain,90
 Singapore,Sri Lanka,30
 Singapore,Saint Vincent and the Grenadines,90
 Singapore,Sudan,visa required
-Singapore,Suriname,visa required
+Singapore,Suriname,eta
 Singapore,Sweden,90
 Singapore,Switzerland,90
 Singapore,Syria,e-visa
@@ -31609,7 +31609,7 @@ Slovakia,Spain,visa free
 Slovakia,Sri Lanka,visa on arrival
 Slovakia,Saint Vincent and the Grenadines,90
 Slovakia,Sudan,visa required
-Slovakia,Suriname,visa required
+Slovakia,Suriname,eta
 Slovakia,Sweden,visa free
 Slovakia,Switzerland,visa free
 Slovakia,Syria,e-visa
@@ -31808,7 +31808,7 @@ Slovenia,Spain,visa free
 Slovenia,Sri Lanka,visa on arrival
 Slovenia,Saint Vincent and the Grenadines,90
 Slovenia,Sudan,visa required
-Slovenia,Suriname,visa required
+Slovenia,Suriname,eta
 Slovenia,Sweden,visa free
 Slovenia,Switzerland,visa free
 Slovenia,Syria,e-visa
@@ -32007,7 +32007,7 @@ Solomon Islands,Spain,90
 Solomon Islands,Sri Lanka,visa on arrival
 Solomon Islands,Saint Vincent and the Grenadines,90
 Solomon Islands,Sudan,visa required
-Solomon Islands,Suriname,visa required
+Solomon Islands,Suriname,eta
 Solomon Islands,Sweden,90
 Solomon Islands,Switzerland,90
 Solomon Islands,Syria,e-visa
@@ -32604,7 +32604,7 @@ South Korea,Spain,90
 South Korea,Sri Lanka,visa on arrival
 South Korea,Saint Vincent and the Grenadines,90
 South Korea,Sudan,visa required
-South Korea,Suriname,visa required
+South Korea,Suriname,eta
 South Korea,Sweden,90
 South Korea,Switzerland,90
 South Korea,Syria,e-visa
@@ -32803,7 +32803,7 @@ South Sudan,Spain,visa required
 South Sudan,Sri Lanka,visa on arrival
 South Sudan,Saint Vincent and the Grenadines,90
 South Sudan,Sudan,visa required
-South Sudan,Suriname,visa required
+South Sudan,Suriname,eta
 South Sudan,Sweden,visa required
 South Sudan,Switzerland,visa required
 South Sudan,Syria,e-visa
@@ -33002,7 +33002,7 @@ Spain,Spain,-1
 Spain,Sri Lanka,visa on arrival
 Spain,Saint Vincent and the Grenadines,90
 Spain,Sudan,visa required
-Spain,Suriname,visa required
+Spain,Suriname,eta
 Spain,Sweden,visa free
 Spain,Switzerland,visa free
 Spain,Syria,e-visa
@@ -33599,7 +33599,7 @@ Sudan,Spain,visa required
 Sudan,Sri Lanka,visa on arrival
 Sudan,Saint Vincent and the Grenadines,90
 Sudan,Sudan,-1
-Sudan,Suriname,visa required
+Sudan,Suriname,eta
 Sudan,Sweden,visa required
 Sudan,Switzerland,visa required
 Sudan,Syria,visa free
@@ -33997,7 +33997,7 @@ Sweden,Spain,visa free
 Sweden,Sri Lanka,visa on arrival
 Sweden,Saint Vincent and the Grenadines,90
 Sweden,Sudan,visa required
-Sweden,Suriname,90
+Sweden,Suriname,eta
 Sweden,Sweden,-1
 Sweden,Switzerland,visa free
 Sweden,Syria,e-visa
@@ -34196,7 +34196,7 @@ Switzerland,Spain,visa free
 Switzerland,Sri Lanka,visa on arrival
 Switzerland,Saint Vincent and the Grenadines,90
 Switzerland,Sudan,visa required
-Switzerland,Suriname,visa required
+Switzerland,Suriname,eta
 Switzerland,Sweden,visa free
 Switzerland,Switzerland,-1
 Switzerland,Syria,e-visa
@@ -34594,7 +34594,7 @@ Taiwan,Spain,90
 Taiwan,Sri Lanka,visa on arrival
 Taiwan,Saint Vincent and the Grenadines,90
 Taiwan,Sudan,visa required
-Taiwan,Suriname,visa required
+Taiwan,Suriname,eta
 Taiwan,Sweden,90
 Taiwan,Switzerland,90
 Taiwan,Syria,e-visa
@@ -34793,7 +34793,7 @@ Tajikistan,Spain,visa required
 Tajikistan,Sri Lanka,visa on arrival
 Tajikistan,Saint Vincent and the Grenadines,90
 Tajikistan,Sudan,visa required
-Tajikistan,Suriname,visa required
+Tajikistan,Suriname,eta
 Tajikistan,Sweden,visa required
 Tajikistan,Switzerland,visa required
 Tajikistan,Syria,visa on arrival
@@ -34992,7 +34992,7 @@ Tanzania,Spain,visa required
 Tanzania,Sri Lanka,visa on arrival
 Tanzania,Saint Vincent and the Grenadines,90
 Tanzania,Sudan,visa required
-Tanzania,Suriname,visa required
+Tanzania,Suriname,eta
 Tanzania,Sweden,visa required
 Tanzania,Switzerland,visa required
 Tanzania,Syria,e-visa
@@ -35191,7 +35191,7 @@ Thailand,Spain,visa required
 Thailand,Sri Lanka,visa on arrival
 Thailand,Saint Vincent and the Grenadines,90
 Thailand,Sudan,visa required
-Thailand,Suriname,visa required
+Thailand,Suriname,eta
 Thailand,Sweden,visa required
 Thailand,Switzerland,visa required
 Thailand,Syria,e-visa
@@ -35390,7 +35390,7 @@ Timor-Leste,Spain,90
 Timor-Leste,Sri Lanka,visa on arrival
 Timor-Leste,Saint Vincent and the Grenadines,90
 Timor-Leste,Sudan,visa required
-Timor-Leste,Suriname,visa required
+Timor-Leste,Suriname,eta
 Timor-Leste,Sweden,90
 Timor-Leste,Switzerland,90
 Timor-Leste,Syria,e-visa
@@ -35589,7 +35589,7 @@ Togo,Spain,visa required
 Togo,Sri Lanka,visa on arrival
 Togo,Saint Vincent and the Grenadines,90
 Togo,Sudan,visa required
-Togo,Suriname,visa required
+Togo,Suriname,eta
 Togo,Sweden,visa required
 Togo,Switzerland,visa required
 Togo,Syria,e-visa
@@ -35788,7 +35788,7 @@ Tonga,Spain,90
 Tonga,Sri Lanka,visa on arrival
 Tonga,Saint Vincent and the Grenadines,90
 Tonga,Sudan,visa required
-Tonga,Suriname,visa required
+Tonga,Suriname,eta
 Tonga,Sweden,90
 Tonga,Switzerland,90
 Tonga,Syria,e-visa
@@ -36186,7 +36186,7 @@ Tunisia,Spain,visa required
 Tunisia,Sri Lanka,visa on arrival
 Tunisia,Saint Vincent and the Grenadines,90
 Tunisia,Sudan,visa required
-Tunisia,Suriname,90
+Tunisia,Suriname,e-visa
 Tunisia,Sweden,visa required
 Tunisia,Switzerland,visa required
 Tunisia,Syria,visa free
@@ -36385,7 +36385,7 @@ Turkey,Spain,visa required
 Turkey,Sri Lanka,visa on arrival
 Turkey,Saint Vincent and the Grenadines,90
 Turkey,Sudan,visa on arrival
-Turkey,Suriname,visa required
+Turkey,Suriname,eta
 Turkey,Sweden,visa required
 Turkey,Switzerland,visa required
 Turkey,Syria,90
@@ -36584,7 +36584,7 @@ Turkmenistan,Spain,visa required
 Turkmenistan,Sri Lanka,visa on arrival
 Turkmenistan,Saint Vincent and the Grenadines,90
 Turkmenistan,Sudan,visa required
-Turkmenistan,Suriname,visa required
+Turkmenistan,Suriname,eta
 Turkmenistan,Sweden,visa required
 Turkmenistan,Switzerland,visa required
 Turkmenistan,Syria,visa on arrival
@@ -36783,7 +36783,7 @@ Tuvalu,Spain,90
 Tuvalu,Sri Lanka,visa on arrival
 Tuvalu,Saint Vincent and the Grenadines,90
 Tuvalu,Sudan,visa required
-Tuvalu,Suriname,visa required
+Tuvalu,Suriname,eta
 Tuvalu,Sweden,90
 Tuvalu,Switzerland,90
 Tuvalu,Syria,e-visa
@@ -36982,7 +36982,7 @@ Uganda,Spain,visa required
 Uganda,Sri Lanka,visa on arrival
 Uganda,Saint Vincent and the Grenadines,90
 Uganda,Sudan,visa required
-Uganda,Suriname,visa required
+Uganda,Suriname,eta
 Uganda,Sweden,visa required
 Uganda,Switzerland,visa required
 Uganda,Syria,e-visa
@@ -37181,7 +37181,7 @@ Ukraine,Spain,90
 Ukraine,Sri Lanka,visa on arrival
 Ukraine,Saint Vincent and the Grenadines,90
 Ukraine,Sudan,visa required
-Ukraine,Suriname,visa required
+Ukraine,Suriname,eta
 Ukraine,Sweden,90
 Ukraine,Switzerland,90
 Ukraine,Syria,e-visa
@@ -37380,7 +37380,7 @@ United Arab Emirates,Spain,90
 United Arab Emirates,Sri Lanka,visa on arrival
 United Arab Emirates,Saint Vincent and the Grenadines,90
 United Arab Emirates,Sudan,visa free
-United Arab Emirates,Suriname,visa required
+United Arab Emirates,Suriname,eta
 United Arab Emirates,Sweden,90
 United Arab Emirates,Switzerland,90
 United Arab Emirates,Syria,visa free
@@ -37579,7 +37579,7 @@ United Kingdom,Spain,90
 United Kingdom,Sri Lanka,visa on arrival
 United Kingdom,Saint Vincent and the Grenadines,180
 United Kingdom,Sudan,visa required
-United Kingdom,Suriname,visa required
+United Kingdom,Suriname,eta
 United Kingdom,Sweden,90
 United Kingdom,Switzerland,90
 United Kingdom,Syria,e-visa
@@ -37778,7 +37778,7 @@ United States,Spain,90
 United States,Sri Lanka,visa on arrival
 United States,Saint Vincent and the Grenadines,180
 United States,Sudan,visa required
-United States,Suriname,visa required
+United States,Suriname,eta
 United States,Sweden,90
 United States,Switzerland,90
 United States,Syria,e-visa
@@ -37977,7 +37977,7 @@ Uruguay,Spain,90
 Uruguay,Sri Lanka,visa on arrival
 Uruguay,Saint Vincent and the Grenadines,90
 Uruguay,Sudan,visa required
-Uruguay,Suriname,visa required
+Uruguay,Suriname,eta
 Uruguay,Sweden,90
 Uruguay,Switzerland,90
 Uruguay,Syria,e-visa
@@ -38176,7 +38176,7 @@ Uzbekistan,Spain,visa required
 Uzbekistan,Sri Lanka,visa on arrival
 Uzbekistan,Saint Vincent and the Grenadines,90
 Uzbekistan,Sudan,visa required
-Uzbekistan,Suriname,visa required
+Uzbekistan,Suriname,eta
 Uzbekistan,Sweden,visa required
 Uzbekistan,Switzerland,visa required
 Uzbekistan,Syria,visa on arrival
@@ -38375,7 +38375,7 @@ Vanuatu,Spain,visa required
 Vanuatu,Sri Lanka,visa on arrival
 Vanuatu,Saint Vincent and the Grenadines,90
 Vanuatu,Sudan,visa required
-Vanuatu,Suriname,visa required
+Vanuatu,Suriname,eta
 Vanuatu,Sweden,visa required
 Vanuatu,Switzerland,visa required
 Vanuatu,Syria,e-visa
@@ -38574,7 +38574,7 @@ Vatican,Spain,90
 Vatican,Sri Lanka,visa on arrival
 Vatican,Saint Vincent and the Grenadines,90
 Vatican,Sudan,visa required
-Vatican,Suriname,visa required
+Vatican,Suriname,eta
 Vatican,Sweden,90
 Vatican,Switzerland,90
 Vatican,Syria,e-visa
@@ -38972,7 +38972,7 @@ Vietnam,Spain,visa required
 Vietnam,Sri Lanka,visa on arrival
 Vietnam,Saint Vincent and the Grenadines,90
 Vietnam,Sudan,visa required
-Vietnam,Suriname,visa required
+Vietnam,Suriname,eta
 Vietnam,Sweden,visa required
 Vietnam,Switzerland,visa required
 Vietnam,Syria,e-visa
@@ -39171,7 +39171,7 @@ Yemen,Spain,visa required
 Yemen,Sri Lanka,visa on arrival
 Yemen,Saint Vincent and the Grenadines,90
 Yemen,Sudan,30
-Yemen,Suriname,visa required
+Yemen,Suriname,eta
 Yemen,Sweden,visa required
 Yemen,Switzerland,visa required
 Yemen,Syria,visa free
@@ -39569,7 +39569,7 @@ Zimbabwe,Spain,visa required
 Zimbabwe,Sri Lanka,visa on arrival
 Zimbabwe,Saint Vincent and the Grenadines,90
 Zimbabwe,Sudan,visa required
-Zimbabwe,Suriname,visa required
+Zimbabwe,Suriname,eta
 Zimbabwe,Sweden,visa required
 Zimbabwe,Switzerland,visa required
 Zimbabwe,Syria,e-visa
