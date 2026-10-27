@@ -1,3 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
 .playwright-mcp/
+__pycache__/
+*.pyc
