@@ -1613,7 +1613,7 @@ AU,BT,e-visa
 AU,BO,90
 AU,BA,90
 AU,BW,90
-AU,BR,90
+AU,BR,e-visa
 AU,BN,visa on arrival
 AU,BG,90
 AU,BF,visa on arrival
@@ -5991,7 +5991,7 @@ CA,BT,e-visa
 CA,BO,90
 CA,BA,90
 CA,BW,90
-CA,BR,90
+CA,BR,e-visa
 CA,BN,90
 CA,BG,90
 CA,BF,visa on arrival
@@ -37632,7 +37632,7 @@ US,BT,e-visa
 US,BO,visa on arrival
 US,BA,90
 US,BW,90
-US,BR,90
+US,BR,e-visa
 US,BN,90
 US,BG,90
 US,BF,visa on arrival
