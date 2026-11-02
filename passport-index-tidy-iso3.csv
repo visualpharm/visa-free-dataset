@@ -1613,7 +1613,7 @@ AUS,BTN,e-visa
 AUS,BOL,90
 AUS,BIH,90
 AUS,BWA,90
-AUS,BRA,90
+AUS,BRA,e-visa
 AUS,BRN,visa on arrival
 AUS,BGR,90
 AUS,BFA,visa on arrival
@@ -5991,7 +5991,7 @@ CAN,BTN,e-visa
 CAN,BOL,90
 CAN,BIH,90
 CAN,BWA,90
-CAN,BRA,90
+CAN,BRA,e-visa
 CAN,BRN,90
 CAN,BGR,90
 CAN,BFA,visa on arrival
@@ -37632,7 +37632,7 @@ USA,BTN,e-visa
 USA,BOL,visa on arrival
 USA,BIH,90
 USA,BWA,90
-USA,BRA,90
+USA,BRA,e-visa
 USA,BRN,90
 USA,BGR,90
 USA,BFA,visa on arrival

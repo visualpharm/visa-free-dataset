@@ -446,6 +446,24 @@ Source: [Visa policy of Suriname (Wikipedia)](https://en.wikipedia.org/wiki/Visa
 
 ---
 
+### Brazil (e-Visa for US, Canadian and Australian passports)
+
+*Applied 2026-11-02. Reflects Brazil's reciprocity rule in force since 10 April 2025.*
+
+Brazil ended visa-free entry for holders of US, Canadian and Australian passports on 10 April 2025, on reciprocity grounds. They now need an e-Visa before travel, issued through the official portal; the dataset still listed them at 90 days visa-free.
+
+| Passport | Destination | Old | New |
+|----------|-------------|-----|-----|
+| United States | Brazil | 90 | e-visa |
+| Canada | Brazil | 90 | e-visa |
+| Australia | Brazil | 90 | e-visa |
+
+Coded `e-visa`, as the dataset codes other online visas issued before travel.
+
+Sources: Brazil's official e-Visa portal for these three passports ([brazil.vfsevisa.com](https://brazil.vfsevisa.com/)); [Government of Canada travel advice for Brazil](https://travel.gc.ca/destinations/brazil) (updated 26 October 2026), which lists a visa as required for tourism.
+
+---
+
 ### Watching (announced, not yet effective — not applied)
 
 - **Thailand**: Cabinet approved (19 May 2026) replacing the 60-day visa exemption with 30-day (54 countries) / 15-day tiers; takes effect 15 days after Royal Gazette publication, which had not happened as of 11 June 2026. [TAT](https://www.tatnews.org/2026/05/thai-cabinet-approves-revision-of-60-day-visa-exemption-scheme-pending-royal-gazette-publication/)
